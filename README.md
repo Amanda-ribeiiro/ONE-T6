@@ -22,8 +22,8 @@
 
 <div align="center">
     <a href="https://cursos.alura.com.br/formacao-fase-selecao-one6" target="_blank">
-        <img src="https://img.shields.io/badge/▶-2a2a2a?style=for-the-badge&logo=movie&logoColor=2a2a2a" alt="logo movie" />
-        <img src="https://img.shields.io/badge/Acessar%20o%20Curso%20na%20Plataforma-DE8B36?style=for-the-badge" alt="Link do Curso" />
+        <img src="https://img.shields.io/badge/▶-2a2a2a?style=for-the-badge&logo=movie&logoColor=2a2a2a" target="_blank" alt="logo movie" />
+        <img src="https://img.shields.io/badge/Acessar%20o%20Curso%20na%20Plataforma-DE8B36?style=for-the-badge" target="_blank" alt="Link do Curso" />
     </a>
 </div>
 
@@ -47,7 +47,7 @@
           <tr>
             <td>Desenvolvimento Pessoal T6 - ONE</td>
             <td align=center>20/03/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/formacao-desenvolvimento-pessoal-turma6-one">link</a></td>
+            <td align="center"><a href="https://cursos.alura.com.br/formacao-desenvolvimento-pessoal-turma6-one" target="_blank">link</a></td>
             <td align="center">4</td>
             <td align="center">38h</td>
           </tr>

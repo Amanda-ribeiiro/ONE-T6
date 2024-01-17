@@ -21,7 +21,7 @@
 
 
 <div align="center">
-    <a href="https://cursos.alura.com.br/formacao-fase-selecao-one6" target="_blank">
+    <a href="https://cursos.alura.com.br/dashboard" target="_blank">
         <img src="https://img.shields.io/badge/▶-2a2a2a?style=for-the-badge&logo=movie&logoColor=2a2a2a" target="_blank" alt="logo movie" />
         <img src="https://img.shields.io/badge/Acessar%20o%20Curso%20na%20Plataforma-DE8B36?style=for-the-badge" target="_blank" alt="Link do Curso" />
     </a>

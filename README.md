@@ -97,7 +97,7 @@
       </tr>
       <tr>
         <th align="left">
-          <a href="" target="_blank">
+          <a href="https://cursos.alura.com.br/category/programacao" target="_blank">
             <img src="https://img.shields.io/badge/Iniciante%20em%20Programa%C3%A7%C3%A3o-%20Informativa?style=for-the-badge&logoColor=%23565656&labelColor=%23FFFFFF&color=%23A5CAD2&link=https%3A%2F%2Fcursos.alura.com.br%2Fformacao-fase-selecao-one6" alt="badge curso"/>
           </a>
         </th>

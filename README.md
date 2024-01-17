@@ -56,6 +56,68 @@
   </details>
 </div>
 
+<div>
+  <details>
+    <summary>Lógica de programação</summary>
+    <br>
+      <table align="center">
+        <thead>
+          <tr>
+            <th>Curso</th>
+            <th>Prazo</th>
+            <th>Acessar</th>
+            <th>Modulos</th>
+            <th>Carga Horária</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Lógica de programação: mergulhe em programação com JavaScript</td>
+            <td align=center>25/01/24</td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript" target="_blank">link</a></td>
+            <td align="center">5</td>
+            <td align="center">6h</td>
+          </tr>
+          <tr>
+            <td>Lógica de programação: explore funções e listas</td>
+            <td align=center>-</td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/logica-programacao-funcoes-listas" target="_blank">link</a></td>
+            <td align="center">5</td>
+            <td align="center">6h</td>
+          </tr>
+          <tr>
+            <td>Lógica de programação: praticando com desafios</td>
+            <td align=center>-</td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/logica-programacao-praticando-desafios" target="_blank">link</a></td>
+            <td align="center">5</td>
+            <td align="center">8h</td>
+          </tr>
+          <tr>
+            <td>JavaScript e HTML: pratique lógica com desenhos, animações e um jogo</td>
+            <td align=center>-</td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/logica-programacao-pratica-com-desenho-animacoes-em-jogo" target="_blank">link</a></td>
+            <td align="center">5</td>
+            <td align="center">10h</td>
+          </tr>
+          <tr>
+            <td>JavaScript e HTML: desenvolva um jogo e pratique lógica de programação</td>
+            <td align=center>-</td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/logica-programacao-javascript-html" target="_blank">link</a></td>
+            <td align="center">9</td>
+            <td align="center">16h</td>
+          </tr>
+          <tr>
+            <td>Git e GitHub: compartilhando e colaborando em projetos</td>
+            <td align=center>-</td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/git-github-compartilhando-colaborando-projetos" target="_blank">link</a></td>
+            <td align="center">5</td>
+            <td align="center">8h</td>
+          </tr>
+        </tbody>
+      </table>
+  </details>
+</div>
+
 <br>
 <div align="center">
   <table>

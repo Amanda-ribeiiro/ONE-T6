@@ -6,6 +6,12 @@ A biblioteca vai possuir recursos que você pode utilizar durante o desenvolvime
 
 Um outro detalhe é que os frameworks podem conter diversas bibliotecas dentro deles, porque como acabamos de ver, as bibliotecas são ferramentas que trazem alguma funcionalidade para nossa aplicação, e simplificam a criação de funções complexas.
 
+- Template Strings
+
+```bash
+`colocar o texto sobre crase e o valor da variável sobre ${variavel}`
+```
+
 ## Referências
 - [Guia de JavaScript](https://www.alura.com.br/artigos/javascript?_gl=1*1s39vtu*_ga*MjA2MTQxMDE1MS4xNjg1MDQyNjc1*_ga_1EPWSW3PCS*MTcwNTUzMjA5MC4yMS4xLjE3MDU1MzQ4NDcuMC4wLjA.*_fplc*NlRpaVh6ZDg3bnBXQ1pRejJCOVE0YjBaMVlsOGxScDM2bmJtMGIzZkdYNTNieEVkcm9tUmU3dkMyaExEUGJmeWpTakpvelExZVZCN1JPZ1EzUUglMkJZWSUyQnliTzYzYW9nN3N3MWdvRVQxUllHTnZ3NVJWbTRQMzVaYnRFUWI1USUzRCUzRA..)
 - [Hoisting no Javascript](https://www.alura.com.br/artigos/hoisting-no-javascript)

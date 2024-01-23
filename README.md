@@ -178,7 +178,7 @@
       <tr>
         <th align="left">
           <a href="https://www.youtube.com/watch?v=XlfNkUeHYgE" target="_blank">
-            <img src="https://img.shields.io/badge/Live%20da%20Lan%C3%A7%C3%A3amento%20Fase%20Decodificador%20-%20Informativa?style=for-the-badge&logoColor=%23565656&labelColor=%23FFFFFF&color=%23A5CAD2&link=https%3A%2F%2Fcursos.alura.com.br%2Fformacao-fase-selecao-one6" alt="badge curso"/>
+            <img src="https://img.shields.io/badge/Live%20de%20Lan%C3%A7amento%20Fase%20Decodificador%20-%20Informativa?style=for-the-badge&logoColor=%23565656&labelColor=%23FFFFFF&color=%23A5CAD2&link=https%3A%2F%2Fcursos.alura.com.br%2Fformacao-fase-selecao-one6" alt="badge curso"/>
           </a>
         </th>
         <th align="center">23/01/24</th>

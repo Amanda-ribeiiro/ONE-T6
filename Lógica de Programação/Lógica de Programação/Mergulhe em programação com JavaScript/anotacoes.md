@@ -26,6 +26,8 @@ Um outro detalhe é que os frameworks podem conter diversas bibliotecas dentro d
 - [Johnny Five](http://johnny-five.io/)
 - [A documentação da linguagem de programação JavaScript](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
 - [Guia de JavaScript: o que é e como aprender a linguagem mais popular do mundo?](https://www.alura.com.br/artigos/javascript?_gl=1*rnhasz*_ga*MjA2MTQxMDE1MS4xNjg1MDQyNjc1*_ga_1EPWSW3PCS*MTcwNTUzMjA5MC4yMS4xLjE3MDU1MzQ4NDcuMC4wLjA.*_fplc*NlRpaVh6ZDg3bnBXQ1pRejJCOVE0YjBaMVlsOGxScDM2bmJtMGIzZkdYNTNieEVkcm9tUmU3dkMyaExEUGJmeWpTakpvelExZVZCN1JPZ1EzUUglMkJZWSUyQnliTzYzYW9nN3N3MWdvRVQxUllHTnZ3NVJWbTRQMzVaYnRFUWI1USUzRCUzRA..)
+- [Referência JavaScript - Gramática léxica](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Lexical_grammar#automatic_semicolon_insertion)
+- [Utilizar ou não ponto e vírgula no fim das linhas em JavaScript?](https://pt.stackoverflow.com/questions/3341/utilizar-ou-n%C3%A3o-ponto-e-v%C3%ADrgula-no-fim-das-linhas-em-javascript)
 
 
 

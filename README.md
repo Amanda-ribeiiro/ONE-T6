@@ -21,7 +21,7 @@
 
 
 <div align="center">
-    <a href="https://cursos.alura.com.br/dashboard" target="_blank">
+    <a href="https://cursos.alura.com.br/formacao-logica-de-programacao-turma-6-oracle-one" target="_blank">
         <img src="https://img.shields.io/badge/▶-2a2a2a?style=for-the-badge&logo=movie&logoColor=2a2a2a" target="_blank" alt="logo movie" />
         <img src="https://img.shields.io/badge/Acessar%20o%20Curso%20na%20Plataforma-DE8B36?style=for-the-badge" target="_blank" alt="Link do Curso" />
     </a>
@@ -168,7 +168,7 @@
       </tr>
       <tr>
         <th align="left">
-          <a href="" target="_blank">
+          <a href="https://www.alura.com.br/challenges/challenge-one-logica/sprint01-construa-decodificador-texto-com-javascript" target="_blank">
             <img src="https://img.shields.io/badge/Liberacion%20Challenge%20Encriptador%20-%20Informativa?style=for-the-badge&logoColor=%23565656&labelColor=%23FFFFFF&color=%23A5CAD2&link=https%3A%2F%2Fcursos.alura.com.br%2Fformacao-fase-selecao-one6" alt="badge curso"/>
           </a>
         </th>
@@ -177,7 +177,7 @@
       </tr>
       <tr>
         <th align="left">
-          <a href="" target="_blank">
+          <a href="https://www.youtube.com/watch?v=XlfNkUeHYgE" target="_blank">
             <img src="https://img.shields.io/badge/Live%20da%20Lan%C3%A7%C3%A3amento%20Fase%20Decodificador%20-%20Informativa?style=for-the-badge&logoColor=%23565656&labelColor=%23FFFFFF&color=%23A5CAD2&link=https%3A%2F%2Fcursos.alura.com.br%2Fformacao-fase-selecao-one6" alt="badge curso"/>
           </a>
         </th>

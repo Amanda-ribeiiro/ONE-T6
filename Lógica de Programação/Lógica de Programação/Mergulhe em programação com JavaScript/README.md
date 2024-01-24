@@ -31,7 +31,7 @@
 
 <div>
   <h1><a href="https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript">Lógica de programação: mergulhe em programação com JavaScript</a></h1>
-      <table align="left">
+      <table align="center">
         <thead>
           <tr>
             <th>Curso</th>
@@ -80,3 +80,21 @@
         </tbody>
       </table>  
 </div>
+
+<br>
+<br>
+
+<details>
+    <summary>
+        <button style="padding: 10px 20px; background-color: #AB7AD6; color: #FFF; border: none; border-radius: 5px; box-shadow: 0px 2px 2px rgba(0,0,0,0.3); transition: box-shadow 0.3s ease;" onclick="this.style.boxShadow='inset 0px 2px 2px rgba(0,0,0,0.3)'">Certificado
+        </button>
+    </summary>
+    <br>
+        <div align="center">
+            <a href="https://github.com/Amanda-ribeiiro/ONE-T6/assets/108890154/c3d873c8-433a-4d8e-98f8-94dfc196c0ce" target="_blank">
+                <img src="https://github.com/Amanda-ribeiiro/ONE-T6/assets/108890154/fde8ca12-af2b-4602-8e00-3a1c0d7b0a35" width=700 height=500 alt="Certificado">
+            </a>
+        </div>
+</details>
+
+

@@ -39,6 +39,7 @@
             <th>Acessar</th>
             <th>Modulos</th>
             <th>Carga Horária</th>
+            <th>Certificado</th>
           </tr>
         </thead>
         <tbody>
@@ -48,6 +49,11 @@
             <td align="center"><a href="https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript" target="_blank">link</a></td>
             <td align="center">5</td>
             <td align="center">6h</td>
+            <td align="center">
+                <a href="https://cursos.alura.com.br/certificate/amanda-ribeiro98/logica-programacao-mergulhe-programacao-javascript" target="_blank">
+                    <img align="center" alt="Link" src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=https://www.udemy.com/course/php-do-zero-a-maestria-com-projetos-incriveis/learn/lecture/22921128#overview">
+                </a>
+            </td>
           </tr>
           <tr>
             <td><a href="https://github.com/Amanda-ribeiiro/ONE-T6/tree/main/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Explore%20fun%C3%A7%C3%B5es%20e%20listas" target="_blank">Lógica de programação: explore funções e listas</a></td>
@@ -55,6 +61,11 @@
             <td align="center"><a href="https://cursos.alura.com.br/course/logica-programacao-funcoes-listas" target="_blank">link</a></td>
             <td align="center">5</td>
             <td align="center">6h</td>
+            <td align="center">
+                <a href="" target="_blank">
+                    <img align="center" alt="Link" src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=https://www.udemy.com/course/php-do-zero-a-maestria-com-projetos-incriveis/learn/lecture/22921128#overview">
+                </a>
+            </td>
           </tr>
           <tr>
             <td><a href="https://github.com/Amanda-ribeiiro/ONE-T6/tree/main/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Praticando%20com%20desafios" target="_blank">Lógica de programação: praticando com desafios</a></td>
@@ -62,6 +73,11 @@
             <td align="center"><a href="https://cursos.alura.com.br/course/logica-programacao-praticando-desafios" target="_blank">link</a></td>
             <td align="center">5</td>
             <td align="center">8h</td>
+            <td align="center">
+                <a href="" target="_blank">
+                    <img align="center" alt="Link" src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=https://www.udemy.com/course/php-do-zero-a-maestria-com-projetos-incriveis/learn/lecture/22921128#overview">
+                </a>
+            </td>
           </tr>
           <tr>
             <td><a href="https://github.com/Amanda-ribeiiro/ONE-T6/tree/main/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/JavaScript/Pratique%20l%C3%B3gica%20com%20desenhos%2C%20anima%C3%A7%C3%B5es%20e%20um%20jogo" target="_blank">JavaScript e HTML: pratique lógica com desenhos, animações e um jogo</a></td>
@@ -69,6 +85,11 @@
             <td align="center"><a href="https://cursos.alura.com.br/course/logica-programacao-pratica-com-desenho-animacoes-em-jogo" target="_blank">link</a></td>
             <td align="center">5</td>
             <td align="center">10h</td>
+            <td align="center">
+                <a href="" target="_blank">
+                    <img align="center" alt="Link" src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=https://www.udemy.com/course/php-do-zero-a-maestria-com-projetos-incriveis/learn/lecture/22921128#overview">
+                </a>
+            </td>
           </tr>
           <tr>
             <td><a href="https://github.com/Amanda-ribeiiro/ONE-T6/tree/main/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/JavaScript/Desenvolva%20um%20jogo%20e%20pratique%20l%C3%B3gica%20de%20programa%C3%A7%C3%A3o" target="_blank">JavaScript e HTML: desenvolva um jogo e pratique lógica de programação</a></td>
@@ -76,6 +97,11 @@
             <td align="center"><a href="https://cursos.alura.com.br/course/logica-programacao-javascript-html" target="_blank">link</a></td>
             <td align="center">9</td>
             <td align="center">16h</td>
+            <td align="center">
+                <a href="" target="_blank">
+                    <img align="center" alt="Link" src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=https://www.udemy.com/course/php-do-zero-a-maestria-com-projetos-incriveis/learn/lecture/22921128#overview">
+                </a>
+            </td>
           </tr>
           <tr>
             <td><a href="https://github.com/Amanda-ribeiiro/ONE-T6/tree/main/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Git%20e%20GitHub/Compartilhando%20e%20colaborando%20em%20projetos" target="_blank">Git e GitHub: compartilhando e colaborando em projetos</a></td>
@@ -83,6 +109,11 @@
             <td align="center"><a href="https://cursos.alura.com.br/course/git-github-compartilhando-colaborando-projetos" target="_blank">link</a></td>
             <td align="center">5</td>
             <td align="center">8h</td>
+            <td align="center">
+                <a href="" target="_blank">
+                    <img align="center" alt="Link" src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=https://www.udemy.com/course/php-do-zero-a-maestria-com-projetos-incriveis/learn/lecture/22921128#overview">
+                </a>
+            </td>
           </tr>
         </tbody>
       </table>

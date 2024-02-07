@@ -63,7 +63,7 @@
             <td align="center">6h</td>
             <td align="center">
                 <a href="" target="_blank">
-                    <img align="center" alt="Link" src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=https://www.udemy.com/course/php-do-zero-a-maestria-com-projetos-incriveis/learn/lecture/22921128#overview">
+                    <img align="center" alt="Link" src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=https://cursos.alura.com.br/certificate/amanda-ribeiro98/logica-programacao-funcoes-listas?lang=pt_BR">
                 </a>
             </td>
           </tr>

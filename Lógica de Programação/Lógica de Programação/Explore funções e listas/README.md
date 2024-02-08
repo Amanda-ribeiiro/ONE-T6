@@ -91,8 +91,8 @@
     </summary>
     <br>
         <div align="center">
-            <a href="" target="_blank">
-                <img src="" width=700 height=500 alt="Certificado">
+            <a href="https://github.com/Amanda-ribeiiro/ONE-T6/assets/108890154/be9216b7-c7f5-48e0-b2c5-26cde95ff587" target="_blank">
+                <img src="https://github.com/Amanda-ribeiiro/ONE-T6/assets/108890154/be9216b7-c7f5-48e0-b2c5-26cde95ff587" width=700 height=500 alt="Certificado">
             </a>
         </div>
 </details>

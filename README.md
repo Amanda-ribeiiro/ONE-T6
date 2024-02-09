@@ -81,7 +81,7 @@
             <td align="center">6h</td>
             <td align="center">
                 <a href="https://cursos.alura.com.br/certificate/amanda-ribeiro98/logica-programacao-mergulhe-programacao-javascript" target="_blank">
-                    <img align="center" alt="Link" src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=https://www.udemy.com/course/php-do-zero-a-maestria-com-projetos-incriveis/learn/lecture/22921128#overview">
+                    <img align="center" alt="Link" src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=https://cursos.alura.com.br/certificate/amanda-ribeiro98/logica-programacao-mergulhe-programacao-javascript">
                 </a>
             </td>
           </tr>
@@ -92,8 +92,8 @@
             <td align="center">5</td>
             <td align="center">6h</td>
             <td align="center">
-                <a href="" target="_blank">
-                    <img align="center" alt="Link" src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=https://www.udemy.com/course/php-do-zero-a-maestria-com-projetos-incriveis/learn/lecture/22921128#overview">
+                <a href="https://github.com/Amanda-ribeiiro/ONE-T6/assets/108890154/be9216b7-c7f5-48e0-b2c5-26cde95ff587" target="_blank">
+                    <img align="center" alt="Link" src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=https://github.com/Amanda-ribeiiro/ONE-T6/assets/108890154/be9216b7-c7f5-48e0-b2c5-26cde95ff587">
                 </a>
             </td>
           </tr>

@@ -7,4 +7,6 @@
 > No Google Chrome, digite o seguinte na barra de pesquisa: chrome://flags/. Em seguida, pesquise por "WebGL" na lista e ative-o, trocando de Disabled para Enabled.
 >
 > Depois disso, aparecerá um botão para reiniciar o Google Chrome. Reinicie o navegador e pronto.
-Se por acaso o seu navegador não for o Google Chrome, o procedimento é semelhante. O WebGL está desativado e precisa ser ativado.
+Se por acaso o seu navegador não for o Google Chrome, o procedimento é semelhante. O WebGL está desativado e precisa ser ativad
+>
+> alt+z pra nao quebrar o codigo e ir pra linha debaixo

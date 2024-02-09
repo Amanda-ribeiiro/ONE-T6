@@ -92,8 +92,8 @@
             <td align="center">5</td>
             <td align="center">6h</td>
             <td align="center">
-                <a href="https://github.com/Amanda-ribeiiro/ONE-T6/assets/108890154/be9216b7-c7f5-48e0-b2c5-26cde95ff587" target="_blank">
-                    <img align="center" alt="Link" src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=https://github.com/Amanda-ribeiiro/ONE-T6/assets/108890154/be9216b7-c7f5-48e0-b2c5-26cde95ff587">
+                <a href="https://cursos.alura.com.br/certificate/amanda-ribeiro98/logica-programacao-funcoes-listas" target="_blank">
+                    <img align="center" alt="Link" src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=https://cursos.alura.com.br/certificate/amanda-ribeiro98/logica-programacao-funcoes-listas">
                 </a>
             </td>
           </tr>

@@ -1,3 +1,12 @@
+[Emmet](https://docs.emmet.io/)
+> html: Gera a estrutura básica de um documento HTML.
+> 
+> ul>li*5: Cria uma lista não ordenada com cinco itens de lista.
+> 
+> div>h1+p: Cria uma div contendo um cabeçalho (h1) seguido de um parágrafo (p).
+> 
+> input[type=text]+input[type=password]: Cria dois campos de entrada, um para texto e outro para senha.
+
 [Como utilizar o Figma](https://cursos.alura.com.br/extra/alura-mais/como-front-end-utiliza-o-figma-c858)
 
 > Ativando o WebGL
@@ -10,3 +19,5 @@
 Se por acaso o seu navegador não for o Google Chrome, o procedimento é semelhante. O WebGL está desativado e precisa ser ativad
 >
 > alt+z pra nao quebrar o codigo e ir pra linha debaixo
+
+[Semântica](https://developer.mozilla.org/pt-BR/docs/Glossary/Semantics)

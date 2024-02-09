@@ -30,7 +30,7 @@
 <br>
 
 <div>
-  <h1><a href="https://cursos.alura.com.br/course/html-css-ambiente-arquivos-tags/task/118936">HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags</a></h1>
+  <h1><a href="https://cursos.alura.com.br/course/html-css-ambiente-arquivos-tags">HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags</a></h1>
       <table align="center">
         <thead>
           <tr>

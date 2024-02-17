@@ -432,3 +432,154 @@ Explicando as siglas do BEM temos:
 .navbar__item {}
 .navbar__item--active {}
 ```
+
+**[Guia de Unidades no CSS](https://www.alura.com.br/artigos/guia-de-unidades-no-css?_gl=1*1ypycbg*_ga*MjA2MTQxMDE1MS4xNjg1MDQyNjc1*_ga_1EPWSW3PCS*MTcwODE4OTU3Ny4zNi4xLjE3MDgxOTAxOTEuMC4wLjA.*_fplc*V2F0WDFNU2p3VHdTQkpDaGwxRURIeGhLQzR4UXMzcVlMWFJ0TG1kQlhaR05uUjEzWE1YQmxlaVolMkZGNHpoY2JpbklRTHZ6UXhJUEt6RERRMVlKWEhaTmlTRlF2Y2J5YU5kd0dOSWlkeXklMkJnMlFBR2Z1TzdCRzZlQmJwRkhKQSUzRCUzRA..)**
+
+- **Medidas Absolutas**
+> São medidas que não estão referenciadas a qualquer outra unidade, ou seja, não dependem de um valor de referência. São unidades de medidas definidas pela física, como o píxel, centímetro, metro, etc...
+
+Essas medidas são fixas e não mudam de acordo com as especificações do dispositivo. Esse tipo de medida é indicada para quando conhecemos perfeitamente as características físicas e as configurações das mídias onde serão exibidos nossos projetos.
+
+- **Medidas Relativas**
+>  Essas medidas são calculadas tendo como base uma outra unidade de medida definida, como por exemplo <code>em</code> e o <code>rem</code> (veremos mais sobre essas duas medidas no decorrer do post). O uso delas é mais apropriado para que possamos fazer ajustes em diferentes dispositivos garantindo um layout consistente e fluido em diversas mídias.
+
+**Medidas absolutas no CSS**
+- **Píxels (px)**
+> píxel é o menor elemento em um dispositivo de exibição
+> o píxel do CSS NÃO é realmente um píxel da tela do dispositivo (hardware), e sim o que chamamos de píxel de referência que geralmente é maior do que o píxel real. O que acaba por torná-lo numa medida abstrata onde é necessário controlar o mapeamento desse píxel de referência para o píxel do hardware (acontece por debaixo dos panos!).
+
+A definição de píxel de referência no CSS é o ângulo visual(0.0213deg) de um píxel em um dispositivo com a densidade de 96dpi a uma distancia de um braço do leitor (28 polegadas)
+
+- **Points (pt)**
+> Essa medida é geralmente utilizada em propriedades relacionadas a fonte do seu projeto.
+>
+> Geralmente espera-se que essa medida seja utilizada em folhas de estilo para impressões, quando se precisa ter certeza do tamanho da fonte utilizada. Não é recomendada para a estilização em tela!
+
+- **in (inches/polegadas)**
+> Polegada ou inch em inglês é mais uma unidade de medida que conhecemos do mundo das medidas absolutas - geralmente vemos elas quando queremos comprar uma nova TV ou monitor , mas essa unidade também existe no mundo Web.
+
+- **Centímetro e Milímetro (cm / mm)**
+> Apesar de bastante comuns, tanto centímetro e milímetro são pouco usadas no CSS. Assim como o pt, o uso dessas duas é esperado para folhas de estilo para impressões (medidas mais precisas), evitando que elas sejam aplicadas para exibições em tela.
+
+- **Paica (pc)**
+> Também uma unidade pouco usada no mundo web, a Paica também vem para o CSS sendo herdada da tipografia. Por não ser uma unidade amplamente conhecida, ela acaba sendo fadada ao esquecimento, mas é sempre importante conhecermos todas as ferramentas que estão à nossa disposição. A relação entre as unidades absolutas é:
+
+```css
+1 in = 2,54cm = 25,4mm = 72pt = 6pc
+```
+
+**Medidas Relativas no CSS**
+- **Ems (em)**
+>  muda para os elementos filhos de acordo com o tamanho da fonte (font-size) do elemento pai:
+
+```css
+<style>
+    #pai{
+        font-size: 16px;
+    }
+
+    #filho{
+        font-size: 2em;
+    }
+</style>
+```
+
+```html
+<div id="pai">
+    div pai
+    <div id="filho">
+        div filho
+    </div>
+</div>
+```
+Para a div mais interna (<code>id=filho</code>), <code>1em</code> será igual a <code>16px</code>, seguindo a lógica, <code>2em</code> será igual a <code>32px</code> e assim por diante. Podemos colocar valores como 1.5 também! Nesse nosso caso, <code>1.5em</code> será igual a <code>24px</code> Quando expressamos tamanhos como <code>margin</code>, <code>padding</code> utilizando em, isso significa que eles serão relativos ao tamanho da fonte do elemento pai.
+
+- **Rems (rem, "root em")**
+> O REM vem como sucessor do EM e ambos compartilham a mesma lógica de funcionamento (<code>font-size</code>), porém a forma de implementação é diferente. Enquanto o em está diretamente relacionado ao tamanho da fonte do elemento pai, o rem está relacionado com o tamanho da fonte do elemento root (raiz), no caso, a <code>tag</code>.
+
+Exemplificando, sabemos que a tag <code>html</code> é a tag raiz de todo documento html. Dito isso, se definirmos que o font-size desse elemento será de 18px, então <code>1rem = 18px</code>, <code>2rem = 36px</code> e assim por diante... Normalmente os browsers especificam o tamanho default da fonte do elemento root (raiz) sendo <code>16px</code>
+
+> O motivo para isso é o suporte para essa medida. O chrome e o firefox suportavam tranquilamente, assim como o Opera e o Safari, porém, antigamente grande parte dos usuários utilizavam o IE, mais específicamente o IE 8, e esse browser não lidava muito bem com os rems, isso fazia com que os desenvolvedores precisassem optar por alguma unidade diferente, em muitos casos, o próprio em.
+
+Como disse acima, o valor base é 16px, e isso pode acabar gerando dificuldades para que encontremos alguns tamanhos padrões que costumam ser utilizados. Por exemplo, como faríamos para atingir um tamanho de 10px utilizando rem? Precisamos calcular.
+
+```css
+10px = 0.625rem
+12px = 0.75rem
+14px = 0.875rem
+16px = 1rem
+18px = 1.125rem
+```
+
+Essa solução utiliza <code>px</code>, <code>em</code> e <code>rem</code> de maneira bem definida. A ideia consiste em definir o font-size</code> do elemento root em píxel, módulos utilizando <code>rem</code> e elementos interiores aos módulos utilizando <code>em</code>, facilitando a manipulação do tamanho global que naturalmente escalará o tamanho para os módulos (utilizando <code>rem</code>) e esses por sua vez escalarão os elementos interiores (que utilizam em e referenciam ao elemento pai). Veja um exemplo dessa abordagem. No console será mostrado o tamanho atual da fonte.
+
+```javascript
+setInterval(function(){
+
+var el = document.querySelector('html');
+var style = window.getComputedStyle(el, null).getPropertyValue('font-size');
+var fontSize = parseFloat(style);
+console.log(fontSize);
+
+}, 500)
+```
+
+- **Porcentagem (%)**
+> A porcentagem permite que criemos módulos que sempre vão se readaptar para ocupar a quantidade especificada. Por exemplo, se definirmos um elemento tendo um tamanho de 50%, independente do dispositivo em questão, esse módulo sempre ocupará metade do espaço que lhe cabe (caso esteja dentro de algum outro elemento).
+
+```css
+var slider = document.getElementById('slider'),
+    mod = document.getElementById('mod'),
+    op = document.getElementById('op'),
+    op2 = document.getElementById('op2'),
+    op3 = document.getElementById('op3'),
+    half = document.getElementById('half');
+
+slider.onchange = function () {
+  mod.style.width = this.value + 'px';
+  mod.style.height = this.value + 'px';
+  op.innerHTML = `${this.value} px`;
+  op2.innerHTML = `${half.offsetWidth} px`
+  op3.innerHTML = `${half.offsetHeight} px`
+;}
+```
+> Veja também que o slider está alterando tanto a largura quanto a altura do elemento, mas se alterarmos cada um separadamente, também funcionará! Visto esse exemplo, podemos dizer que a porcentagem tem um comportamento um tanto parecido ao nosso já conhecido <code>em</code>, já que ele se relaciona diretamente com o tamanho da propriedade do elemento pai.
+
+- **Ex**
+> Diferentemente da forma como a EM e a REM funcionavam, essa unidade não se relaciona com o tamanho da fonte (<code>font-size</code>), mas com qual fonte está sendo utilizada naquele momento (<code>font-family</code>), mais especificamente ao tamanho do caractere x dessa fonte em questão (<code>x-height</code>).
+
+Como o browser sabe esse valor? Esse valor pode vir diretamente com a fonte, o browser pode medir o caractere em caixa baixa (lower case) e se esses dois não funcionarem, o browser estipula um valor de <code>0.5em</code> para <code>1ex</code>. 
+![image](https://github.com/Amanda-ribeiiro/ONE-T6/assets/108890154/b65b8712-4274-42d4-a33b-64a18b0bf6f9)
+
+> O uso dessa unidade está mais presente em ajustes tipográficos, nos dando um controle mais preciso quando o padrão definido para algumas tags não se adéqua corretamente ao nosso layout.
+
+- **Ch**
+> O <code>ch</code> (character unit) é definida na documentação como sendo a "medida avançada" da largura do caractere zero ("0").
+A ideia é que um elemento com, por exemplo 100ch de largura poderá comportar uma string de 100 caracteres dessa determinada fonte, caso essa fonte seja monospace (todos os caracteres têm o mesmo tamanho).
+
+A regra de 1ch = 1 caractere se aplica apenas se a fonte usada for monospace (largura fixa). Fontes com a largura variável, qualquer caractere pode ser mais largo ou menos largo que o zero ("0"):
+![image](https://github.com/Amanda-ribeiiro/ONE-T6/assets/108890154/504dc2a2-e06c-436b-8d8f-a7e521e36640)
+
+> A tipografia Courier (monospace) obedece a regra acima, porém as outras duas não! O que podemos tirar após observações é que normalmente 1ch é 20% - 30% mais largo, porém isso não é uma verdade absoluta e deve ser observado para cada fonte que você deseja aplicar
+
+- **Vw (viewport width)**
+> Viewport nada mais é que a área visível de uma página web para o seu usuário, essa viewport pode variar de acordo com o dispositivo, sendo menor em celulares e maior em desktops.
+
+Essa unidade se relaciona diretamente com a largura da viewport, onde 1vw representa 1% do tamanho da largura dessa área visível. A diferença entre vw e a % é bem semelhante a diferença entre em e rem, onde a % é relativa ao contexto local do elemento e o vw é relativo ao tamanho total da largura da viewport do usuário.
+
+- **Vh (viewport height)**
+> Essa unidade funciona da mesma forma que o vw, porém dessa vez, a referência será a altura e não a largura. Existem diversos [exemplos práticos](https://css-tricks.com/fun-viewport-units/) e interessantes de uso dessas duas unidades. 
+
+- **Vh (Vmin (viewport minimun)**
+> Anteriormente quando vimos vh e vw precisávamos escolher se gostaríamos de nos basear na altura (vh) ou na largura (vw) da viewport. Diferentemente das anteriores, o vmin utilizará como base a menor dimensão da viewport (altura x largura), vamos ao exemplo:
+> Imagine que estamos trabalhando com uma viewport de 1600px de altura e 900px de largura. Nesse caso, 1vmin terá o valor de 9px (1% da menor dimensão!), caso tenhamos 100vmin, esse será igual a 900px!
+
+No caso acima, a menor dimensão foi a da largura, porém se tivéssemos 300px para altura e 1400px para largura, nosso valor de referência seria o 300px! Sempre a menor dimensão!
+
+- **Vh (Vmin (Vmax (viewport maximum))**
+> Seguindo a mesma base lógica da unidade anterior, o vmax terá como valor de referência a maior dimensão da viewport. Ou seja, utilizando o mesmo exemplo, se tivermos 1600px de altura e 900px de largura, 1vmax será equivalente a 16px!
+
+No segundo exemplo ocorrerá a mesma inversão, tendo 300px para altura e 1400px para largura, 1vmax será equivalente a 14px. Dessa vez sempre será a maior dimensão!
+
+> ⚠️ **WARNING:** Na versão 9.0 do IE, o vmin foi implementado com um nome diferenciado (vm) Algumas versões do IE ainda não oferecem suporte para o vmax, nas novas versões isso foi corrigido.
+Algumas plataformas como o windows tendem a ser inconsistentes na maneira de como eles contam o tamanho da barra de scroll dos browsers. (diminui o viewport ou não) Sempre verifique o suporte dessas medidas, tenha sempre esse [link](https://caniuse.com/?search=vw) no cinto de utilidades.

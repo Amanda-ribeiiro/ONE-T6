@@ -15,7 +15,7 @@
 <link rel="stylesheet" href="reset.css">
 ```
 
-```html
+```css
 /* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
    License: none (public domain)
@@ -88,4 +88,277 @@ table {
 **Como utilizar:**
 ```html
 <link rel="stylesheet" href="normalize.css">
+```
+
+**Seletores**
+- Seletor de Tag
+
+```html
+<p>Esse parágrafo será azul.</p>
+```
+
+```css
+p {
+   color: blue;
+}
+```
+
+- Seletor de Classe
+
+```html
+<p class="exemplo">Este parágrafo terá tamanho de fonte 20px.</p>
+```
+
+```css
+.exemplo {
+   font-size: 20px;
+}
+```
+
+- Seletor de ID
+
+```html
+<div id="unico">O fundo deste div será amarelo.</div>
+```
+
+```css
+#unico {
+   background-color: yellow;
+}
+```
+
+- Seletor Universal CSS
+
+> O seletor universal * pode afetar todos os elementos da sua página
+
+```css
+* {
+  margin: 0;
+  padding: 0;
+}
+```
+
+- Seletor de Atributo CSS
+
+```html
+<a href="https://www.exemplo.com" target="_blank">Este link será vermelho.</a>
+```
+
+```css
+a[target="_blank"] {
+   color: red;
+}
+```
+
+**Combinadores**
+
+- Combinador Irmão Adjacente
+
+> O combinador irmão adjacente <code>+</code> seleciona o elemento que vem imediatamente depois do primeiro elemento.
+
+```html
+<h2>Título</h2>
+<p>Este parágrafo será verde.</p>
+<p>Este parágrafo não será afetado.</p>
+```
+```css
+h2 + p {
+  color: green;
+}
+```
+
+- Combinador Irmão Geral
+
+> O combinador irmão geral <code>~</code> é mais abrangente, selecionando todos os elementos que seguem o primeiro.
+
+```html
+<h2>Título</h2>
+<p>Este parágrafo será verde.</p>
+<p>Este parágrafo também será verde.</p>
+```
+```css
+h2 ~ p {
+  color: green;
+}
+```
+
+- Combinador de Filho
+
+> O combinador de filho <code>></code> seleciona apenas os elementos que são filhos diretos do primeiro elemento.
+
+```html
+<div>
+  <p>Este parágrafo será azul.</p>
+  <span><p>Este parágrafo não será azul, pois não é um filho direto do div.</p></span>
+</div>
+```
+```css
+div > p {
+  color: blue;
+}
+```
+
+- Combinador de Descendente
+
+> O combinador de descendente (espaço) é o mais generoso, selecionando todos os elementos que são descendentes do primeiro, sejam filhos diretos ou não.
+
+```html
+<div>
+  <p>Este parágrafo será azul.</p>
+  <span><p>Este parágrafo também será azul, mesmo não sendo um filho direto do div.</p></span>
+</div>
+```
+```css
+div p {
+  color: blue;
+}
+```
+
+**[Pseudo-classes](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Pseudo-classes)**
+
+- :nth-child() e :nth-of-type()
+
+> As pseudo-classes <code>:nth-child()</code> e <code>:nth-of-type()</code> selecionam elementos baseados em sua posição entre os irmãos.
+
+```html
+<ul>
+  <li>Este item não será afetado.</li>
+  <li>Este item será vermelho.</li>
+  <li>Este item não será afetado.</li>
+</ul>
+```
+```css
+li:nth-child(2) {
+  color: red;
+}
+```
+
+- :not()
+
+> A pseudo-classe <code>:not()</code> é uma forma de negação. Ela seleciona todos os elementos que não correspondem ao seletor dentro dos parênteses.
+
+```html
+<div class="classe">Este div não será azul.</div>
+<div>Este div será azul.</div>
+```
+```css
+div:not(.classe) {
+  color: blue;
+}
+```
+
+- :hover
+
+> A pseudo-classe <code>:hover</code> aplica estilos a um elemento quando o cursor do mouse está sobre ele.
+
+```html
+<button>Quando você passar o mouse por cima, este botão será amarelo.</button>
+```
+```css
+button:hover {
+  background-color: yellow;
+}
+```
+
+- :after e :before
+
+> As pseudo-classes <code>:after</code> e <code>:before</code> permitem a adição de conteúdo antes ou depois do conteúdo de um elemento.
+
+```html
+<p>Este parágrafo terá "Coramila: " antes de seu texto. Coramila é um pseudônimo para Camila.</p> 
+```
+```css
+p:before {
+  content: "Coramila: ";
+}
+```
+
+- :has
+
+> As pseudo-classes <code>:after</code> e <code>:before</code> permitem a adição de conteúdo antes ou depois do conteúdo de um elemento.
+
+```html
+<div><p>Este div terá uma borda, pois contém um parágrafo.</p></div>
+<div>Este div não terá uma borda, pois não contém um parágrafo.</div>
+```
+```css
+div:has(p) {
+  border: 1px solid black;
+}
+```
+
+- :empty
+
+> A pseudo-classe <code>:empty</code> seleciona todos os elementos que não têm filhos.
+
+```html
+<div>Este div será exibido.</div>
+<div></div> <!-- Este div não será exibido, pois está vazio. -->
+```
+```css
+div:empty {
+  display: none;
+}
+```
+
+- :last-child e :first-child
+
+> As pseudo-classes <code>:last-child</code> e <code>:first-child</code> selecionam o primeiro ou o último filho de um elemento.
+
+```html
+<ul>
+  <li>Este item será vermelho.</li>
+  <li>Este item não será afetado.</li>
+</ul>
+```
+```css
+li:first-child {
+  color: red;
+}
+```
+
+- :is() e :where()
+
+> Os pseudo-classes <code>:is()</code> e <code>:where()</code> aceitam uma lista de seletores e retornam o primeiro que corresponder.
+
+```html
+<p class="grifinoria">Este parágrafo será azul.</p>
+<p class="luffaluffa">Este parágrafo também será azul.</p>
+<p class="sonserina">Este parágrafo não será afetado.</p>
+```
+```css
+p:is(.grifinoria, .luffaluffa) {
+  color: blue;
+}
+```
+
+**Personalizando checkbox**
+- checkbox 
+
+> Selecione o pseudo-elemento after de um label que é irmão adjacente de um input do tipo checkbox, mas só quando ele estiver marcado (:checked). Após o fter selecionado alteramos sua propriedade left para 42px, o resultado é um belo efeito de deslizamento no nosso checkbox.
+
+```css
+input[type="checkbox"]:checked + label:after {
+    left: 42px;
+}
+```
+
+- Efeito Hover em Links Específicos
+
+> Quando eu passar o mouse sobre um link (a:hover), que é descendente direto de um parágrafo com a classe intro, quero que você mude a cor dele para vermelho
+
+```css
+p.intro a:hover {
+    color: red;
+}
+```
+
+- Destacando o Único Item de uma Lista
+
+>  Altere a cor para verde, mas só se o li for o único filho (:only-child) dentro da ul
+
+```css
+ul li:only-child {
+    color: green;
+}
 ```

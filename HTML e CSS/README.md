@@ -105,8 +105,8 @@
     </summary>
     <br>
         <div align="center">
-            <a href="https://github.com/Amanda-ribeiiro/ONE-T6/assets/108890154/c3d873c8-433a-4d8e-98f8-94dfc196c0ce" target="_blank">
-                <img src="https://github.com/Amanda-ribeiiro/ONE-T6/assets/108890154/fde8ca12-af2b-4602-8e00-3a1c0d7b0a35" width=700 height=500 alt="Certificado">
+            <a href="https://cursos.alura.com.br/certificate/amanda-ribeiro98/html-css-ambiente-arquivos-tags?lang=pt_BR" target="_blank">
+                <img src="https://github.com/Amanda-ribeiiro/ONE-T6/assets/108890154/567f28bb-d414-42bd-9a03-8595f4f63e1a" width=700 height=500 alt="Certificado">
             </a>
         </div>
 </details>

@@ -99,7 +99,7 @@
     <br>
         <div align="center">
             <a href="https://cursos.alura.com.br/certificate/amanda-ribeiro98/html-css-ambiente-arquivos-tags" target="_blank">
-                <img src="https://github.com/Amanda-ribeiiro/ONE-T6/assets/108890154/fde8ca12-af2b-4602-8e00-3a1c0d7b0a35" width=700 height=500 alt="Certificado">
+                <img src="https://github.com/Amanda-ribeiiro/ONE-T6/assets/108890154/8a5d841f-481c-4975-9297-c479cfa90c12" width=700 height=500 alt="Certificado">
             </a>
         </div>
 </details>

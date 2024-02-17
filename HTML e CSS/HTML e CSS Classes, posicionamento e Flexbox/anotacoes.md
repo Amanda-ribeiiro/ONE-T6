@@ -408,9 +408,9 @@ Explicando as siglas do BEM temos:
 
 **(B)lock** - Esse seria basicamente o que o SMACSS chama de Módulo e o que chamamos aqui de componente também, isso seria qualquer componente que criamos que possa ser reutilizado em várias páginas, como o caso do nosso box ou da navbar.
 
-De agora em diante quando eu me referir a block ou bloco vou estar falando de algum componente.
+> block ou bloco é algum componente
 
-**(E)lement** - Esse seria um elemento que está dentro do nosso bloco, por exemplo tanto os nossos itens dentro da nossa navbar, quanto o title e a image dentro do box, lembra?
+**(E)lement** - Esse seria um elemento que está dentro do nosso bloco, por exemplo tanto os nossos itens dentro da nossa <code>navbar</code>, quanto o <code>title</code> e a image dentro do <code>box</code>
 
 ```html
 -- navbar block
@@ -426,7 +426,7 @@ De agora em diante quando eu me referir a block ou bloco vou estar falando de al
 .navbar-item {}
 ```
 
-**(M)odifier** - Esse seria o nosso modificador, lembra do active? navbar-itemActive.
+**(M)odifier** - Esse seria o nosso modificador <code>navbar-itemActive</code>.
 ```css
 .navbar {}
 .navbar__item {}

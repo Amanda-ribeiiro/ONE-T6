@@ -30,7 +30,7 @@
 <br>
 
 <div align="center">
-  <h1><a href="https://cursos.alura.com.br/course/html-css-classes-posicionamento-flexbox">HTML e CSS: Classes, posicionamento e Flexbox</a></h1>
+  <h1><a href="https://cursos.alura.com.br/course/html-css-cabecalho-footer-variaveis-css">HTML e CSS: cabeçalho, footer e variáveis CSS</a></h1>
       <table align="center">
         <thead>
           <tr>
@@ -43,46 +43,39 @@
         </thead>
         <tbody>
           <tr>
-            <td>Seletores e posicionamento</td>
+            <td>Preparando o layout do projeto</td>
             <td align=center>20/03/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-classes-posicionamento-flexbox/section/15180/tasks" target="_blank">acesso</a></td>
-            <td align="center">10</td>
-            <td align="center">15min</td>
-          </tr>
-          <tr>
-            <td>Posicionando mais elementos</td>
-            <td align=center>20/03/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-classes-posicionamento-flexbox/section/15181/tasks" target="_blank">acesso</a></td>
-            <td align="center">10</td>
-            <td align="center">17min</td>
-          </tr>
-          <tr>
-            <td>Estilos de texto e fontes</td>
-            <td align=center>20/03/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-classes-posicionamento-flexbox/section/15182/tasks" target="_blank">acesso</a></td>
-            <td align="center">10</td>
-            <td align="center">22min</td>
-          </tr>
-          <tr>
-            <td>Manipulando botões</td>
-            <td align=center>20/03/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-classes-posicionamento-flexbox/section/15183/tasks" target="_blank">acesso</a></td>
-            <td align="center">8</td>
-            <td align="center">16min</td>
-          </tr>
-          <tr>
-            <td>Estilizando o projeto com CSS</td>
-            <td align=center>20/03/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-ambiente-arquivos-tags/task/118936" target="_blank">acesso</a></td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-cabecalho-footer-variaveis-css/section/15291/tasks" target="_blank">acesso</a></td>
             <td align="center">9</td>
+            <td align="center">20min</td>
+          </tr>
+          <tr>
+            <td>Criando ícones clicáveis</td>
+            <td align=center>20/03/24</td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-cabecalho-footer-variaveis-css/section/15292/tasks" target="_blank">acesso</a></td>
+            <td align="center">11</td>
             <td align="center">13min</td>
           </tr>
           <tr>
-            <td>Ajustando o espaçamento</td>
+            <td>Criando header e footer</td>
             <td align=center>20/03/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-classes-posicionamento-flexbox/section/15184/tasks" target="_blank">acesso</a></td>
-            <td align="center">9</td>
-            <td align="center">6min</td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-cabecalho-footer-variaveis-css/section/15293/tasks" target="_blank">acesso</a></td>
+            <td align="center">7</td>
+            <td align="center">12min</td>
+          </tr>
+          <tr>
+            <td>Navegando entre páginas</td>
+            <td align=center>20/03/24</td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-cabecalho-footer-variaveis-css/section/15294/tasks" target="_blank">acesso</a></td>
+            <td align="center">8</td>
+            <td align="center">18min</td>
+          </tr>
+          <tr>
+            <td>Aplicando variáveis CSS</td>
+            <td align=center>20/03/24</td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-cabecalho-footer-variaveis-css/section/15295/tasks" target="_blank">acesso</a></td>
+            <td align="center">14</td>
+            <td align="center">24min</td>
           </tr>
         </tbody>
       </table>  
@@ -98,8 +91,8 @@
     </summary>
     <br>
         <div align="center">
-            <a href="https://cursos.alura.com.br/certificate/amanda-ribeiro98/html-css-classes-posicionamento-flexbox" target="_blank">
-                <img src="https://github.com/Amanda-ribeiiro/ONE-T6/assets/108890154/81156b4f-279d-401b-8a25-f7114ed1a8ea" width=700 height=500 alt="Certificado">
+            <a href="" target="_blank">
+                <img src="" width=700 height=500 alt="Certificado">
             </a>
         </div>
 </details>

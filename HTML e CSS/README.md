@@ -39,6 +39,7 @@
             <th>Curso</th>
             <th>Modulos</th>
             <th>Carga Horária</th>
+            <th>Certificado</th>
           </tr>
         </thead>
         <tbody>
@@ -48,6 +49,11 @@
             <td align="center"><a href="https://cursos.alura.com.br/course/html-css-ambiente-arquivos-tags" target="_blank">acesso</a></td>
             <td align="center">5</td>
             <td align="center">8h</td>
+            <td align="center">
+                <a href="https://cursos.alura.com.br/certificate/amanda-ribeiro98/html-css-ambiente-arquivos-tags?lang=pt_BR" target="_blank">
+                    <img align="center" alt="Link" src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=https://cursos.alura.com.br/certificate/amanda-ribeiro98/html-css-ambiente-arquivos-tags?lang=pt_BR">
+                </a>
+            </td>
           </tr>
           <tr>
             <td>HTML e CSS: Classes, posicionamento e Flexbox</td>
@@ -55,6 +61,11 @@
             <td align="center"><a href="https://cursos.alura.com.br/course/html-css-classes-posicionamento-flexbox" target="_blank">acesso</a></td>
             <td align="center">8</td>
             <td align="center">5h</td>
+            <td align="center">
+                <a href="https://cursos.alura.com.br/certificate/amanda-ribeiro98/logica-programacao-mergulhe-programacao-javascript" target="_blank">
+                    <img align="center" alt="Link" src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=https://cursos.alura.com.br/certificate/amanda-ribeiro98/logica-programacao-mergulhe-programacao-javascript">
+                </a>
+            </td>
           </tr>
           <tr>
             <td>HTML e CSS: cabeçalho, footer e variáveis CSS</td>
@@ -62,6 +73,11 @@
             <td align="center"><a href="https://cursos.alura.com.br/course/html-css-cabecalho-footer-variaveis-css" target="_blank">acesso</a></td>
             <td align="center">5</td>
             <td align="center">6h</td>
+            <td align="center">
+                <a href="https://cursos.alura.com.br/certificate/amanda-ribeiro98/logica-programacao-mergulhe-programacao-javascript" target="_blank">
+                    <img align="center" alt="Link" src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=https://cursos.alura.com.br/certificate/amanda-ribeiro98/logica-programacao-mergulhe-programacao-javascript">
+                </a>
+            </td>
           </tr>
           <tr>
             <td>HTML e CSS: trabalhando com responsividade e publicação de projetos</td>
@@ -69,6 +85,11 @@
             <td align="center"><a href="https://cursos.alura.com.br/course/html-css-responsividade-publicacao-projetos" target="_blank">acesso</a></td>
             <td align="center">5</td>
             <td align="center">6h</td>
+            <td align="center">
+                <a href="https://cursos.alura.com.br/certificate/amanda-ribeiro98/logica-programacao-mergulhe-programacao-javascript" target="_blank">
+                    <img align="center" alt="Link" src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=https://cursos.alura.com.br/certificate/amanda-ribeiro98/logica-programacao-mergulhe-programacao-javascript">
+                </a>
+            </td>
           </tr>
           <tr>
             <td>HTML, CSS e Javascript, quais as diferenças?</td>
@@ -76,6 +97,11 @@
             <td align="center"><a href="https://www.alura.com.br/artigos/html-css-e-js-definicoes?_gl=1*ghaxgh*_ga*MjA2MTQxMDE1MS4xNjg1MDQyNjc1*_ga_1EPWSW3PCS*MTcwNzQzNTM5Ny4zMS4xLjE3MDc0NDMwMjYuMC4wLjA.*_fplc*OHJnSDZjJTJGdXAlMkY5OWJsTGd6M3RDemdIdjAyc0IwZlJFejZsdmZCM1ZObjhoVEFIaVFxcVFaU0xsaTh0T0UxOUVzRGJyMlFRWWtxYW82N250T3Fyc25QVCUyRkh6dTZETzJMN1pja2x2RjRWVEdCeGZ4b3plS0taeVA2YzdaJTJCTGclM0QlM0Q." target="_blank">Artigo</a></td>
             <td align="center">-</td>
             <td align="center">-</td>
+            <td align="center">
+                <a href="https://cursos.alura.com.br/certificate/amanda-ribeiro98/logica-programacao-mergulhe-programacao-javascript" target="_blank">
+                    <img align="center" alt="Link" src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=https://cursos.alura.com.br/certificate/amanda-ribeiro98/logica-programacao-mergulhe-programacao-javascript">
+                </a>
+            </td>
           </tr>
           <tr>
             <td>CSS: o que é, como usar no HTML e um Guia para iniciar</td>
@@ -83,6 +109,11 @@
             <td align="center"><a href="https://www.alura.com.br/artigos/css?_gl=1*be7auh*_ga*MjA2MTQxMDE1MS4xNjg1MDQyNjc1*_ga_1EPWSW3PCS*MTcwNzQzNTM5Ny4zMS4xLjE3MDc0NDMyMDcuMC4wLjA.*_fplc*OHJnSDZjJTJGdXAlMkY5OWJsTGd6M3RDemdIdjAyc0IwZlJFejZsdmZCM1ZObjhoVEFIaVFxcVFaU0xsaTh0T0UxOUVzRGJyMlFRWWtxYW82N250T3Fyc25QVCUyRkh6dTZETzJMN1pja2x2RjRWVEdCeGZ4b3plS0taeVA2YzdaJTJCTGclM0QlM0Q." target="_blank">Artigo</a></td>
             <td align="center">-</td>
             <td align="center">-</td>
+            <td align="center">
+                <a href="https://cursos.alura.com.br/certificate/amanda-ribeiro98/logica-programacao-mergulhe-programacao-javascript" target="_blank">
+                    <img align="center" alt="Link" src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=https://cursos.alura.com.br/certificate/amanda-ribeiro98/logica-programacao-mergulhe-programacao-javascript">
+                </a>
+            </td>
           </tr>
           <tr>
             <td>Como Front-End utiliza o Figma</td>
@@ -90,6 +121,11 @@
             <td align="center"><a href="https://cursos.alura.com.br/extra/alura-mais/como-front-end-utiliza-o-figma-c858" target="_blank">Artigo</a></td>
             <td align="center">-</td>
             <td align="center">-</td>
+            <td align="center">
+                <a href="https://cursos.alura.com.br/certificate/amanda-ribeiro98/logica-programacao-mergulhe-programacao-javascript" target="_blank">
+                    <img align="center" alt="Link" src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=https://cursos.alura.com.br/certificate/amanda-ribeiro98/logica-programacao-mergulhe-programacao-javascript">
+                </a>
+            </td>
           </tr>
         </tbody>
       </table>  

@@ -91,7 +91,7 @@
     </summary>
     <br>
         <div align="center">
-            <a href="https://github.com/Amanda-ribeiiro/ONE-T6/assets/108890154/c3d873c8-433a-4d8e-98f8-94dfc196c0ce" target="_blank">
+            <a href="https://cursos.alura.com.br/certificate/amanda-ribeiro98/logica-programacao-mergulhe-programacao-javascript?lang=pt_BR" target="_blank">
                 <img src="https://github.com/Amanda-ribeiiro/ONE-T6/assets/108890154/fde8ca12-af2b-4602-8e00-3a1c0d7b0a35" width=700 height=500 alt="Certificado">
             </a>
         </div>

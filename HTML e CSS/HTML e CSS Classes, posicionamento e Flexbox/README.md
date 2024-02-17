@@ -29,8 +29,8 @@
 
 <br>
 
-<div>
-  <h1><a href="https://cursos.alura.com.br/course/html-css-ambiente-arquivos-tags">HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags</a></h1>
+<div align="center">
+  <h1><a href="https://cursos.alura.com.br/course/html-css-classes-posicionamento-flexbox">HTML e CSS: Classes, posicionamento e Flexbox</a></h1>
       <table align="center">
         <thead>
           <tr>
@@ -43,32 +43,32 @@
         </thead>
         <tbody>
           <tr>
-            <td>O editor de código VSCode</td>
+            <td>Seletores e posicionamento</td>
             <td align=center>20/03/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-ambiente-arquivos-tags/task/118936" target="_blank">acesso</a></td>
-            <td align="center">9</td>
-            <td align="center">13min</td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-classes-posicionamento-flexbox/section/15180/tasks" target="_blank">acesso</a></td>
+            <td align="center">10</td>
+            <td align="center">15min</td>
           </tr>
           <tr>
-            <td>Documentação e HTML</td>
+            <td>Posicionando mais elementos</td>
             <td align=center>20/03/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-ambiente-arquivos-tags/task/118936" target="_blank">acesso</a></td>
-            <td align="center">11</td>
-            <td align="center">33min</td>
-          </tr>
-          <tr>
-            <td>Loops e tentativas</td>
-            <td align=center>20/03/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-ambiente-arquivos-tags/task/118936" target="_blank">acesso</a></td>
-            <td align="center">9</td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-classes-posicionamento-flexbox/section/15181/tasks" target="_blank">acesso</a></td>
+            <td align="center">10</td>
             <td align="center">17min</td>
           </tr>
           <tr>
-            <td>Layout e tags semânticas</td>
+            <td>Estilos de texto e fontes</td>
             <td align=center>20/03/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-ambiente-arquivos-tags/task/118936" target="_blank">acesso</a></td>
-            <td align="center">12</td>
-            <td align="center">26min</td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-classes-posicionamento-flexbox/section/15182/tasks" target="_blank">acesso</a></td>
+            <td align="center">10</td>
+            <td align="center">22min</td>
+          </tr>
+          <tr>
+            <td>Manipulando botões</td>
+            <td align=center>20/03/24</td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-classes-posicionamento-flexbox/section/15183/tasks" target="_blank">acesso</a></td>
+            <td align="center">8</td>
+            <td align="center">16min</td>
           </tr>
           <tr>
             <td>Estilizando o projeto com CSS</td>
@@ -78,11 +78,11 @@
             <td align="center">13min</td>
           </tr>
           <tr>
-            <td>Super estilizando o seu CSS</td>
+            <td>Ajustando o espaçamento</td>
             <td align=center>20/03/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-ambiente-arquivos-tags/task/118936" target="_blank">acesso</a></td>
-            <td align="center">13</td>
-            <td align="center">12min</td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-classes-posicionamento-flexbox/section/15184/tasks" target="_blank">acesso</a></td>
+            <td align="center">9</td>
+            <td align="center">6min</td>
           </tr>
         </tbody>
       </table>  
@@ -98,8 +98,8 @@
     </summary>
     <br>
         <div align="center">
-            <a href="https://github.com/Amanda-ribeiiro/ONE-T6/assets/108890154/c3d873c8-433a-4d8e-98f8-94dfc196c0ce" target="_blank">
-                <img src="https://github.com/Amanda-ribeiiro/ONE-T6/assets/108890154/fde8ca12-af2b-4602-8e00-3a1c0d7b0a35" width=700 height=500 alt="Certificado">
+            <a href="" target="_blank">
+                <img src="" width=700 height=500 alt="Certificado">
             </a>
         </div>
 </details>

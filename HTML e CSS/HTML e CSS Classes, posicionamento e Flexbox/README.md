@@ -98,8 +98,8 @@
     </summary>
     <br>
         <div align="center">
-            <a href="" target="_blank">
-                <img src="" width=700 height=500 alt="Certificado">
+            <a href="https://cursos.alura.com.br/certificate/amanda-ribeiro98/html-css-classes-posicionamento-flexbox" target="_blank">
+                <img src="https://github.com/Amanda-ribeiiro/ONE-T6/assets/108890154/81156b4f-279d-401b-8a25-f7114ed1a8ea" width=700 height=500 alt="Certificado">
             </a>
         </div>
 </details>

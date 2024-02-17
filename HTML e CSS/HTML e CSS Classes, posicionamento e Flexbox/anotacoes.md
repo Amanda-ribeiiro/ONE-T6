@@ -362,3 +362,77 @@ ul li:only-child {
     color: green;
 }
 ```
+
+**Organizando o CSS no seu projeto**
+- **[SMACSS](https://smacss.com/)**
+> Guia de boas práticas divide seus mandamentos em:
+
+- 1. Base
+- 2. Layout
+- 3. Module
+- 4. State
+- 5. Theme
+
+Base é o estilo base de todas as páginas ( reset, container, etc )
+Layout é o estilo específico de cada página ( courses.css, carreiras.css, etc )
+Module é o estilo de componentes que se repetem em várias páginas ( box.css )
+
+- **[State]()
+> conhecido em pt-br como estado, se relaciona com os estados dos nossos componentes. Pense no seguinte componente de menu de navegação.
+
+```html
+<navbar class="navbar">
+    <a href="#" class="item">Home</a>
+    <a href="#" class="item">Cursos</a>
+    <a href="#" class="item">Carreiras</a>
+</navbar>
+```
+
+Quando o item do menu fica nesse estado diferente após clicado, dizemos que ele está agora no estado ativo.para alterar estado do item podemos simplesmente colocar uma classe nele com a cor diferente!
+
+Se clicamos no item do menu, o nosso javascript deve colocar nesse elemento a classe
+
+```javascript
+.active {}
+````
+
+- **Theme do SMACSS**
+> basicamente para organizar CSS quando lidamos com projetos que podem ter toda a sua interface visual modificada rapidamente por outra. Imagina sites que você pode alterar uma opção e mudar para o tema DARK do site, que muda todo o visual.
+
+**[Nomes de classes no CSS](https://www.alura.com.br/artigos/nomes-de-classes-no-css?_gl=1*ejg2oo*_ga*MjA2MTQxMDE1MS4xNjg1MDQyNjc1*_ga_1EPWSW3PCS*MTcwODEyODE5NC4zMy4xLjE3MDgxMzA0MjcuMC4wLjA.*_fplc*V2F0WDFNU2p3VHdTQkpDaGwxRURIeGhLQzR4UXMzcVlMWFJ0TG1kQlhaR05uUjEzWE1YQmxlaVolMkZGNHpoY2JpbklRTHZ6UXhJUEt6RERRMVlKWEhaTmlTRlF2Y2J5YU5kd0dOSWlkeXklMkJnMlFBR2Z1TzdCRzZlQmJwRkhKQSUzRCUzRA..)**
+
+- [BEM (Block Element Modifier)](http://getbem.com/introduction/)
+> O que o BEM propõe é organizar esses nomes, que nomes vamos dar para os elementos? E os modifiers? E os blocks? Ele ajuda a gente a seguir um padrão. Para o BEM esse padrão seria:
+
+```css
+block__element--modifier
+```
+
+Explicando as siglas do BEM temos:
+
+**(B)lock** - Esse seria basicamente o que o SMACSS chama de Módulo e o que chamamos aqui de componente também, isso seria qualquer componente que criamos que possa ser reutilizado em várias páginas, como o caso do nosso box ou da navbar.
+
+De agora em diante quando eu me referir a block ou bloco vou estar falando de algum componente.
+
+**(E)lement** - Esse seria um elemento que está dentro do nosso bloco, por exemplo tanto os nossos itens dentro da nossa navbar, quanto o title e a image dentro do box, lembra?
+
+```html
+-- navbar block
+<navbar class="navbar">
+    <a href="#" class="navbar-item">Home</a>
+    <a href="#" class="navbar-item">Courses</a>
+    <a href="#" class="navbar-item">Carreiras</a>
+</navbar>
+```
+
+```css
+.navbar {}
+.navbar-item {}
+```
+
+**(M)odifier** - Esse seria o nosso modificador, lembra do active? navbar-itemActive.
+```css
+.navbar {}
+.navbar__item {}
+.navbar__item--active {}
+```

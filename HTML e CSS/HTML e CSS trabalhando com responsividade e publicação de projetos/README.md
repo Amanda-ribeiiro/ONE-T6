@@ -30,7 +30,7 @@
 <br>
 
 <div align="center">
-  <h1><a href="https://cursos.alura.com.br/course/html-css-cabecalho-footer-variaveis-css">HTML e CSS: cabeçalho, footer e variáveis CSS</a></h1>
+  <h1><a href="https://cursos.alura.com.br/course/html-css-responsividade-publicacao-projetos">HTML e CSS: trabalhando com responsividade e publicação de projetos</a></h1>
       <table align="center">
         <thead>
           <tr>
@@ -43,40 +43,40 @@
         </thead>
         <tbody>
           <tr>
-            <td>Preparando o layout do projeto</td>
+            <td>Unidade de medidas</td>
             <td align=center>20/03/24</td>
             <td align="center"><a href="https://cursos.alura.com.br/course/html-css-cabecalho-footer-variaveis-css/section/15291/tasks" target="_blank">acesso</a></td>
-            <td align="center">9</td>
-            <td align="center">20min</td>
+            <td align="center">8</td>
+            <td align="center">11min</td>
           </tr>
           <tr>
-            <td>Criando ícones clicáveis</td>
+            <td>Adaptando elementos</td>
             <td align=center>20/03/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-cabecalho-footer-variaveis-css/section/15292/tasks" target="_blank">acesso</a></td>
-            <td align="center">11</td>
-            <td align="center">13min</td>
-          </tr>
-          <tr>
-            <td>Criando header e footer</td>
-            <td align=center>20/03/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-cabecalho-footer-variaveis-css/section/15293/tasks" target="_blank">acesso</a></td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-responsividade-publicacao-projetos/section/15281/tasks" target="_blank">acesso</a></td>
             <td align="center">7</td>
             <td align="center">12min</td>
           </tr>
           <tr>
-            <td>Navegando entre páginas</td>
+            <td>Responsividade</td>
             <td align=center>20/03/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-cabecalho-footer-variaveis-css/section/15294/tasks" target="_blank">acesso</a></td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-responsividade-publicacao-projetos/section/15283/tasks" target="_blank">acesso</a></td>
             <td align="center">8</td>
-            <td align="center">18min</td>
+            <td align="center">14min</td>
           </tr>
           <tr>
-            <td>Aplicando variáveis CSS</td>
+            <td>Responsividade e GitHub</td>
             <td align=center>20/03/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-cabecalho-footer-variaveis-css/section/15295/tasks" target="_blank">acesso</a></td>
-            <td align="center">14</td>
-            <td align="center">24min</td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-responsividade-publicacao-projetos/section/15284/tasks" target="_blank">acesso</a></td>
+            <td align="center">8</td>
+            <td align="center">11min</td>
           </tr>
+          <tr>
+            <td>Repositório do GitHub</td>
+            <td align=center>20/03/24</td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-responsividade-publicacao-projetos/section/15285/tasks" target="_blank">acesso</a></td>
+            <td align="center">8</td>
+            <td align="center">16min</td>
+          </tr>           
         </tbody>
       </table>  
 </div>

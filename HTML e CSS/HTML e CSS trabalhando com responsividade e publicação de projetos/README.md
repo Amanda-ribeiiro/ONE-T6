@@ -45,14 +45,14 @@
           <tr>
             <td>Unidade de medidas</td>
             <td align=center>20/03/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-cabecalho-footer-variaveis-css/section/15291/tasks" target="_blank">acesso</a></td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-responsividade-publicacao-projetos/section/15281/tasks" target="_blank">acesso</a></td>
             <td align="center">8</td>
             <td align="center">11min</td>
           </tr>
           <tr>
             <td>Adaptando elementos</td>
             <td align=center>20/03/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-responsividade-publicacao-projetos/section/15281/tasks" target="_blank">acesso</a></td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-responsividade-publicacao-projetos/section/15282/tasks" target="_blank">acesso</a></td>
             <td align="center">7</td>
             <td align="center">12min</td>
           </tr>

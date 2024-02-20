@@ -91,8 +91,8 @@
     </summary>
     <br>
         <div align="center">
-            <a href="" target="_blank">
-                <img src="" width=700 height=500 alt="Certificado">
+            <a href="https://cursos.alura.com.br/certificate/amanda-ribeiro98/html-css-cabecalho-footer-variaveis-css" target="_blank">
+                <img src="https://github.com/Amanda-ribeiiro/ONE-T6/assets/108890154/989a6ee1-f807-4859-b5cd-da43f867e8df" width=700 height=500 alt="Certificado">
             </a>
         </div>
 </details>

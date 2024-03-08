@@ -86,8 +86,8 @@
             <td align="center">5</td>
             <td align="center">6h</td>
             <td align="center">
-                <a href="https://cursos.alura.com.br/certificate/amanda-ribeiro98/logica-programacao-mergulhe-programacao-javascript" target="_blank">
-                    <img align="center" alt="Certificado: HTML e CSS: trabalhando com responsividade e publicação de projetos" src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=https://cursos.alura.com.br/certificate/amanda-ribeiro98/logica-programacao-mergulhe-programacao-javascript">
+                <a href="https://cursos.alura.com.br/certificate/amanda-ribeiro98/html-css-responsividade-publicacao-projetos" target="_blank">
+                    <img align="center" alt="Certificado: HTML e CSS: trabalhando com responsividade e publicação de projetos" src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=https://cursos.alura.com.br/certificate/amanda-ribeiro98/html-css-responsividade-publicacao-projetos">
                 </a>
             </td>
           </tr>
@@ -97,11 +97,7 @@
             <td align="center"><a href="https://www.alura.com.br/artigos/html-css-e-js-definicoes?_gl=1*ghaxgh*_ga*MjA2MTQxMDE1MS4xNjg1MDQyNjc1*_ga_1EPWSW3PCS*MTcwNzQzNTM5Ny4zMS4xLjE3MDc0NDMwMjYuMC4wLjA.*_fplc*OHJnSDZjJTJGdXAlMkY5OWJsTGd6M3RDemdIdjAyc0IwZlJFejZsdmZCM1ZObjhoVEFIaVFxcVFaU0xsaTh0T0UxOUVzRGJyMlFRWWtxYW82N250T3Fyc25QVCUyRkh6dTZETzJMN1pja2x2RjRWVEdCeGZ4b3plS0taeVA2YzdaJTJCTGclM0QlM0Q." target="_blank">Artigo</a></td>
             <td align="center">-</td>
             <td align="center">-</td>
-            <td align="center">
-                <a href="https://cursos.alura.com.br/certificate/amanda-ribeiro98/logica-programacao-mergulhe-programacao-javascript" target="_blank">
-                    <img align="center" alt="Certificado: HTML, CSS e Javascript, quais as diferenças?" src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=https://cursos.alura.com.br/certificate/amanda-ribeiro98/logica-programacao-mergulhe-programacao-javascript">
-                </a>
-            </td>
+            <td align="center">-</td>
           </tr>
           <tr>
             <td>CSS: o que é, como usar no HTML e um Guia para iniciar</td>
@@ -109,10 +105,7 @@
             <td align="center"><a href="https://www.alura.com.br/artigos/css?_gl=1*be7auh*_ga*MjA2MTQxMDE1MS4xNjg1MDQyNjc1*_ga_1EPWSW3PCS*MTcwNzQzNTM5Ny4zMS4xLjE3MDc0NDMyMDcuMC4wLjA.*_fplc*OHJnSDZjJTJGdXAlMkY5OWJsTGd6M3RDemdIdjAyc0IwZlJFejZsdmZCM1ZObjhoVEFIaVFxcVFaU0xsaTh0T0UxOUVzRGJyMlFRWWtxYW82N250T3Fyc25QVCUyRkh6dTZETzJMN1pja2x2RjRWVEdCeGZ4b3plS0taeVA2YzdaJTJCTGclM0QlM0Q." target="_blank">Artigo</a></td>
             <td align="center">-</td>
             <td align="center">-</td>
-            <td align="center">
-                <a href="https://cursos.alura.com.br/certificate/amanda-ribeiro98/logica-programacao-mergulhe-programacao-javascript" target="_blank">
-                    <img align="center" alt="Certificado: CSS: o que é, como usar no HTML e um Guia para iniciar" src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=https://cursos.alura.com.br/certificate/amanda-ribeiro98/logica-programacao-mergulhe-programacao-javascript">
-                </a>
+            <td align="center">-</td>
             </td>
           </tr>
           <tr>
@@ -121,11 +114,7 @@
             <td align="center"><a href="https://cursos.alura.com.br/extra/alura-mais/como-front-end-utiliza-o-figma-c858" target="_blank">Artigo</a></td>
             <td align="center">-</td>
             <td align="center">-</td>
-            <td align="center">
-                <a href="https://cursos.alura.com.br/certificate/amanda-ribeiro98/logica-programacao-mergulhe-programacao-javascript" target="_blank">
-                    <img align="center" alt="Certificado: Certificado: " src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=https://cursos.alura.com.br/certificate/amanda-ribeiro98/logica-programacao-mergulhe-programacao-javascript">
-                </a>
-            </td>
+            <td align="center">-</td>
           </tr>
         </tbody>
       </table>  

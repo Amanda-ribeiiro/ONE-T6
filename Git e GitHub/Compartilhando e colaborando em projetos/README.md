@@ -1,6 +1,6 @@
 <div align=center>
-    <a href="https://github.com/Amanda-ribeiiro/ONE-T6/blob/main/HTML%20e%20CSS/HTML%20e%20CSS%20Classes%2C%20posicionamento%20e%20Flexbox/README.md"><img src="https://img.shields.io/badge/Idioma-Portugu%C3%AAs-green"></a>
-    <a href="https://github.com/Amanda-ribeiiro/ONE-T6/blob/main/HTML%20e%20CSS/HTML%20e%20CSS%20Classes%2C%20posicionamento%20e%20Flexbox/README.en.md"><img src="https://img.shields.io/badge/Language-English-blue"></a>
+    <a href="https://github.com/Amanda-ribeiiro/ONE-T6/blob/main/Git%20e%20GitHub/README.md"><img src="https://img.shields.io/badge/Idioma-Portugu%C3%AAs-green"></a>
+    <a href="https://github.com/Amanda-ribeiiro/ONE-T6/blob/main/Git%20e%20GitHub/README.en.md"><img src="https://img.shields.io/badge/Language-English-blue"></a>
 </div>
 
 <br>
@@ -30,7 +30,7 @@
 <br>
 
 <div align="center">
-  <h1><a href="https://cursos.alura.com.br/course/html-css-cabecalho-footer-variaveis-css">HTML e CSS: cabeçalho, footer e variáveis CSS</a></h1>
+  <h1><a href="https://cursos.alura.com.br/course/git-github-compartilhando-colaborando-projetos">Git e GitHub: compartilhando e colaborando em projetos</a></h1>
       <table align="center">
         <thead>
           <tr>
@@ -43,39 +43,39 @@
         </thead>
         <tbody>
           <tr>
-            <td>Preparando o layout do projeto</td>
+            <td>Compartilhando projetos</td>
             <td align=center>20/03/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-cabecalho-footer-variaveis-css/section/15291/tasks" target="_blank">acesso</a></td>
-            <td align="center">9</td>
-            <td align="center">20min</td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/git-github-compartilhando-colaborando-projetos/section/17565/tasks" target="_blank">acesso</a></td>
+            <td align="center">18</td>
+            <td align="center">36min</td>
           </tr>
           <tr>
-            <td>Criando ícones clicáveis</td>
+            <td>Colaborando em projetos</td>
             <td align=center>20/03/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-cabecalho-footer-variaveis-css/section/15292/tasks" target="_blank">acesso</a></td>
-            <td align="center">11</td>
-            <td align="center">13min</td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/git-github-compartilhando-colaborando-projetos/section/17566/tasks" target="_blank">acesso</a></td>
+            <td align="center">15</td>
+            <td align="center">24min</td>
           </tr>
           <tr>
-            <td>Criando header e footer</td>
+            <td>Utilizando Git na IDE</td>
             <td align=center>20/03/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-cabecalho-footer-variaveis-css/section/15293/tasks" target="_blank">acesso</a></td>
-            <td align="center">7</td>
-            <td align="center">12min</td>
-          </tr>
-          <tr>
-            <td>Navegando entre páginas</td>
-            <td align=center>20/03/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-cabecalho-footer-variaveis-css/section/15294/tasks" target="_blank">acesso</a></td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/git-github-compartilhando-colaborando-projetos/section/17567/tasks" target="_blank">acesso</a></td>
             <td align="center">8</td>
+            <td align="center">16min</td>
+          </tr>
+          <tr>
+            <td>Voltando no tempo</td>
+            <td align=center>20/03/24</td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/git-github-compartilhando-colaborando-projetos/section/17568/tasks" target="_blank">acesso</a></td>
+            <td align="center">9</td>
             <td align="center">18min</td>
           </tr>
           <tr>
-            <td>Aplicando variáveis CSS</td>
+            <td>Mais recursos</td>
             <td align=center>20/03/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-cabecalho-footer-variaveis-css/section/15295/tasks" target="_blank">acesso</a></td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/git-github-compartilhando-colaborando-projetos/section/17569/tasks" target="_blank">acesso</a></td>
             <td align="center">14</td>
-            <td align="center">24min</td>
+            <td align="center">22min</td>
           </tr>
         </tbody>
       </table>  

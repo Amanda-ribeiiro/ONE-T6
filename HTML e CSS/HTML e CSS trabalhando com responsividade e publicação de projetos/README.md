@@ -91,10 +91,11 @@
     </summary>
     <br>
         <div align="center">
-            <a href="" target="_blank">
-                <img src="" width=700 height=500 alt="Certificado">
+            <a href="https://cursos.alura.com.br/certificate/amanda-ribeiro98/html-css-responsividade-publicacao-projetos" target="_blank">
+                <img src="https://github.com/Amanda-ribeiiro/ONE-T6/assets/108890154/bf366afa-ed1a-41e9-9788-1adab21d3060" width=700 height=500 alt="Certificado">
             </a>
         </div>
 </details>
+
 
 

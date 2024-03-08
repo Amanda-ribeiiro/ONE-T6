@@ -55,6 +55,30 @@
                 </a>
             </td>
           </tr>
+          <tr>
+            <td>O que é Git e Github: os primeiros passos nessas ferramentas</td>
+            <td align=center>20/03/24</td>
+            <td align="center"><a href="https://www.alura.com.br/artigos/o-que-e-git-github?_gl=1*18keje8*_ga*MjA2MTQxMDE1MS4xNjg1MDQyNjc1*_ga_1EPWSW3PCS*MTcwOTk0MDQ4MC41NS4xLjE3MDk5NDEwMTMuMC4wLjA.*_fplc*UGpNakE2JTJCcVpjWWx6JTJCQ0l1eEFlJTJGUVhJRmpXQXpTQXJHREdwbTd2bUE5cW1vY05FUWZpSHBEaiUyRkd6eFUzQXNxZjFWQlR2ZFRMNUJKeURheEF4Wmp5REdsNnJzcG1tc0ZiR2tzNUNCbyUyQk90dnpDUGR6MVhnUXdRcHlwS2Q1QSUzRCUzRA.." target="_blank">Artigo</a></td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+          </tr>
+          <tr>
+            <td>Nova exigência do Git de autenticação por token, o que é e o que devo fazer?</td>
+            <td align=center>20/03/24</td>
+            <td align="center"><a href="https://www.alura.com.br/artigos/nova-exigencia-do-git-de-autenticacao-por-token-o-que-e-o-que-devo-fazer?_gl=1*mx0gj9*_ga*MjA2MTQxMDE1MS4xNjg1MDQyNjc1*_ga_1EPWSW3PCS*MTcwOTk0MDQ4MC41NS4xLjE3MDk5NDEyMDUuMC4wLjA.*_fplc*UGpNakE2JTJCcVpjWWx6JTJCQ0l1eEFlJTJGUVhJRmpXQXpTQXJHREdwbTd2bUE5cW1vY05FUWZpSHBEaiUyRkd6eFUzQXNxZjFWQlR2ZFRMNUJKeURheEF4Wmp5REdsNnJzcG1tc0ZiR2tzNUNCbyUyQk90dnpDUGR6MVhnUXdRcHlwS2Q1QSUzRCUzRA.." target="_blank">Artigo</a></td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+          </tr>
+          <tr>
+            <td>Iniciando um repositório com Git</td>
+            <td align=center>20/03/24</td>
+            <td align="center"><a href="https://www.alura.com.br/artigos/iniciando-repositorio-git?_gl=1*mx0gj9*_ga*MjA2MTQxMDE1MS4xNjg1MDQyNjc1*_ga_1EPWSW3PCS*MTcwOTk0MDQ4MC41NS4xLjE3MDk5NDEyMDUuMC4wLjA.*_fplc*UGpNakE2JTJCcVpjWWx6JTJCQ0l1eEFlJTJGUVhJRmpXQXpTQXJHREdwbTd2bUE5cW1vY05FUWZpSHBEaiUyRkd6eFUzQXNxZjFWQlR2ZFRMNUJKeURheEF4Wmp5REdsNnJzcG1tc0ZiR2tzNUNCbyUyQk90dnpDUGR6MVhnUXdRcHlwS2Q1QSUzRCUzRA.." target="_blank">Artigo</a></td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+          </tr>
         </tbody>
       </table>  
 </div>

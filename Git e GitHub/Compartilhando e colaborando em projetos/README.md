@@ -1,6 +1,6 @@
 <div align=center>
-    <a href="https://github.com/Amanda-ribeiiro/ONE-T6/blob/main/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/HTML%20e%20CSS%20ambientes%20de%20desenvolvimento%20estrutura%20de%20arquivos%20e%20tags/README.md"><img src="https://img.shields.io/badge/Idioma-Portugu%C3%AAs-green"></a>
-    <a href="https://github.com/Amanda-ribeiiro/ONE-T6/blob/main/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/HTML%20e%20CSS%20ambientes%20de%20desenvolvimento%20estrutura%20de%20arquivos%20e%20tags/README.en.md"><img src="https://img.shields.io/badge/Language-English-blue"></a>
+    <a href="https://github.com/Amanda-ribeiiro/ONE-T6/blob/main/HTML%20e%20CSS/HTML%20e%20CSS%20Classes%2C%20posicionamento%20e%20Flexbox/README.md"><img src="https://img.shields.io/badge/Idioma-Portugu%C3%AAs-green"></a>
+    <a href="https://github.com/Amanda-ribeiiro/ONE-T6/blob/main/HTML%20e%20CSS/HTML%20e%20CSS%20Classes%2C%20posicionamento%20e%20Flexbox/README.en.md"><img src="https://img.shields.io/badge/Language-English-blue"></a>
 </div>
 
 <br>
@@ -30,7 +30,7 @@
 <br>
 
 <div align="center">
-  <h1><a href="https://cursos.alura.com.br/course/git-github-compartilhando-colaborando-projetos">Git e GitHub</a></h1>
+  <h1><a href="https://cursos.alura.com.br/course/html-css-cabecalho-footer-variaveis-css">HTML e CSS: cabeçalho, footer e variáveis CSS</a></h1>
       <table align="center">
         <thead>
           <tr>
@@ -39,26 +39,62 @@
             <th>Curso</th>
             <th>Modulos</th>
             <th>Carga Horária</th>
-            <th>Certificado</th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <td>Compartilhando e colaborando em projetos</td>
+            <td>Preparando o layout do projeto</td>
             <td align=center>20/03/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/git-github-compartilhando-colaborando-projetos" target="_blank">acesso</a></td>
-            <td align="center">5</td>
-            <td align="center">8h</td>
-            <td align="center">
-                <a href="https://cursos.alura.com.br/certificate/amanda-ribeiro98/html-css-cabecalho-footer-variaveis-css" target="_blank">
-                    <img align="center" alt="Certificado: HTML e CSS: cabeçalho, footer e variáveis CSS " src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=https://github.com/Amanda-ribeiiro/ONE-T6/assets/108890154/989a6ee1-f807-4859-b5cd-da43f867e8df">
-                </a>
-            </td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-cabecalho-footer-variaveis-css/section/15291/tasks" target="_blank">acesso</a></td>
+            <td align="center">9</td>
+            <td align="center">20min</td>
+          </tr>
+          <tr>
+            <td>Criando ícones clicáveis</td>
+            <td align=center>20/03/24</td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-cabecalho-footer-variaveis-css/section/15292/tasks" target="_blank">acesso</a></td>
+            <td align="center">11</td>
+            <td align="center">13min</td>
+          </tr>
+          <tr>
+            <td>Criando header e footer</td>
+            <td align=center>20/03/24</td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-cabecalho-footer-variaveis-css/section/15293/tasks" target="_blank">acesso</a></td>
+            <td align="center">7</td>
+            <td align="center">12min</td>
+          </tr>
+          <tr>
+            <td>Navegando entre páginas</td>
+            <td align=center>20/03/24</td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-cabecalho-footer-variaveis-css/section/15294/tasks" target="_blank">acesso</a></td>
+            <td align="center">8</td>
+            <td align="center">18min</td>
+          </tr>
+          <tr>
+            <td>Aplicando variáveis CSS</td>
+            <td align=center>20/03/24</td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-cabecalho-footer-variaveis-css/section/15295/tasks" target="_blank">acesso</a></td>
+            <td align="center">14</td>
+            <td align="center">24min</td>
           </tr>
         </tbody>
       </table>  
 </div>
 
+<br>
+<br>
 
+<details>
+    <summary>
+        <button style="padding: 10px 20px; background-color: #AB7AD6; color: #FFF; border: none; border-radius: 5px; box-shadow: 0px 2px 2px rgba(0,0,0,0.3); transition: box-shadow 0.3s ease;" onclick="this.style.boxShadow='inset 0px 2px 2px rgba(0,0,0,0.3)'">Certificado
+        </button>
+    </summary>
+    <br>
+        <div align="center">
+            <a href="https://cursos.alura.com.br/certificate/amanda-ribeiro98/html-css-cabecalho-footer-variaveis-css" target="_blank">
+                <img src="https://github.com/Amanda-ribeiiro/ONE-T6/assets/108890154/989a6ee1-f807-4859-b5cd-da43f867e8df" width=700 height=500 alt="Certificado">
+            </a>
+        </div>
+</details>
 
 

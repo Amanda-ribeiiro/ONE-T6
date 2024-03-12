@@ -256,6 +256,19 @@
   </table>  
 </div>
 
+<details>
+    <summary>
+        <button style="padding: 10px 20px; background-color: #AB7AD6; color: #FFF; border: none; border-radius: 5px; box-shadow: 0px 2px 2px rgba(0,0,0,0.3); transition: box-shadow 0.3s ease;" onclick="this.style.boxShadow='inset 0px 2px 2px rgba(0,0,0,0.3)'">Certificado
+        </button>
+    </summary>
+    <br>
+        <div align="center">
+            <a href="https://cursos.alura.com.br/user/amanda-ribeiro98/degree-logica-de-programacao-turma-6-oracle-one-695775/certificate?lang=pt_BR" target="_blank">
+                <img src="https://github.com/Amanda-ribeiiro/ONE-T6/assets/108890154/347ee299-5ac9-4964-af7a-a8289fa63509" width=700 height=500 alt="Certificado">
+            </a>
+        </div>
+</details>
+
 <br>
 <br>
 

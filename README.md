@@ -140,8 +140,8 @@
             <td align="center">5</td>
             <td align="center">8h</td>
             <td align="center">
-                <a href="" target="_blank">
-                    <img align="center" alt="Link" src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=https://www.udemy.com/course/php-do-zero-a-maestria-com-projetos-incriveis/learn/lecture/22921128#overview">
+                <a href="https://cursos.alura.com.br/certificate/amanda-ribeiro98/git-github-compartilhando-colaborando-projetos" target="_blank">
+                    <img align="center" alt="Link" src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=https://cursos.alura.com.br/certificate/amanda-ribeiro98/git-github-compartilhando-colaborando-projetos">
                 </a>
             </td>
           </tr>

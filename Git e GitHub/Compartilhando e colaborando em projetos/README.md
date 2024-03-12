@@ -91,10 +91,11 @@
     </summary>
     <br>
         <div align="center">
-            <a href="https://cursos.alura.com.br/certificate/amanda-ribeiro98/html-css-cabecalho-footer-variaveis-css" target="_blank">
-                <img src="https://github.com/Amanda-ribeiiro/ONE-T6/assets/108890154/989a6ee1-f807-4859-b5cd-da43f867e8df" width=700 height=500 alt="Certificado">
+            <a href="https://cursos.alura.com.br/user/amanda-ribeiro98/course/git-github-compartilhando-colaborando-projetos/certificate" target="_blank">
+                <img src="https://github.com/Amanda-ribeiiro/ONE-T6/assets/108890154/eabdc052-f0da-480c-b4e8-c531e01cd2a4" width=700 height=500 alt="Certificado">
             </a>
         </div>
 </details>
+
 
 

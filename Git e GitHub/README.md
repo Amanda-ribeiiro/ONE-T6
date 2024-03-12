@@ -50,8 +50,8 @@
             <td align="center">5</td>
             <td align="center">8h</td>
             <td align="center">
-                <a href="https://cursos.alura.com.br/certificate/amanda-ribeiro98/html-css-cabecalho-footer-variaveis-css" target="_blank">
-                    <img align="center" alt="Certificado: HTML e CSS: cabeçalho, footer e variáveis CSS " src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=https://github.com/Amanda-ribeiiro/ONE-T6/assets/108890154/989a6ee1-f807-4859-b5cd-da43f867e8df">
+                <a href="https://cursos.alura.com.br/user/amanda-ribeiro98/course/git-github-compartilhando-colaborando-projetos/certificate" target="_blank">
+                    <img align="center" alt="Certificado: HTML e CSS: cabeçalho, footer e variáveis CSS " src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=https://cursos.alura.com.br/user/amanda-ribeiro98/course/git-github-compartilhando-colaborando-projetos/certificate">
                 </a>
             </td>
           </tr>

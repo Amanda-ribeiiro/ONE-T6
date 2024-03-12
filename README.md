@@ -140,8 +140,8 @@
             <td align="center">5</td>
             <td align="center">8h</td>
             <td align="center">
-                <a href="" target="_blank">
-                    <img align="center" alt="Link" src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=https://www.udemy.com/course/php-do-zero-a-maestria-com-projetos-incriveis/learn/lecture/22921128#overview">
+                <a href="https://cursos.alura.com.br/certificate/amanda-ribeiro98/git-github-compartilhando-colaborando-projetos" target="_blank">
+                    <img align="center" alt="Link" src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=https://cursos.alura.com.br/certificate/amanda-ribeiro98/git-github-compartilhando-colaborando-projetos">
                 </a>
             </td>
           </tr>
@@ -255,6 +255,19 @@
     </tbody>
   </table>  
 </div>
+
+<details>
+    <summary>
+        <button style="padding: 10px 20px; background-color: #AB7AD6; color: #FFF; border: none; border-radius: 5px; box-shadow: 0px 2px 2px rgba(0,0,0,0.3); transition: box-shadow 0.3s ease;" onclick="this.style.boxShadow='inset 0px 2px 2px rgba(0,0,0,0.3)'">Certificado
+        </button>
+    </summary>
+    <br>
+        <div align="center">
+            <a href="https://cursos.alura.com.br/user/amanda-ribeiro98/degree-logica-de-programacao-turma-6-oracle-one-695775/certificate?lang=pt_BR" target="_blank">
+                <img src="https://github.com/Amanda-ribeiiro/ONE-T6/assets/108890154/347ee299-5ac9-4964-af7a-a8289fa63509" width=700 height=500 alt="Certificado">
+            </a>
+        </div>
+</details>
 
 <br>
 <br>

@@ -45,7 +45,7 @@
         </thead>
         <tbody>
           <tr>
-            <td>Desenvolvimento Pessoal T6 - ONE</td>
+            <td><a href="https://github.com/Amanda-ribeiiro/ONE-T6/tree/main/Desenvolvimento%20Pessoal" target="_blank">Desenvolvimento Pessoal T6 - ONE</a></td>
             <td align=center>20/03/24</td>
             <td align="center"><a href="https://cursos.alura.com.br/formacao-desenvolvimento-pessoal-turma6-one" target="_blank">link</a></td>
             <td align="center">4</td>

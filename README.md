@@ -50,7 +50,6 @@
             <td align="center"><a href="https://cursos.alura.com.br/formacao-desenvolvimento-pessoal-turma6-one" target="_blank">link</a></td>
             <td align="center">4</td>
             <td align="center">38h</td>
-            <td align="center"><a href="https://cursos.alura.com.br/formacao-desenvolvimento-pessoal-turma6-one" target="_blank">link</a></td>
           </tr>
         </tbody>
       </table>

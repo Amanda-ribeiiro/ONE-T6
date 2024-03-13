@@ -30,7 +30,7 @@
 <br>
 
 <div align="center">
-  <h1><a href="https://cursos.alura.com.br/course/html-css-ambiente-arquivos-tags">HTML e CSS</a></h1>
+  <h1><a href="https://cursos.alura.com.br/formacao-desenvolvimento-pessoal-turma6-one">Desenvolvimento Pessoal T6 - ONE</a></h1>
       <table align="center">
         <thead>
           <tr>
@@ -44,74 +44,129 @@
         </thead>
         <tbody>
           <tr>
-            <td>HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags</td>
+            <td>Como utilizar o fórum</td>
             <td align=center>20/03/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-ambiente-arquivos-tags" target="_blank">acesso</a></td>
+            <td align="center"><a href="https://www.youtube.com/watch?v=VljI7NbyVHE" target="_blank">vídeo</a></td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+          </tr>
+          <tr>
+            <td>Aprender a aprender: técnicas para seu autodesenvolvimento</td>
+            <td align=center>20/03/24</td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento" target="_blank">acesso</a></td>
             <td align="center">5</td>
             <td align="center">8h</td>
             <td align="center">
-                <a href="https://cursos.alura.com.br/certificate/amanda-ribeiro98/html-css-ambiente-arquivos-tags?lang=pt_BR" target="_blank">
-                    <img align="center" alt="Certificado: HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags" src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=https://cursos.alura.com.br/certificate/amanda-ribeiro98/html-css-ambiente-arquivos-tags?lang=pt_BR">
+                <a href="" target="_blank">
+                    <img align="center" alt="Certificado: HTML e CSS: Classes, posicionamento e Flexbox" src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=">
                 </a>
             </td>
           </tr>
           <tr>
-            <td>HTML e CSS: Classes, posicionamento e Flexbox</td>
+            <td>LinkedIn: como fazer o seu perfil trabalhar para você</td>
             <td align=center>20/03/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-classes-posicionamento-flexbox" target="_blank">acesso</a></td>
-            <td align="center">8</td>
-            <td align="center">5h</td>
-            <td align="center">
-                <a href="https://cursos.alura.com.br/certificate/amanda-ribeiro98/html-css-classes-posicionamento-flexbox" target="_blank">
-                    <img align="center" alt="Certificado: HTML e CSS: Classes, posicionamento e Flexbox" src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=https://cursos.alura.com.br/certificate/amanda-ribeiro98/html-css-classes-posicionamento-flexbox">
-                </a>
-            </td>
-          </tr>
-          <tr>
-            <td>HTML e CSS: cabeçalho, footer e variáveis CSS</td>
-            <td align=center>20/03/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-cabecalho-footer-variaveis-css" target="_blank">acesso</a></td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/linkedin-perfil-trabalhar-voce" target="_blank">acesso</a></td>
             <td align="center">5</td>
-            <td align="center">6h</td>
+            <td align="center">4h</td>
             <td align="center">
-                <a href="https://cursos.alura.com.br/certificate/amanda-ribeiro98/html-css-cabecalho-footer-variaveis-css" target="_blank">
-                    <img align="center" alt="Certificado: HTML e CSS: cabeçalho, footer e variáveis CSS " src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=https://github.com/Amanda-ribeiiro/ONE-T6/assets/108890154/989a6ee1-f807-4859-b5cd-da43f867e8df">
+                <a href="" target="_blank">
+                    <img align="center" alt="Certificado: HTML e CSS: cabeçalho, footer e variáveis CSS " src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=">
                 </a>
             </td>
           </tr>
           <tr>
-            <td>HTML e CSS: trabalhando com responsividade e publicação de projetos</td>
+            <td>Foco: trazendo mais resultados para o dia a dia</td>
             <td align=center>20/03/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-responsividade-publicacao-projetos" target="_blank">acesso</a></td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/foco-o-poder-do-habito-seu-dia-a-dia" target="_blank">acesso</a></td>
             <td align="center">5</td>
-            <td align="center">6h</td>
+            <td align="center">10h</td>
             <td align="center">
-                <a href="https://cursos.alura.com.br/certificate/amanda-ribeiro98/html-css-responsividade-publicacao-projetos" target="_blank">
-                    <img align="center" alt="Certificado: HTML e CSS: trabalhando com responsividade e publicação de projetos" src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=https://cursos.alura.com.br/certificate/amanda-ribeiro98/html-css-responsividade-publicacao-projetos">
+                <a href="" target="_blank">
+                    <img align="center" alt="Certificado: HTML e CSS: cabeçalho, footer e variáveis CSS " src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=">
                 </a>
             </td>
           </tr>
           <tr>
-            <td>HTML, CSS e Javascript, quais as diferenças?</td>
+            <td>Hábitos: da produtividade às metas pessoais</td>
             <td align=center>20/03/24</td>
-            <td align="center"><a href="https://www.alura.com.br/artigos/html-css-e-js-definicoes?_gl=1*ghaxgh*_ga*MjA2MTQxMDE1MS4xNjg1MDQyNjc1*_ga_1EPWSW3PCS*MTcwNzQzNTM5Ny4zMS4xLjE3MDc0NDMwMjYuMC4wLjA.*_fplc*OHJnSDZjJTJGdXAlMkY5OWJsTGd6M3RDemdIdjAyc0IwZlJFejZsdmZCM1ZObjhoVEFIaVFxcVFaU0xsaTh0T0UxOUVzRGJyMlFRWWtxYW82N250T3Fyc25QVCUyRkh6dTZETzJMN1pja2x2RjRWVEdCeGZ4b3plS0taeVA2YzdaJTJCTGclM0QlM0Q." target="_blank">Artigo</a></td>
-            <td align="center">-</td>
-            <td align="center">-</td>
-            <td align="center">-</td>
-          </tr>
-          <tr>
-            <td>CSS: o que é, como usar no HTML e um Guia para iniciar</td>
-            <td align=center>20/03/24</td>
-            <td align="center"><a href="https://www.alura.com.br/artigos/css?_gl=1*be7auh*_ga*MjA2MTQxMDE1MS4xNjg1MDQyNjc1*_ga_1EPWSW3PCS*MTcwNzQzNTM5Ny4zMS4xLjE3MDc0NDMyMDcuMC4wLjA.*_fplc*OHJnSDZjJTJGdXAlMkY5OWJsTGd6M3RDemdIdjAyc0IwZlJFejZsdmZCM1ZObjhoVEFIaVFxcVFaU0xsaTh0T0UxOUVzRGJyMlFRWWtxYW82N250T3Fyc25QVCUyRkh6dTZETzJMN1pja2x2RjRWVEdCeGZ4b3plS0taeVA2YzdaJTJCTGclM0QlM0Q." target="_blank">Artigo</a></td>
-            <td align="center">-</td>
-            <td align="center">-</td>
-            <td align="center">-</td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/habitos" target="_blank">acesso</a></td>
+            <td align="center">5</td>
+            <td align="center">8h</td>
+            <td align="center">
+                <a href="" target="_blank">
+                    <img align="center" alt="Certificado: HTML e CSS: cabeçalho, footer e variáveis CSS " src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=">
+                </a>
             </td>
           </tr>
           <tr>
-            <td>c</td>
+            <td>04 pontos essenciais que o Gui Silveira já nos ensinou para aprender a aprender!</td>
             <td align=center>20/03/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/extra/alura-mais/como-front-end-utiliza-o-figma-c858" target="_blank">Artigo</a></td>
+            <td align="center"><a href="https://www.alura.com.br/artigos/04-dicas-do-gui-silveira-para-aprender-a-aprender?_gl=1*1jxfyji*_ga*MjA2MTQxMDE1MS4xNjg1MDQyNjc1*_ga_1EPWSW3PCS*MTcxMDM0NjIwNi42Mi4xLjE3MTAzNDYyMDcuMC4wLjA.*_fplc*RWlZWDhBSFVoclBPUmpVZUNDRXlhY25nZU5hT2o0TWpnYkpydzFWQ2NHV243cjE1M0hweWt4aXJmeG1NUTg2Z21qV21TNUpXem05eWVUV3AwU1c2bXhVVHg0JTJCNWViZ3ljNVUlMkZyRVdRaWpoOFdTYWNURHBxRURWNzFjaUEzQSUzRCUzRA.." target="_blank">artigo</a></td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+          </tr>
+          <tr>
+            <td>Planejando meus estudos</td>
+            <td align=center>20/03/24</td>
+            <td align="center"><a href="https://www.alura.com.br/artigos/planejando-meus-estudos?_gl=1*1jxfyji*_ga*MjA2MTQxMDE1MS4xNjg1MDQyNjc1*_ga_1EPWSW3PCS*MTcxMDM0NjIwNi42Mi4xLjE3MTAzNDYyMDcuMC4wLjA.*_fplc*RWlZWDhBSFVoclBPUmpVZUNDRXlhY25nZU5hT2o0TWpnYkpydzFWQ2NHV243cjE1M0hweWt4aXJmeG1NUTg2Z21qV21TNUpXem05eWVUV3AwU1c2bXhVVHg0JTJCNWViZ3ljNVUlMkZyRVdRaWpoOFdTYWNURHBxRURWNzFjaUEzQSUzRCUzRA.." target="_blank">artigo</a></td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+          </tr>
+          <tr>
+            <td>Técnica Pomodoro: gerencie seu tempo com simplicidade</td>
+            <td align=center>20/03/24</td>
+            <td align="center"><a href="https://www.alura.com.br/artigos/tecnica-pomodoro?_gl=1*yipjh*_ga*MjA2MTQxMDE1MS4xNjg1MDQyNjc1*_ga_1EPWSW3PCS*MTcxMDM0NjIwNi42Mi4xLjE3MTAzNDY4MjcuMC4wLjA.*_fplc*RWlZWDhBSFVoclBPUmpVZUNDRXlhY25nZU5hT2o0TWpnYkpydzFWQ2NHV243cjE1M0hweWt4aXJmeG1NUTg2Z21qV21TNUpXem05eWVUV3AwU1c2bXhVVHg0JTJCNWViZ3ljNVUlMkZyRVdRaWpoOFdTYWNURHBxRURWNzFjaUEzQSUzRCUzRA.." target="_blank">artigo</a></td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+          </tr>
+          <tr>
+            <td>Estudar todos os dias, e o que mais? As dicas do Aluno Alura Eduardo Branquinho</td>
+            <td align=center>20/03/24</td>
+            <td align="center"><a href="https://www.alura.com.br/artigos/estudar-todos-os-dias-e-o-que-mais-as-dicas-do-aluno-alura-eduardo-branquinho?_gl=1*13enycq*_ga*MjA2MTQxMDE1MS4xNjg1MDQyNjc1*_ga_1EPWSW3PCS*MTcxMDM0NjIwNi42Mi4xLjE3MTAzNDY4NDEuMC4wLjA.*_fplc*RWlZWDhBSFVoclBPUmpVZUNDRXlhY25nZU5hT2o0TWpnYkpydzFWQ2NHV243cjE1M0hweWt4aXJmeG1NUTg2Z21qV21TNUpXem05eWVUV3AwU1c2bXhVVHg0JTJCNWViZ3ljNVUlMkZyRVdRaWpoOFdTYWNURHBxRURWNzFjaUEzQSUzRCUzRA..">artigo</a></td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+          </tr>
+          <tr>
+            <td>Hábitos: Como melhorá-los</td>
+            <td align=center>20/03/24</td>
+            <td align="center"><a href="https://www.alura.com.br/artigos/habitos-como-melhora-los?_gl=1*13enycq*_ga*MjA2MTQxMDE1MS4xNjg1MDQyNjc1*_ga_1EPWSW3PCS*MTcxMDM0NjIwNi42Mi4xLjE3MTAzNDY4NDEuMC4wLjA.*_fplc*RWlZWDhBSFVoclBPUmpVZUNDRXlhY25nZU5hT2o0TWpnYkpydzFWQ2NHV243cjE1M0hweWt4aXJmeG1NUTg2Z21qV21TNUpXem05eWVUV3AwU1c2bXhVVHg0JTJCNWViZ3ljNVUlMkZyRVdRaWpoOFdTYWNURHBxRURWNzFjaUEzQSUzRCUzRA..">artigo</a></td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+          </tr>
+          <tr>
+            <td>Controle seu foco, aumente sua produtividade</td>
+            <td align=center>20/03/24</td>
+            <td align="center"><a href="https://www.youtube.com/watch?v=7FhnS4SLc4k&list=PLh2Y_pKOa4UcUMLyLDp8cw55WTjK2Ck5s&index=27">vídeo</a></td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+          </tr>
+          <tr>
+            <td>Como é o trabalho remoto?</td>
+            <td align=center>20/03/24</td>
+            <td align="center"><a href="https://www.youtube.com/watch?v=V0FuAukFSzc&t=6s">vídeo</a></td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+          </tr>
+          <tr>
+            <td>Alura Live #51 - Hábitos: como ser mais produtivo?</td>
+            <td align=center>20/03/24</td>
+            <td align="center"><a href="https://www.youtube.com/watch?v=yfcgz3Ivs6g">vídeo</a></td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+          </tr>
+          <tr>
+            <td>Hábitos de estudos</td>
+            <td align=center>20/03/24</td>
+            <td align="center"><a href="https://www.youtube.com/watch?v=a84Hd9c1_sw">vídeo</a></td>
             <td align="center">-</td>
             <td align="center">-</td>
             <td align="center">-</td>

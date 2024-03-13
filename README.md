@@ -73,7 +73,7 @@
         </thead>
         <tbody>
           <tr>
-            <td><a href="https://github.com/Amanda-ribeiiro/ONE-T6/tree/main/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Mergulhe%20em%20programa%C3%A7%C3%A3o%20com%20JavaScript" target="_blank">Lógica de programação: mergulhe em programação com JavaScript</a></td>
+            <td><a href="https://github.com/Amanda-ribeiiro/ONE-T6/tree/main/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Mergulhe%20em%20programa%C3%A7%C3%A3o%20com%20JavaScript" target="_blank">Lógica de programação: mergulhe em programação com JavaScript</a></td>
             <td align=center>25/01/24</td>
             <td align="center"><a href="https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript" target="_blank">link</a></td>
             <td align="center">5</td>
@@ -85,7 +85,7 @@
             </td>
           </tr>
           <tr>
-            <td><a href="https://github.com/Amanda-ribeiiro/ONE-T6/tree/main/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Explore%20fun%C3%A7%C3%B5es%20e%20listas" target="_blank">Lógica de programação: explore funções e listas</a></td>
+            <td><a href="https://github.com/Amanda-ribeiiro/ONE-T6/tree/main/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Explore%20fun%C3%A7%C3%B5es%20e%20listas" target="_blank">Lógica de programação: explore funções e listas</a></td>
             <td align=center>-</td>
             <td align="center"><a href="https://cursos.alura.com.br/course/logica-programacao-funcoes-listas" target="_blank">link</a></td>
             <td align="center">5</td>
@@ -97,7 +97,7 @@
             </td>
           </tr>
           <tr>
-            <td><a href="https://github.com/Amanda-ribeiiro/ONE-T6/tree/main/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Praticando%20com%20desafios" target="_blank">Lógica de programação: praticando com desafios</a></td>
+            <td><a href="https://github.com/Amanda-ribeiiro/ONE-T6/tree/main/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Praticando%20com%20desafios" target="_blank">Lógica de programação: praticando com desafios</a></td>
             <td align=center>-</td>
             <td align="center"><a href="https://cursos.alura.com.br/course/logica-programacao-praticando-desafios" target="_blank">link</a></td>
             <td align="center">5</td>

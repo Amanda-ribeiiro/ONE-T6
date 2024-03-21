@@ -149,6 +149,60 @@
   </details>
 </div>
 
+<div>
+  <details>
+    <summary>Empreendedorismo, Agilidade e Protagonismo na Carreira T6 - ONE</summary>
+    <br>
+      <table align="center">
+        <thead>
+          <tr>
+            <th>Curso</th>
+            <th>Prazo</th>
+            <th>Acessar</th>
+            <th>Modulos</th>
+            <th>Carga Horária</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><a href="https://github.com/Amanda-ribeiiro/ONE-T6/tree/main/" target="_blank">Empreendedorismo, Agilidade e Protagonismo na Carreira T6 - ONE</a></td>
+            <td align=center>20/03/24</td>
+            <td align="center"><a href="https://cursos.alura.com.br/formacao-empreendedorismo-e-agilidade-turma6-one" target="_blank">link</a></td>
+            <td align="center">6</td>
+            <td align="center">54h</td>
+          </tr>
+        </tbody>
+      </table>
+  </details>
+</div>
+
+<div>
+  <details>
+    <summary>Próximos Passos ONE Turma 6 (T6): Fase Especialização</summary>
+    <br>
+      <table align="center">
+        <thead>
+          <tr>
+            <th>Curso</th>
+            <th>Prazo</th>
+            <th>Acessar</th>
+            <th>Modulos</th>
+            <th>Carga Horária</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><a href="https://github.com/Amanda-ribeiiro/ONE-T6/tree/main/" target="_blank">Próximos Passos ONE Turma 6 (T6): Fase Especialização</a></td>
+            <td align=center>20/03/24</td>
+            <td align="center"><a href="https://cursos.alura.com.br/formacao-fase-especializacao-onet6" target="_blank">link</a></td>
+            <td align="center">6</td>
+            <td align="center">54h</td>
+          </tr>
+        </tbody>
+      </table>
+  </details>
+</div>
+
 <br>
 <div align="center">
   <table>

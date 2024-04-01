@@ -125,6 +125,49 @@
             <td align="center">-</td>
             <td align="center">-</td>
           </tr>
+          <tr>
+            <td>Business Agility</td>
+            <td align=center>-</td>
+            <td align="center"><a href="https://cursos.alura.com.br/extra/hipsterstech/business-agility-hipsters-147-a432" target="_blank">Hipsters</a></td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+          </tr>
+          <tr>
+            <td>Gestão Ágil: explorando conceitos da agilidade</td>
+            <td align=center>-</td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/gestao-agil-conceitos-agilidade" target="_blank">Acesso</a></td>
+            <td align="center">5</td>
+            <td align="center">8h</td>
+            <td align="center">
+                <a href="https://cursos.alura.com.br/certificate/amanda-ribeiro98/html-css-cabecalho-footer-variaveis-css" target="_blank">
+                    <img align="center" alt="Certificado: HTML e CSS: cabeçalho, footer e variáveis CSS " src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=https://github.com/Amanda-ribeiiro/ONE-T6/assets/108890154/989a6ee1-f807-4859-b5cd-da43f867e8df">
+                </a>
+            </td>
+            </td>
+          </tr>
+          <tr>
+            <td>Empreendedorismo: da ideia ao plano de negócios</td>
+            <td align=center>-</td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/empreendedorismo" target="_blank">Acesso</a></td>
+            <td align="center">5</td>
+            <td align="center">8h</td>
+            <td align="center">
+                <a href="https://cursos.alura.com.br/certificate/amanda-ribeiro98/html-css-cabecalho-footer-variaveis-css" target="_blank">
+                    <img align="center" alt="Certificado: HTML e CSS: cabeçalho, footer e variáveis CSS " src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=https://github.com/Amanda-ribeiiro/ONE-T6/assets/108890154/989a6ee1-f807-4859-b5cd-da43f867e8df">
+                </a>
+            </td>
+            </td>
+          </tr>
+          <tr>
+            <td>Elevator pitch: aprenda a usar o método eficiente de apresentação</td>
+            <td align=center>-</td>
+            <td align="center"><a href="https://www.alura.com.br/artigos/pitch-elevator-exemplos?_gl=1*rg8rx*_ga*MjA2MTQxMDE1MS4xNjg1MDQyNjc1*_ga_1EPWSW3PCS*MTcxMTkzMzUyNS43OC4xLjE3MTE5MzU2MDAuMC4wLjA.*_fplc*SnZNVTQ0VjV6cmpYM2xYJTJGV1k2V2QzSFNLV1o3QTNuNTljTVFxUHhiZHZjNWlpdjdLdFJJRVcxJTJCVGolMkJiUmtDeWk4Wk40VUdmM2dVMUlQSmxYMjBjQmlZek11MlgzRXNQUnU2aW1wV1FMdXkyZzVaTUVaVFF0Q0xUVW03RDJnJTNEJTNE" target="_blank">artigo</a></td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center">-</td>
+          </tr>
+          <tr>
         </tbody>
       </table>  
 </div>

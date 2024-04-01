@@ -165,7 +165,7 @@
         </thead>
         <tbody>
           <tr>
-            <td><a href="https://github.com/Amanda-ribeiiro/ONE-T6/tree/main/" target="_blank">Empreendedorismo, Agilidade e Protagonismo na Carreira T6 - ONE</a></td>
+            <td><a href="https://github.com/Amanda-ribeiiro/ONE-T6/tree/main/Empreendedorismo%2C%20Agilidade%20e%20Protagonismo%20na%20Carreira" target="_blank">Empreendedorismo, Agilidade e Protagonismo na Carreira T6 - ONE</a></td>
             <td align=center>20/03/24</td>
             <td align="center"><a href="https://cursos.alura.com.br/formacao-empreendedorismo-e-agilidade-turma6-one" target="_blank">link</a></td>
             <td align="center">6</td>

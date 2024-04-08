@@ -30,7 +30,7 @@
 <br>
 
 <div align="center">
-  <h1><a href="https://cursos.alura.com.br/formacao-empreendedorismo-e-agilidade-turma6-one">Empreendedorismo, Agilidade e Protagonismo na Carreira</a></h1>
+  <h1><a href="https://cursos.alura.com.br/formacao-front-end-turma6-one">Front End T6 - ONE</a></h1>
       <table align="center">
         <thead>
           <tr>
@@ -44,130 +44,17 @@
         </thead>
         <tbody>
           <tr>
-            <td>Desenvolvimento de carreira: a demanda do mercado</td>
+            <td></td>
             <td align=center>-</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/desenvolvimento-de-carreira-a-demanda-do-mercado" target="_blank">acesso</a></td>
-            <td align="center">6</td>
-            <td align="center">10h</td>
+            <td align="center"><a href="" target="_blank">acesso</a></td>
+            <td align="center"></td>
+            <td align="center"></td>
             <td align="center">
-                <a href="https://cursos.alura.com.br/certificate/amanda-ribeiro98/html-css-ambiente-arquivos-tags?lang=pt_BR" target="_blank">
-                    <img align="center" alt="Certificado: HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags" src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=https://cursos.alura.com.br/certificate/amanda-ribeiro98/html-css-ambiente-arquivos-tags?lang=pt_BR">
+                <a href="" target="_blank">
+                    <img align="center" alt="Certificado: " src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=">
                 </a>
             </td>
           </tr>
-          <tr>
-            <td>Quais as vantagens em saber usar o LinkedIn?</td>
-            <td align=center>-</td>
-            <td align="center"><a href="https://www.alura.com.br/artigos/quais-as-vantagens-em-saber-usar-o-linkedin?_gl=1*1btr6jd*_ga*MjA2MTQxMDE1MS4xNjg1MDQyNjc1*_ga_1EPWSW3PCS*MTcxMTkzMzUyNS43OC4xLjE3MTE5MzQwNTQuMC4wLjA.*_fplc*SnZNVTQ0VjV6cmpYM2xYJTJGV1k2V2QzSFNLV1o3QTNuNTljTVFxUHhiZHZjNWlpdjdLdFJJRVcxJTJCVGolMkJiUmtDeWk4Wk40VUdmM2dVMUlQSmxYMjBjQmlZek11MlgzRXNQUnU2aW1wV1FMdXkyZzVaTUVaVFF0Q0xUVW03RDJnJTNEJTNE" target="_blank">artigo</a></td>
-            <td align="center">-</td>
-            <td align="center">-</td>
-            <td align="center">-</td>
-          </tr>
-          <tr>
-            <td>Desenvolvimento de carreira: como alcançar a posição desejada</td>
-            <td align=center>-</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/desenvolvimento-de-carreira-como-alcancar-a-posicao-desejada" target="_blank">acesso</a></td>
-            <td align="center">4</td>
-            <td align="center">8h</td>
-            <td align="center">
-                <a href="https://cursos.alura.com.br/certificate/amanda-ribeiro98/html-css-cabecalho-footer-variaveis-css" target="_blank">
-                    <img align="center" alt="Certificado: HTML e CSS: cabeçalho, footer e variáveis CSS " src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=https://github.com/Amanda-ribeiiro/ONE-T6/assets/108890154/989a6ee1-f807-4859-b5cd-da43f867e8df">
-                </a>
-            </td>
-          </tr>
-          <tr>
-            <td>O que é gestão de carreira?</td>
-            <td align=center>-</td>
-            <td align="center"><a href="https://www.hipsters.tech/o-que-e-gestao-de-carreira/" target="_blank">Hipsters</a></td>
-            <td align="center">-</td>
-            <td align="center">-</td>
-            <td align="center">-</td>
-          </tr>
-          <tr>
-            <td>Propósito profissional: seja protagonista da sua carreira</td>
-            <td align=center>-</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/proposito-profissional-protagonista-carreira" target="_blank">Acesso</a></td>
-            <td align="center">4</td>
-            <td align="center">8h</td>
-            <td align="center">
-                <a href="https://cursos.alura.com.br/certificate/amanda-ribeiro98/html-css-cabecalho-footer-variaveis-css" target="_blank">
-                    <img align="center" alt="Certificado: HTML e CSS: cabeçalho, footer e variáveis CSS " src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=https://github.com/Amanda-ribeiiro/ONE-T6/assets/108890154/989a6ee1-f807-4859-b5cd-da43f867e8df">
-                </a>
-            </td>
-            </td>
-          </tr>
-          <tr>
-            <td>O que fazer para conseguir meu primeiro emprego com programação?</td>
-            <td align=center>-</td>
-            <td align="center"><a href="https://www.youtube.com/watch?v=wkJvfkN6BIs" target="_blank">vídeo</a></td>
-            <td align="center">-</td>
-            <td align="center">-</td>
-            <td align="center">-</td>
-          </tr>
-          <tr>
-            <td>Transição de carreira: um guia para a área da tecnologia</td>
-            <td align=center>-</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/transicao-carreira-tecnologia-guia-basico" target="_blank">Acesso</a></td>
-            <td align="center">5</td>
-            <td align="center">8h</td>
-            <td align="center">
-                <a href="https://cursos.alura.com.br/certificate/amanda-ribeiro98/html-css-cabecalho-footer-variaveis-css" target="_blank">
-                    <img align="center" alt="Certificado: HTML e CSS: cabeçalho, footer e variáveis CSS " src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=https://github.com/Amanda-ribeiiro/ONE-T6/assets/108890154/989a6ee1-f807-4859-b5cd-da43f867e8df">
-                </a>
-            </td>
-            </td>
-          </tr>
-          <tr>
-            <td>Como começar sua carreira com programação? - Hipsters.Talks #42</td>
-            <td align=center>-</td>
-            <td align="center"><a href="https://www.youtube.com/watch?v=H2o_46RVF88" target="_blank">vídeo</a></td>
-            <td align="center">-</td>
-            <td align="center">-</td>
-            <td align="center">-</td>
-          </tr>
-          <tr>
-            <td>Business Agility</td>
-            <td align=center>-</td>
-            <td align="center"><a href="https://cursos.alura.com.br/extra/hipsterstech/business-agility-hipsters-147-a432" target="_blank">Hipsters</a></td>
-            <td align="center">-</td>
-            <td align="center">-</td>
-            <td align="center">-</td>
-          </tr>
-          <tr>
-            <td>Gestão Ágil: explorando conceitos da agilidade</td>
-            <td align=center>-</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/gestao-agil-conceitos-agilidade" target="_blank">Acesso</a></td>
-            <td align="center">5</td>
-            <td align="center">8h</td>
-            <td align="center">
-                <a href="https://cursos.alura.com.br/certificate/amanda-ribeiro98/html-css-cabecalho-footer-variaveis-css" target="_blank">
-                    <img align="center" alt="Certificado: HTML e CSS: cabeçalho, footer e variáveis CSS " src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=https://github.com/Amanda-ribeiiro/ONE-T6/assets/108890154/989a6ee1-f807-4859-b5cd-da43f867e8df">
-                </a>
-            </td>
-            </td>
-          </tr>
-          <tr>
-            <td>Empreendedorismo: da ideia ao plano de negócios</td>
-            <td align=center>-</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/empreendedorismo" target="_blank">Acesso</a></td>
-            <td align="center">5</td>
-            <td align="center">8h</td>
-            <td align="center">
-                <a href="https://cursos.alura.com.br/certificate/amanda-ribeiro98/html-css-cabecalho-footer-variaveis-css" target="_blank">
-                    <img align="center" alt="Certificado: HTML e CSS: cabeçalho, footer e variáveis CSS " src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=https://github.com/Amanda-ribeiiro/ONE-T6/assets/108890154/989a6ee1-f807-4859-b5cd-da43f867e8df">
-                </a>
-            </td>
-            </td>
-          </tr>
-          <tr>
-            <td>Elevator pitch: aprenda a usar o método eficiente de apresentação</td>
-            <td align=center>-</td>
-            <td align="center"><a href="https://www.alura.com.br/artigos/pitch-elevator-exemplos?_gl=1*rg8rx*_ga*MjA2MTQxMDE1MS4xNjg1MDQyNjc1*_ga_1EPWSW3PCS*MTcxMTkzMzUyNS43OC4xLjE3MTE5MzU2MDAuMC4wLjA.*_fplc*SnZNVTQ0VjV6cmpYM2xYJTJGV1k2V2QzSFNLV1o3QTNuNTljTVFxUHhiZHZjNWlpdjdLdFJJRVcxJTJCVGolMkJiUmtDeWk4Wk40VUdmM2dVMUlQSmxYMjBjQmlZek11MlgzRXNQUnU2aW1wV1FMdXkyZzVaTUVaVFF0Q0xUVW03RDJnJTNEJTNE" target="_blank">artigo</a></td>
-            <td align="center">-</td>
-            <td align="center">-</td>
-            <td align="center">-</td>
-          </tr>
-          <tr>
         </tbody>
       </table>  
 </div>

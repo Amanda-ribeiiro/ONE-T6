@@ -44,14 +44,14 @@
         </thead>
         <tbody>
           <tr>
-            <td></td>
-            <td align=center>-</td>
-            <td align="center"><a href="" target="_blank">acesso</a></td>
-            <td align="center"></td>
-            <td align="center"></td>
+            <td>CSS: Flexbox e layouts responsivos</td>
+            <td align=center>22/04/2024</td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/css-flexbox-layouts-responsivos" target="_blank">acesso</a></td>
+            <td align="center">5</td>
+            <td align="center">6h</td>
             <td align="center">
-                <a href="" target="_blank">
-                    <img align="center" alt="Certificado: " src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=">
+                <a href="https://cursos.alura.com.br/certificate/amanda-ribeiro98/css-flexbox-layouts-responsivos" target="_blank">
+                    <img align="center" alt="Certificado: " src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=https://cursos.alura.com.br/certificate/amanda-ribeiro98/css-flexbox-layouts-responsivos">
                 </a>
             </td>
           </tr>

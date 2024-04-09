@@ -1,39 +1,52 @@
-# Utilizando propriedades CSS personalizadas (variáveis)
+# CSS: Flexbox e layouts responsivos
 
-- [Variaveis CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Using_CSS_custom_properties)
-
-> Criamos no `:root`, ou seja, no escopo global de um código, uma variável que foi declarada com o nome `--tamanho-da-fonte` e seu valor foi atribuído como `24px`. Toda vez que chamarmos pelo nome `--tamanho-da-fonte`, iremos obter como retorno o valor `24px`.
-
+As Propriedades:
 ```css
-:root{
-     --tamanho-da-fonte:  24px;
-}
-
-.minha-class {
-    font-size: var(--tamanho-da-fonte);
-}
+flex-direction: column;
+flex-wrap: wrap;
 ```
 
+Podem ser transcritas apenas com esse trecho de código:
+
+```css
+flex-flow: column wrap ;
+```
+
+### Displays flex & inline-flex
+> Ambos valores de display permitem alinhar itens com propriedades do Flexbox.
+
+O que eles não têm em comum?
+- O `display: flex` faz com que o container se expanda ocupando toda a largura do layout assim, os outros containers com o mesmo valor de display ficam um embaixo do outro, na direção vertical.
+
+- Já o `display: inline-flex`, utiliza as mesmas características de exibição do display: inline. Exibindo os elementos em nível de linha, na horizontal, sem ocupar toda a largura do layout.
+
+### Flex-item & Flex-container
+
+- `flex-container`, que são sempre aplicadas no elemento pai. Possibilitando manipular todos os elementos no seu interior.
+- E, também, utilizando propriedades `flex-item`, estas são sempre aplicadas em cada elemento que deseja manipular.
+
+<img src="https://github.com/Amanda-ribeiiro/ONE-T6/assets/108890154/c383d630-de52-4f51-8f17-f85074328325" width="400">
+<img src="https://github.com/Amanda-ribeiiro/ONE-T6/assets/108890154/71773ea4-7d5c-4c7d-8d23-ac95fbd4b685" width="200">
+
+### Flex-glow & Flex-shrink
+
+- A propriedade `flex-shrink` é ideal para ser aplicada quando queremos encolher elementos à medida que o seu container diminui de largura.
+> Com a propriedade `flex-shrink` quanto maior o valor inserido, mais este item irá encolher em relação aos seus itens irmãos. 
+- A propriedade `flex-grow`, que quanto maior o valor inserido, mais um item poderá crescer.
+> A propriedade `flex-grow` é utilizada para expandir itens proporcionalmente de acordo com o espaço disponível em um container.
+
+#### Opções de sites que são jogos para você aprender Flexbox se divertindo:
+- [Flexbox Defense](http://www.flexboxdefense.com/)
+- [Flexbox Froggy](https://flexboxfroggy.com/)
+- [Flexbox Zombies](https://mastery.games/flexboxzombies/)
+
+
 ## References
+[Criando Layouts com CSS Grid Layout](https://www.alura.com.br/artigos/criando-layouts-com-css-grid-layout?_gl=1*gah19x*_ga*MjA2MTQxMDE1MS4xNjg1MDQyNjc1*_ga_1EPWSW3PCS*MTcxMjYxNDcyMi44Mi4xLjE3MTI2MjQ5NjQuMC4wLjA.*_fplc*bks0MzZGWVpPNzV1azIzanltQUtKbG5JMXZKNnJKcFBRaE1xQWZibiUyQlAzREhjemxGdldnZjd1R3RTdlVGQmM5cnZ5YU0wJTJGOVFya2JpRXJSM01QZzR5SEJ3b281S2tyRjRORFN2SWVOb0FLMCUyRjU1T1JLSzdWRHp3NnR3UE9nJTNEJTNE)
 
-- [29 rodapés e cabeçalhos CSS de alta qualidade para sua página web | Creativos Online (Gratuito, Português, Artigo)](https://www.creativosonline.org/pt/27-cabe%C3%A7alhos-e-rodap%C3%A9s-css-para-seu-blog-ou-site.html)
+[Reset CSS: O que é, exemplos, como Criar e usar](https://www.alura.com.br/artigos/o-que-e-reset-css?_gl=1*hfu5er*_ga*MjA2MTQxMDE1MS4xNjg1MDQyNjc1*_ga_1EPWSW3PCS*MTcxMjYxNDcyMi44Mi4xLjE3MTI2MTg3MTMuMC4wLjA.*_fplc*bks0MzZGWVpPNzV1azIzanltQUtKbG5JMXZKNnJKcFBRaE1xQWZibiUyQlAzREhjemxGdldnZjd1R3RTdlVGQmM5cnZ5YU0wJTJGOVFya2JpRXJSM01QZzR5SEJ3b281S2tyRjRORFN2SWVOb0FLMCUyRjU1T1JLSzdWRHp3NnR3UE9nJTNEJTNE)
 
-> apresenta uma coleção de 29 cabeçalhos e rodapés em CSS que podem ser usados em blogs ou sites. Inclui exemplos variados, desde cabeçalhos de artigos em tela cheia até cabeçalhos fixos e rodapés, oferecendo ideias práticas para personalizar o visual do cabeçalho do seu site.
+[Flexbox CSS: Guia Completo, Elementos e Exemplos](https://www.alura.com.br/artigos/css-guia-do-flexbox?_gl=1*108a77s*_ga*MjA2MTQxMDE1MS4xNjg1MDQyNjc1*_ga_1EPWSW3PCS*MTcxMjYxNDcyMi44Mi4xLjE3MTI2MTgzMDIuMC4wLjA.*_fplc*bks0MzZGWVpPNzV1azIzanltQUtKbG5JMXZKNnJKcFBRaE1xQWZibiUyQlAzREhjemxGdldnZjd1R3RTdlVGQmM5cnZ5YU0wJTJGOVFya2JpRXJSM01QZzR5SEJ3b281S2tyRjRORFN2SWVOb0FLMCUyRjU1T1JLSzdWRHp3NnR3UE9nJTNEJTNE)
 
-- [Utilizando propriedades CSS personalizadas (variáveis) - CSS | MDN (Gratuito, Português, Artigo)](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Using_CSS_custom_properties)
+[A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
-> explica o uso básico de variáveis CSS. A declaração de uma propriedade personalizada é feita com um nome que começa com um hífen duplo (--) e um valor de propriedade que pode ser qualquer valor CSS válido. Este recurso é essencial para entender a sintaxe e o uso prático das variáveis em CSS.
-
-- [Variáveis CSS: um guia prático | desenvolvimento para web (Gratuito, Português, Artigo)](https://www.desenvolvimentoparaweb.com/css/variaveis-css-guia-pratico/)
-
-> como integrar variáveis CSS no fluxo de trabalho de desenvolvimento para tornar as folhas de estilo mais fáceis de manter e evitar repetições desnecessárias. É uma excelente fonte para compreender como as variáveis podem otimizar a manutenção do código.
-
-- [CSS Variables - The var() function - W3Schools (Gratuito, Inglês, Artigo)](https://www.w3schools.com/css/css3_variables.asp)
-
-> guia sobre a função var() em CSS, utilizada para inserir o valor de uma variável CSS. O artigo aborda como criar variáveis com escopo local ou global, alterá-las com JavaScript e basear as mudanças em media queries. Este recurso é útil para entender como as variáveis CSS interagem com o DOM e podem ser aplicadas de forma dinâmica.
-
-- [Construa um CSS mágico com variáveis nativas | Alura (Gratuito, Português, Artigo)](https://www.alura.com.br/artigos/construa-css-magico-variaveis-nativas?_gl=1*ay6ptk*_ga*MjA2MTQxMDE1MS4xNjg1MDQyNjc1*_ga_1EPWSW3PCS*MTcwODM5MDMzOC40My4xLjE3MDgzOTMyMjUuMC4wLjA.*_fplc*a0hYcHclMkJvNkdUOUhCWmtYak5JOFkzTThFZlQxQXd5YlpZdzZsdktjclBjWFlTV2glMkZwN1BHWmViTEs5TCUyQlRUSUloSTB3cFh2SEEyOU1TMnBLbW5kNzJUMzN5cHAyaFNodnMlMkJhMGclMkI5WVlzNFJNY2M1Wm5WYjA4Vlc1THJMdyUzRCUzRA..)
-
-> como utilizar variáveis CSS, destacando a possibilidade de declará-las globalmente ou localmente. Este recurso é valioso para compreender a aplicação prática das variáveis CSS em diferentes escopos de um projeto.
-
-- [Semântica](https://developer.mozilla.org/pt-BR/docs/Glossary/Semantics)

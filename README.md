@@ -31,7 +31,7 @@
 
 <div>
   <details>
-    <summary>Desenvolvimento Pessoal T6 - ONE</summary>
+    <summary>ONE | Fase 3 - Especialização Front-End</summary>
     <br>
       <table align="center">
         <thead>
@@ -45,11 +45,65 @@
         </thead>
         <tbody>
           <tr>
-            <td><a href="https://github.com/Amanda-ribeiiro/ONE-T6/tree/main/Desenvolvimento%20Pessoal" target="_blank">Desenvolvimento Pessoal T6 - ONE</a></td>
+            <td><a href="https://github.com/Amanda-ribeiiro/ONE-T6/tree/main/Front%20End%20T6%20-%20ONE" target="_blank">ONE | Fase 3 - Especialização Front-End</a></td>
             <td align=center>20/03/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/formacao-desenvolvimento-pessoal-turma6-one" target="_blank">link</a></td>
+            <td align="center"><a href="https://cursos.alura.com.br/corp/one-fase-3-especializacao-front-end-119651-p740913" target="_blank">link</a></td>
             <td align="center">4</td>
             <td align="center">38h</td>
+          </tr>
+        </tbody>
+      </table>
+  </details>
+</div>
+
+<div>
+  <details>
+    <summary>Empreendedorismo, Agilidade e Protagonismo na Carreira T6 - ONE</summary>
+    <br>
+      <table align="center">
+        <thead>
+          <tr>
+            <th>Curso</th>
+            <th>Prazo</th>
+            <th>Acessar</th>
+            <th>Modulos</th>
+            <th>Carga Horária</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><a href="https://github.com/Amanda-ribeiiro/ONE-T6/tree/main/Empreendedorismo%2C%20Agilidade%20e%20Protagonismo%20na%20Carreira" target="_blank">Empreendedorismo, Agilidade e Protagonismo na Carreira T6 - ONE</a></td>
+            <td align=center>20/03/24</td>
+            <td align="center"><a href="https://cursos.alura.com.br/formacao-empreendedorismo-e-agilidade-turma6-one" target="_blank">link</a></td>
+            <td align="center">6</td>
+            <td align="center">54h</td>
+          </tr>
+        </tbody>
+      </table>
+  </details>
+</div>
+
+<div>
+  <details>
+    <summary>Próximos Passos ONE Turma 6 (T6): Fase Especialização</summary>
+    <br>
+      <table align="center">
+        <thead>
+          <tr>
+            <th>Curso</th>
+            <th>Prazo</th>
+            <th>Acessar</th>
+            <th>Modulos</th>
+            <th>Carga Horária</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><a href="https://github.com/Amanda-ribeiiro/ONE-T6/tree/main/" target="_blank">Próximos Passos ONE Turma 6 (T6): Fase Especialização</a></td>
+            <td align=center>20/03/24</td>
+            <td align="center"><a href="https://cursos.alura.com.br/formacao-fase-especializacao-onet6" target="_blank">link</a></td>
+            <td align="center">6</td>
+            <td align="center">54h</td>
           </tr>
         </tbody>
       </table>
@@ -151,7 +205,7 @@
 
 <div>
   <details>
-    <summary>Empreendedorismo, Agilidade e Protagonismo na Carreira T6 - ONE</summary>
+    <summary>Desenvolvimento Pessoal T6 - ONE</summary>
     <br>
       <table align="center">
         <thead>
@@ -165,38 +219,11 @@
         </thead>
         <tbody>
           <tr>
-            <td><a href="https://github.com/Amanda-ribeiiro/ONE-T6/tree/main/Empreendedorismo%2C%20Agilidade%20e%20Protagonismo%20na%20Carreira" target="_blank">Empreendedorismo, Agilidade e Protagonismo na Carreira T6 - ONE</a></td>
+            <td><a href="https://github.com/Amanda-ribeiiro/ONE-T6/tree/main/Desenvolvimento%20Pessoal" target="_blank">Desenvolvimento Pessoal T6 - ONE</a></td>
             <td align=center>20/03/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/formacao-empreendedorismo-e-agilidade-turma6-one" target="_blank">link</a></td>
-            <td align="center">6</td>
-            <td align="center">54h</td>
-          </tr>
-        </tbody>
-      </table>
-  </details>
-</div>
-
-<div>
-  <details>
-    <summary>Próximos Passos ONE Turma 6 (T6): Fase Especialização</summary>
-    <br>
-      <table align="center">
-        <thead>
-          <tr>
-            <th>Curso</th>
-            <th>Prazo</th>
-            <th>Acessar</th>
-            <th>Modulos</th>
-            <th>Carga Horária</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td><a href="https://github.com/Amanda-ribeiiro/ONE-T6/tree/main/" target="_blank">Próximos Passos ONE Turma 6 (T6): Fase Especialização</a></td>
-            <td align=center>20/03/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/formacao-fase-especializacao-onet6" target="_blank">link</a></td>
-            <td align="center">6</td>
-            <td align="center">54h</td>
+            <td align="center"><a href="https://cursos.alura.com.br/formacao-desenvolvimento-pessoal-turma6-one" target="_blank">link</a></td>
+            <td align="center">4</td>
+            <td align="center">38h</td>
           </tr>
         </tbody>
       </table>

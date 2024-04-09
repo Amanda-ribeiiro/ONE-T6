@@ -1,6 +1,6 @@
 <div align=center>
-    <a href="https://github.com/Amanda-ribeiiro/ONE-T6/blob/main/HTML%20e%20CSS/HTML%20e%20CSS%20Classes%2C%20posicionamento%20e%20Flexbox/README.md"><img src="https://img.shields.io/badge/Idioma-Portugu%C3%AAs-green"></a>
-    <a href="https://github.com/Amanda-ribeiiro/ONE-T6/blob/main/HTML%20e%20CSS/HTML%20e%20CSS%20Classes%2C%20posicionamento%20e%20Flexbox/README.en.md"><img src="https://img.shields.io/badge/Language-English-blue"></a>
+    <a href="https://github.com/Amanda-ribeiiro/ONE-T6/blob/main/Front%20End%20T6%20-%20ONE/CSS%20Flexbox%20e%20layouts%20responsivos%20CSS%20Flexbox%20e%20layouts%20responsivos/README.md"><img src="https://img.shields.io/badge/Idioma-Portugu%C3%AAs-green"></a>
+    <a href="https://github.com/Amanda-ribeiiro/ONE-T6/blob/main/Front%20End%20T6%20-%20ONE/CSS%20Flexbox%20e%20layouts%20responsivos%20CSS%20Flexbox%20e%20layouts%20responsivos/README.en.md"><img src="https://img.shields.io/badge/Language-English-blue"></a>
 </div>
 
 <br>
@@ -30,7 +30,7 @@
 <br>
 
 <div align="center">
-  <h1><a href="https://cursos.alura.com.br/course/html-css-cabecalho-footer-variaveis-css">HTML e CSS: cabeçalho, footer e variáveis CSS</a></h1>
+  <h1><a href="https://cursos.alura.com.br/course/css-flexbox-layouts-responsivos">CSS: Flexbox e layouts responsivos</a></h1>
       <table align="center">
         <thead>
           <tr>
@@ -43,11 +43,11 @@
         </thead>
         <tbody>
           <tr>
-            <td>Preparando o layout do projeto</td>
+            <td>Conhecendo o poder do Flexbox</td>
             <td align=center>20/03/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-cabecalho-footer-variaveis-css/section/15291/tasks" target="_blank">acesso</a></td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/css-flexbox-layouts-responsivos/section/14435/tasks" target="_blank">acesso</a></td>
             <td align="center">9</td>
-            <td align="center">20min</td>
+            <td align="center">13min</td>
           </tr>
           <tr>
             <td>Criando ícones clicáveis</td>
@@ -57,25 +57,32 @@
             <td align="center">13min</td>
           </tr>
           <tr>
-            <td>Criando header e footer</td>
+            <td>Rodapé responsivo</td>
             <td align=center>20/03/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-cabecalho-footer-variaveis-css/section/15293/tasks" target="_blank">acesso</a></td>
-            <td align="center">7</td>
-            <td align="center">12min</td>
-          </tr>
-          <tr>
-            <td>Navegando entre páginas</td>
-            <td align=center>20/03/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-cabecalho-footer-variaveis-css/section/15294/tasks" target="_blank">acesso</a></td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/css-flexbox-layouts-responsivos/section/14436/tasks" target="_blank">acesso</a></td>
             <td align="center">8</td>
-            <td align="center">18min</td>
+            <td align="center">14min</td>
           </tr>
           <tr>
-            <td>Aplicando variáveis CSS</td>
+            <td>Menu mobile-first</td>
             <td align=center>20/03/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-cabecalho-footer-variaveis-css/section/15295/tasks" target="_blank">acesso</a></td>
-            <td align="center">14</td>
-            <td align="center">24min</td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/css-flexbox-layouts-responsivos/section/14437/tasks" target="_blank">acesso</a></td>
+            <td align="center">10</td>
+            <td align="center">15min</td>
+          </tr>
+          <tr>
+            <td>Menu flexível</td>
+            <td align=center>20/03/24</td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/css-flexbox-layouts-responsivos/section/14438/tasks" target="_blank">acesso</a></td>
+            <td align="center">8</td>
+            <td align="center">13min</td>
+          </tr>
+          <tr>
+            <td>Vídeos flex-grow</td>
+            <td align=center>20/03/24</td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/css-flexbox-layouts-responsivos/section/14439/tasks" target="_blank">acesso</a></td>
+            <td align="center">11</td>
+            <td align="center">14min</td>
           </tr>
         </tbody>
       </table>  
@@ -91,8 +98,8 @@
     </summary>
     <br>
         <div align="center">
-            <a href="https://cursos.alura.com.br/certificate/amanda-ribeiro98/html-css-cabecalho-footer-variaveis-css" target="_blank">
-                <img src="https://github.com/Amanda-ribeiiro/ONE-T6/assets/108890154/989a6ee1-f807-4859-b5cd-da43f867e8df" width=700 height=500 alt="Certificado">
+            <a href="https://cursos.alura.com.br/certificate/amanda-ribeiro98/css-flexbox-layouts-responsivos" target="_blank">
+                <img src="https://github.com/Amanda-ribeiiro/ONE-T6/assets/108890154/eeba1e2a-d0ed-4755-a179-217405d15ad0" width=700 height=500 alt="Certificado">
             </a>
         </div>
 </details>

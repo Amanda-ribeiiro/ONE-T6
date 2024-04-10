@@ -1,6 +1,6 @@
 <div align=center>
-    <a href="https://github.com/Amanda-ribeiiro/ONE-T6/blob/main/HTML%20e%20CSS/HTML%20e%20CSS%20Classes%2C%20posicionamento%20e%20Flexbox/README.md"><img src="https://img.shields.io/badge/Idioma-Portugu%C3%AAs-green"></a>
-    <a href="https://github.com/Amanda-ribeiiro/ONE-T6/blob/main/HTML%20e%20CSS/HTML%20e%20CSS%20Classes%2C%20posicionamento%20e%20Flexbox/README.en.md"><img src="https://img.shields.io/badge/Language-English-blue"></a>
+    <a href="https://github.com/Amanda-ribeiiro/ONE-T6/blob/main/Front%20End%20T6%20-%20ONE/Praticando%20Front%20End%20Challenge%20Portf%C3%B3lio/README.md"><img src="https://img.shields.io/badge/Idioma-Portugu%C3%AAs-green"></a>
+    <a href="https://github.com/Amanda-ribeiiro/ONE-T6/blob/main/Front%20End%20T6%20-%20ONE/Praticando%20Front%20End%20Challenge%20Portf%C3%B3lio/README.en.md"><img src="https://img.shields.io/badge/Language-English-blue"></a>
 </div>
 
 <br>
@@ -30,7 +30,7 @@
 <br>
 
 <div align="center">
-  <h1><a href="https://cursos.alura.com.br/course/html-css-cabecalho-footer-variaveis-css">HTML e CSS: cabeçalho, footer e variáveis CSS</a></h1>
+  <h1><a href="https://cursos.alura.com.br/course/challenge-front-end-portfolio">Praticando Front End: Challenge Portfólio</a></h1>
       <table align="center">
         <thead>
           <tr>
@@ -43,39 +43,25 @@
         </thead>
         <tbody>
           <tr>
-            <td>Preparando o layout do projeto</td>
-            <td align=center>20/03/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-cabecalho-footer-variaveis-css/section/15291/tasks" target="_blank">acesso</a></td>
-            <td align="center">9</td>
-            <td align="center">20min</td>
+            <td>Challenges ONE</td>
+            <td align=center>16/07/24</td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/challenge-front-end-portfolio/section/18954/tasks" target="_blank">acesso</a></td>
+            <td align="center">3</td>
+            <td align="center">10min</td>
           </tr>
           <tr>
-            <td>Criando ícones clicáveis</td>
-            <td align=center>20/03/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-cabecalho-footer-variaveis-css/section/15292/tasks" target="_blank">acesso</a></td>
-            <td align="center">11</td>
-            <td align="center">13min</td>
+            <td>Construa seu Portfólio</td>
+            <td align=center>16/07/24</td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/challenge-front-end-portfolio/section/18955/tasks" target="_blank">acesso</a></td>
+            <td align="center">5</td>
+            <td align="center">4min</td>
           </tr>
           <tr>
-            <td>Criando header e footer</td>
-            <td align=center>20/03/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-cabecalho-footer-variaveis-css/section/15293/tasks" target="_blank">acesso</a></td>
-            <td align="center">7</td>
-            <td align="center">12min</td>
-          </tr>
-          <tr>
-            <td>Navegando entre páginas</td>
-            <td align=center>20/03/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-cabecalho-footer-variaveis-css/section/15294/tasks" target="_blank">acesso</a></td>
-            <td align="center">8</td>
-            <td align="center">18min</td>
-          </tr>
-          <tr>
-            <td>Aplicando variáveis CSS</td>
-            <td align=center>20/03/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-cabecalho-footer-variaveis-css/section/15295/tasks" target="_blank">acesso</a></td>
-            <td align="center">14</td>
-            <td align="center">24min</td>
+            <td>Entrega do Challenge</td>
+            <td align=center>16/07/24</td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/challenge-front-end-portfolio/section/18956/tasks" target="_blank">acesso</a></td>
+            <td align="center">2</td>
+            <td align="center">2min</td>
           </tr>
         </tbody>
       </table>  
@@ -91,8 +77,8 @@
     </summary>
     <br>
         <div align="center">
-            <a href="https://cursos.alura.com.br/certificate/amanda-ribeiro98/html-css-cabecalho-footer-variaveis-css" target="_blank">
-                <img src="https://github.com/Amanda-ribeiiro/ONE-T6/assets/108890154/989a6ee1-f807-4859-b5cd-da43f867e8df" width=700 height=500 alt="Certificado">
+            <a href="https://cursos.alura.com.br/certificate/amanda-ribeiro98/" target="_blank">
+                <img src="" width=700 height=500 alt="Certificado">
             </a>
         </div>
 </details>

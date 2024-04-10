@@ -44,42 +44,42 @@
         <tbody>
           <tr>
             <td>Conhecendo o poder do Flexbox</td>
-            <td align=center>20/03/24</td>
+            <td align=center>16/07/2024</td>
             <td align="center"><a href="https://cursos.alura.com.br/course/css-flexbox-layouts-responsivos/section/14435/tasks" target="_blank">acesso</a></td>
             <td align="center">9</td>
             <td align="center">13min</td>
           </tr>
           <tr>
             <td>Criando ícones clicáveis</td>
-            <td align=center>20/03/24</td>
+            <td align=center>16/07/2024</td>
             <td align="center"><a href="https://cursos.alura.com.br/course/html-css-cabecalho-footer-variaveis-css/section/15292/tasks" target="_blank">acesso</a></td>
             <td align="center">11</td>
             <td align="center">13min</td>
           </tr>
           <tr>
             <td>Rodapé responsivo</td>
-            <td align=center>20/03/24</td>
+            <td align=center>16/07/2024</td>
             <td align="center"><a href="https://cursos.alura.com.br/course/css-flexbox-layouts-responsivos/section/14436/tasks" target="_blank">acesso</a></td>
             <td align="center">8</td>
             <td align="center">14min</td>
           </tr>
           <tr>
             <td>Menu mobile-first</td>
-            <td align=center>20/03/24</td>
+            <td align=center>16/07/2024</td>
             <td align="center"><a href="https://cursos.alura.com.br/course/css-flexbox-layouts-responsivos/section/14437/tasks" target="_blank">acesso</a></td>
             <td align="center">10</td>
             <td align="center">15min</td>
           </tr>
           <tr>
             <td>Menu flexível</td>
-            <td align=center>20/03/24</td>
+            <td align=center>16/07/2024</td>
             <td align="center"><a href="https://cursos.alura.com.br/course/css-flexbox-layouts-responsivos/section/14438/tasks" target="_blank">acesso</a></td>
             <td align="center">8</td>
             <td align="center">13min</td>
           </tr>
           <tr>
             <td>Vídeos flex-grow</td>
-            <td align=center>20/03/24</td>
+            <td align=center>16/07/2024</td>
             <td align="center"><a href="https://cursos.alura.com.br/course/css-flexbox-layouts-responsivos/section/14439/tasks" target="_blank">acesso</a></td>
             <td align="center">11</td>
             <td align="center">14min</td>

@@ -92,7 +92,7 @@
     <br>
         <div align="center">
             <a href="https://cursos.alura.com.br/certificate/amanda-ribeiro98/javascript-web-paginas-dinamicas" target="_blank">
-                <img src="https://github.com/Amanda-ribeiiro/ONE-T6/assets/108890154/01af473b-9c56-4f77-8925-6ab9bac6a85a" width=700 height=500 alt="Certificado">
+                <img src="https://github.com/Amanda-ribeiiro/ONE-T6/assets/108890154/3526e965-83a6-46ef-b389-b66606d17540" width=700 height=500 alt="Certificado">
             </a>
         </div>
 </details>

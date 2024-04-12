@@ -1,4 +1,4 @@
-# O que é o DOM?
+## O que é o DOM?
 
 > O DOM (Document Object Model) é como uma árvore genealógica, porém, de forma invertida. O elemento que antecede o document é o window, que nada mais é que a janela do navegador. Em sua estrutura, o document está no topo como objeto global e tem como elemento raiz a tag html e todas as outras descendem dela através das suas ramificações (branchs)
 
@@ -25,6 +25,10 @@ document.querySelector('#som_tecla_pom').play();
 "." entrar pra dentro do elemento que está sendo buscado no `querySelector` e vai trazer todas as funcionalidades e propriedades que são possíveis ser consultadas ou executadas dentro do elemento.
 
 Os parâmetros são os nomes que damos a valores que uma função pode receber em sua chamada, que podem ou não ter um valor padrão. Os parâmetros de uma função são como variáveis ficam disponíveis apenas no corpo da função.
+
+## Quando funções anônimas são úteis?
+
+As funções anônimas são bem úteis quando queremos executar alguma coisa uma única vez ou em apenas um lugar.
 
 ## Referências
 

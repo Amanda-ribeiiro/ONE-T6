@@ -1,6 +1,6 @@
 <div align=center>
-    <a href="https://github.com/Amanda-ribeiiro/ONE-T6/blob/main/Front%20End%20T6%20-%20ONE/CSS%20Flexbox%20e%20layouts%20responsivos%20CSS%20Flexbox%20e%20layouts%20responsivos/README.md"><img src="https://img.shields.io/badge/Idioma-Portugu%C3%AAs-green"></a>
-    <a href="https://github.com/Amanda-ribeiiro/ONE-T6/blob/main/Front%20End%20T6%20-%20ONE/CSS%20Flexbox%20e%20layouts%20responsivos%20CSS%20Flexbox%20e%20layouts%20responsivos/README.en.md"><img src="https://img.shields.io/badge/Language-English-blue"></a>
+    <a href="https://github.com/Amanda-ribeiiro/ONE-T6/blob/main/ONE%20%20Fase%203%20-%20Especializa%C3%A7%C3%A3o%20Front-End/Front%20End%20T6%20-%20ONE/JavaScript%20para%20Web%20Crie%20p%C3%A1ginas%20din%C3%A2micas/README.md"><img src="https://img.shields.io/badge/Idioma-Portugu%C3%AAs-green"></a>
+    <a href="https://github.com/Amanda-ribeiiro/ONE-T6/blob/main/ONE%20%20Fase%203%20-%20Especializa%C3%A7%C3%A3o%20Front-End/Front%20End%20T6%20-%20ONE/JavaScript%20para%20Web%20Crie%20p%C3%A1ginas%20din%C3%A2micas/README.en.md"><img src="https://img.shields.io/badge/Language-English-blue"></a>
 </div>
 
 <br>
@@ -30,7 +30,7 @@
 <br>
 
 <div align="center">
-  <h1><a href="https://cursos.alura.com.br/course/css-flexbox-layouts-responsivos">CSS: Flexbox e layouts responsivos</a></h1>
+  <h1><a href="https://cursos.alura.com.br/course/javascript-web-paginas-dinamicas">JavaScript para Web: Crie páginas dinâmicas</a></h1>
       <table align="center">
         <thead>
           <tr>
@@ -43,46 +43,39 @@
         </thead>
         <tbody>
           <tr>
-            <td>Conhecendo o poder do Flexbox</td>
-            <td align=center>20/03/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/css-flexbox-layouts-responsivos/section/14435/tasks" target="_blank">acesso</a></td>
-            <td align="center">9</td>
-            <td align="center">13min</td>
-          </tr>
-          <tr>
-            <td>Criando ícones clicáveis</td>
-            <td align=center>20/03/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-cabecalho-footer-variaveis-css/section/15292/tasks" target="_blank">acesso</a></td>
-            <td align="center">11</td>
-            <td align="center">13min</td>
-          </tr>
-          <tr>
-            <td>Rodapé responsivo</td>
-            <td align=center>20/03/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/css-flexbox-layouts-responsivos/section/14436/tasks" target="_blank">acesso</a></td>
-            <td align="center">8</td>
-            <td align="center">14min</td>
-          </tr>
-          <tr>
-            <td>Menu mobile-first</td>
-            <td align=center>20/03/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/css-flexbox-layouts-responsivos/section/14437/tasks" target="_blank">acesso</a></td>
+            <td>Conhecendo o JavaScript</td>
+            <td align=center>16/07/24</td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/javascript-web-paginas-dinamicas/section/12902/tasks" target="_blank">acesso</a></td>
             <td align="center">10</td>
-            <td align="center">15min</td>
+            <td align="center">29min</td>
           </tr>
           <tr>
-            <td>Menu flexível</td>
-            <td align=center>20/03/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/css-flexbox-layouts-responsivos/section/14438/tasks" target="_blank">acesso</a></td>
+            <td>Funções</td>
+            <td align=center>16/07/24</td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/javascript-web-paginas-dinamicas/section/12903/tasks" target="_blank">acesso</a></td>
+            <td align="center">9</td>
+            <td align="center">22min</td>
+          </tr>
+          <tr>
+            <td>Listas</td>
+            <td align=center>16/07/24</td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/javascript-web-paginas-dinamicas/section/12904/tasks" target="_blank">acesso</a></td>
             <td align="center">8</td>
-            <td align="center">13min</td>
+            <td align="center">24min</td>
           </tr>
           <tr>
-            <td>Vídeos flex-grow</td>
-            <td align=center>20/03/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/css-flexbox-layouts-responsivos/section/14439/tasks" target="_blank">acesso</a></td>
-            <td align="center">11</td>
-            <td align="center">14min</td>
+            <td>Iterando em listas</td>
+            <td align=center>16/07/24</td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/javascript-web-paginas-dinamicas/section/12905/tasks" target="_blank">acesso</a></td>
+            <td align="center">12</td>
+            <td align="center">49min</td>
+          </tr>
+          <tr>
+            <td>Eventos e lógicas</td>
+            <td align=center>16/07/24</td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/javascript-web-paginas-dinamicas/section/12906/tasks" target="_blank">acesso</a></td>
+            <td align="center">14</td>
+            <td align="center">58min</td>
           </tr>
         </tbody>
       </table>  
@@ -98,8 +91,8 @@
     </summary>
     <br>
         <div align="center">
-            <a href="https://cursos.alura.com.br/certificate/amanda-ribeiro98/css-flexbox-layouts-responsivos" target="_blank">
-                <img src="https://github.com/Amanda-ribeiiro/ONE-T6/assets/108890154/eeba1e2a-d0ed-4755-a179-217405d15ad0" width=700 height=500 alt="Certificado">
+            <a href="https://cursos.alura.com.br/certificate/amanda-ribeiro98/" target="_blank">
+                <img src="" width=700 height=500 alt="Certificado">
             </a>
         </div>
 </details>

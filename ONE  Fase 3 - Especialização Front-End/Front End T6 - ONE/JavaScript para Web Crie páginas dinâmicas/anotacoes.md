@@ -1,52 +1,37 @@
-# CSS: Flexbox e layouts responsivos
+## O que é o DOM?
 
-As Propriedades:
-```css
-flex-direction: column;
-flex-wrap: wrap;
+> O DOM (Document Object Model) é como uma árvore genealógica, porém, de forma invertida. O elemento que antecede o document é o window, que nada mais é que a janela do navegador. Em sua estrutura, o document está no topo como objeto global e tem como elemento raiz a tag html e todas as outras descendem dela através das suas ramificações (branchs)
+
+- Ao carregar a página, o navegador cria o documento, a interface, e o **Javascript usa o DOM para se conectar ao HTML**.
+- Maneiras de manipulá-lo: no DevTools do navegador, na aba Console, ao digitar console.dir (diretório) e passar o parâmetro document, é exibida uma lista com propriedades e funcionalidades do documento.
+
+## Algoritmos e Lógica de programação
+
+> Quando a necessidade é desenvolver um programa ou rotina a ser executada pelo computador, precisamos deixar bem claro a sequência que deve ser seguida para atingir o resultado esperado. A esse encadeamento lógico na programação, chamamos de Lógica de Programação, e a descrição de como fazer, definimos como Algoritmos.
+
+- **Algoritmos**: são sequências de passos que seguimos com a intenção de atingir um objetivo, criar o algoritmo e avaliar se o resultado obtido é a solução esperada. 
+- **Lógica de Programação**: em linhas gerais, lógica de programação é todo conjunto de regras e conceitos que precisamos aplicar para criar códigos que serão interpretados e executados por um computador.
+
+## Arquivos `js`
+
+> local correto do arquivo js
+
+O navegador ler linha por linha, então se o nosso arquivo `js` depende da nossa estrutura html carregada e pronta ele precisa necessariamente ser colocado  dentro da tag `<body>` logo antes do seu fechamento `</body>`.
+
+```js
+document.querySelector('#som_tecla_pom').play();
 ```
 
-Podem ser transcritas apenas com esse trecho de código:
+"." entrar pra dentro do elemento que está sendo buscado no `querySelector` e vai trazer todas as funcionalidades e propriedades que são possíveis ser consultadas ou executadas dentro do elemento.
 
-```css
-flex-flow: column wrap ;
-```
+Os parâmetros são os nomes que damos a valores que uma função pode receber em sua chamada, que podem ou não ter um valor padrão. Os parâmetros de uma função são como variáveis ficam disponíveis apenas no corpo da função.
 
-### Displays flex & inline-flex
-> Ambos valores de display permitem alinhar itens com propriedades do Flexbox.
+## Quando funções anônimas são úteis?
 
-O que eles não têm em comum?
-- O `display: flex` faz com que o container se expanda ocupando toda a largura do layout assim, os outros containers com o mesmo valor de display ficam um embaixo do outro, na direção vertical.
+As funções anônimas são bem úteis quando queremos executar alguma coisa uma única vez ou em apenas um lugar.
 
-- Já o `display: inline-flex`, utiliza as mesmas características de exibição do display: inline. Exibindo os elementos em nível de linha, na horizontal, sem ocupar toda a largura do layout.
+## Referências
 
-### Flex-item & Flex-container
-
-- `flex-container`, que são sempre aplicadas no elemento pai. Possibilitando manipular todos os elementos no seu interior.
-- E, também, utilizando propriedades `flex-item`, estas são sempre aplicadas em cada elemento que deseja manipular.
-
-<img src="https://github.com/Amanda-ribeiiro/ONE-T6/assets/108890154/c383d630-de52-4f51-8f17-f85074328325" width="400">
-<img src="https://github.com/Amanda-ribeiiro/ONE-T6/assets/108890154/71773ea4-7d5c-4c7d-8d23-ac95fbd4b685" width="200">
-
-### Flex-glow & Flex-shrink
-
-- A propriedade `flex-shrink` é ideal para ser aplicada quando queremos encolher elementos à medida que o seu container diminui de largura.
-> Com a propriedade `flex-shrink` quanto maior o valor inserido, mais este item irá encolher em relação aos seus itens irmãos. 
-- A propriedade `flex-grow`, que quanto maior o valor inserido, mais um item poderá crescer.
-> A propriedade `flex-grow` é utilizada para expandir itens proporcionalmente de acordo com o espaço disponível em um container.
-
-#### Opções de sites que são jogos para você aprender Flexbox se divertindo:
-- [Flexbox Defense](http://www.flexboxdefense.com/)
-- [Flexbox Froggy](https://flexboxfroggy.com/)
-- [Flexbox Zombies](https://mastery.games/flexboxzombies/)
-
-
-## References
-[Criando Layouts com CSS Grid Layout](https://www.alura.com.br/artigos/criando-layouts-com-css-grid-layout?_gl=1*gah19x*_ga*MjA2MTQxMDE1MS4xNjg1MDQyNjc1*_ga_1EPWSW3PCS*MTcxMjYxNDcyMi44Mi4xLjE3MTI2MjQ5NjQuMC4wLjA.*_fplc*bks0MzZGWVpPNzV1azIzanltQUtKbG5JMXZKNnJKcFBRaE1xQWZibiUyQlAzREhjemxGdldnZjd1R3RTdlVGQmM5cnZ5YU0wJTJGOVFya2JpRXJSM01QZzR5SEJ3b281S2tyRjRORFN2SWVOb0FLMCUyRjU1T1JLSzdWRHp3NnR3UE9nJTNEJTNE)
-
-[Reset CSS: O que é, exemplos, como Criar e usar](https://www.alura.com.br/artigos/o-que-e-reset-css?_gl=1*hfu5er*_ga*MjA2MTQxMDE1MS4xNjg1MDQyNjc1*_ga_1EPWSW3PCS*MTcxMjYxNDcyMi44Mi4xLjE3MTI2MTg3MTMuMC4wLjA.*_fplc*bks0MzZGWVpPNzV1azIzanltQUtKbG5JMXZKNnJKcFBRaE1xQWZibiUyQlAzREhjemxGdldnZjd1R3RTdlVGQmM5cnZ5YU0wJTJGOVFya2JpRXJSM01QZzR5SEJ3b281S2tyRjRORFN2SWVOb0FLMCUyRjU1T1JLSzdWRHp3NnR3UE9nJTNEJTNE)
-
-[Flexbox CSS: Guia Completo, Elementos e Exemplos](https://www.alura.com.br/artigos/css-guia-do-flexbox?_gl=1*108a77s*_ga*MjA2MTQxMDE1MS4xNjg1MDQyNjc1*_ga_1EPWSW3PCS*MTcxMjYxNDcyMi44Mi4xLjE3MTI2MTgzMDIuMC4wLjA.*_fplc*bks0MzZGWVpPNzV1azIzanltQUtKbG5JMXZKNnJKcFBRaE1xQWZibiUyQlAzREhjemxGdldnZjd1R3RTdlVGQmM5cnZ5YU0wJTJGOVFya2JpRXJSM01QZzR5SEJ3b281S2tyRjRORFN2SWVOb0FLMCUyRjU1T1JLSzdWRHp3NnR3UE9nJTNEJTNE)
-
-[A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-
+- [Artigo o que é o DOM](https://www.alura.com.br/artigos/o-que-e-o-dom?_gl=1*u9ib37*_ga*MjA2MTQxMDE1MS4xNjg1MDQyNjc1*_ga_1EPWSW3PCS*MTcxMjc4NzU2My44NC4xLjE3MTI3ODk3NjcuMC4wLjA.*_fplc*UUw2a0FjZEF0c0F0ciUyQmp4S2xGNlJDd04lMkJJSDJJYVolMkJaV044MG5kSkI1MmQ3OFd3T29waSUyRjZORGkzMGZ0aXN4Z293ZktnR0ZrVEZlbkw5R1pVVXMwOGJ2Rnd1RUFvdlRmd1p2WDI5andEc2I2V0o5UkFHS2Z5dmpHQ1F3MVElM0QlM0Q.#:~:text=A%2520tradu%25C3%25A7%25C3%25A3o%2520do%2520acr%25C3%25B4nimo%2520ingl%25C3%25AAs,modelagem%2520de%2520todo%2520o%2520HTML.s)
+- [Algoritmos e Lógica de programação: O que são e qual a importância?](https://www.alura.com.br/artigos/algoritmos-e-logica-de-programacao)
+- [CodePen](https://codepen.io/vanessametonini/pen/eYEVEqR)

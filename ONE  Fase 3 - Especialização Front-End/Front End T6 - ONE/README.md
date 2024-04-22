@@ -109,8 +109,8 @@
             <td align="center">3</td>
             <td align="center">10h</td>
             <td align="center">
-                <a href="" target="_blank">
-                    <img align="center" alt="Certificado: " src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=">
+                <a href="https://cursos.alura.com.br/certificate/amanda-ribeiro98/challenge-front-end-portfolio" target="_blank">
+                    <img align="center" alt="Certificado: " src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=https://cursos.alura.com.br/certificate/amanda-ribeiro98/challenge-front-end-portfolio">
                 </a>
             </td>
           </tr>
@@ -129,8 +129,8 @@
             <td align="center">5</td>
             <td align="center">10h</td>
             <td align="center">
-                <a href="" target="_blank">
-                    <img align="center" alt="Certificado: " src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=">
+                <a href="https://cursos.alura.com.br/certificate/amanda-ribeiro98/javascript-web-paginas-dinamicas" target="_blank">
+                    <img align="center" alt="Certificado: " src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=https://cursos.alura.com.br/certificate/amanda-ribeiro98/javascript-web-paginas-dinamicas">
                 </a>
             </td>
           </tr>

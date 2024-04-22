@@ -30,7 +30,7 @@
 <br>
 
 <div align="center">
-  <h1><a href="https://cursos.alura.com.br/course/javascript-web-paginas-dinamicas">JavaScript para Web: Crie páginas dinâmicas</a></h1>
+  <h1><a href="https://cursos.alura.com.br/course/javascript-manipulando-elementos-dom">JavaScript: manipulando elementos no DOM</a></h1>
       <table align="center">
         <thead>
           <tr>
@@ -43,39 +43,39 @@
         </thead>
         <tbody>
           <tr>
-            <td>Conhecendo o JavaScript</td>
+            <td>Iniciando o projeto Fokus</td>
             <td align=center>16/07/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/javascript-web-paginas-dinamicas/section/12902/tasks" target="_blank">acesso</a></td>
-            <td align="center">10</td>
-            <td align="center">29min</td>
-          </tr>
-          <tr>
-            <td>Funções</td>
-            <td align=center>16/07/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/javascript-web-paginas-dinamicas/section/12903/tasks" target="_blank">acesso</a></td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/javascript-manipulando-elementos-dom/section/17193/tasks" target="_blank">acesso</a></td>
             <td align="center">9</td>
-            <td align="center">22min</td>
+            <td align="center">21min</td>
           </tr>
           <tr>
-            <td>Listas</td>
+            <td>Manipulando elementos da página</td>
             <td align=center>16/07/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/javascript-web-paginas-dinamicas/section/12904/tasks" target="_blank">acesso</a></td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/javascript-manipulando-elementos-dom/section/17194/tasks" target="_blank">acesso</a></td>
+            <td align="center">9</td>
+            <td align="center">17min</td>
+          </tr>
+          <tr>
+            <td>Aplicando áudio e estilos</td>
+            <td align=center>16/07/24</td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/javascript-manipulando-elementos-dom/section/17195/tasks" target="_blank">acesso</a></td>
+            <td align="center">9</td>
+            <td align="center">11min</td>
+          </tr>
+          <tr>
+            <td>Desenvolvendo o temporizador</td>
+            <td align=center>16/07/24</td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/javascript-manipulando-elementos-dom/section/17196/tasks" target="_blank">acesso</a></td>
             <td align="center">8</td>
-            <td align="center">24min</td>
+            <td align="center">14min</td>
           </tr>
           <tr>
-            <td>Iterando em listas</td>
+            <td>Finalizando o projeto</td>
             <td align=center>16/07/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/javascript-web-paginas-dinamicas/section/12905/tasks" target="_blank">acesso</a></td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/javascript-manipulando-elementos-dom/section/17197/tasks" target="_blank">acesso</a></td>
             <td align="center">12</td>
-            <td align="center">49min</td>
-          </tr>
-          <tr>
-            <td>Eventos e lógicas</td>
-            <td align=center>16/07/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/javascript-web-paginas-dinamicas/section/12906/tasks" target="_blank">acesso</a></td>
-            <td align="center">14</td>
-            <td align="center">58min</td>
+            <td align="center">20min</td>
           </tr>
         </tbody>
       </table>  
@@ -91,8 +91,8 @@
     </summary>
     <br>
         <div align="center">
-            <a href="https://cursos.alura.com.br/certificate/amanda-ribeiro98/javascript-web-paginas-dinamicas" target="_blank">
-                <img src="https://github.com/Amanda-ribeiiro/ONE-T6/assets/108890154/3526e965-83a6-46ef-b389-b66606d17540" width=700 height=500 alt="Certificado">
+            <a href="https://cursos.alura.com.br/certificate/amanda-ribeiro98/javascript-manipulando-elementos-dom" target="_blank">
+                <img src="" width=700 height=500 alt="Certificado">
             </a>
         </div>
 </details>

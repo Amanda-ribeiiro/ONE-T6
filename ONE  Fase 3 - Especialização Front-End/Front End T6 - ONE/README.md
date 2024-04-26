@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=header"/>
+
 <div align=center>
     <a href="https://github.com/Amanda-ribeiiro/ONE-T6/blob/main/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/HTML%20e%20CSS%20ambientes%20de%20desenvolvimento%20estrutura%20de%20arquivos%20e%20tags/README.md"><img src="https://img.shields.io/badge/Idioma-Portugu%C3%AAs-green"></a>
     <a href="https://github.com/Amanda-ribeiiro/ONE-T6/blob/main/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/HTML%20e%20CSS%20ambientes%20de%20desenvolvimento%20estrutura%20de%20arquivos%20e%20tags/README.en.md"><img src="https://img.shields.io/badge/Language-English-blue"></a>
@@ -254,6 +256,7 @@
       </table>  
 </div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=footer"/>
 
 
 

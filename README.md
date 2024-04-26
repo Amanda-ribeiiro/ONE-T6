@@ -45,7 +45,7 @@
         </thead>
         <tbody>
           <tr>
-            <td><a href="https://github.com/Amanda-ribeiiro/ONE-T6/tree/main/Front%20End%20T6%20-%20ONE" target="_blank">ONE | Fase 3 - Especialização Front-End</a></td>
+            <td><a href="https://github.com/Amanda-ribeiiro/ONE-T6/tree/main/ONE%20%20Fase%203%20-%20Especializa%C3%A7%C3%A3o%20Front-End" target="_blank">ONE | Fase 3 - Especialização Front-End</a></td>
             <td align=center>16/07/2024</td>
             <td align="center"><a href="https://cursos.alura.com.br/corp/one-fase-3-especializacao-front-end-119651-p740913" target="_blank">link</a></td>
             <td align="center">4</td>
@@ -72,7 +72,7 @@
         </thead>
         <tbody>
           <tr>
-            <td><a href="https://github.com/Amanda-ribeiiro/ONE-T6/tree/main/Empreendedorismo%2C%20Agilidade%20e%20Protagonismo%20na%20Carreira" target="_blank">Empreendedorismo, Agilidade e Protagonismo na Carreira T6 - ONE</a></td>
+            <td><a href="https://github.com/Amanda-ribeiiro/ONE-T6/tree/main/ONE%20%20Fase%203%20-%20Especializa%C3%A7%C3%A3o%20Front-End/Empreendedorismo%2C%20Agilidade%20e%20Protagonismo%20na%20Carreira" target="_blank">Empreendedorismo, Agilidade e Protagonismo na Carreira T6 - ONE</a></td>
             <td align=center>16/07/2024</td>
             <td align="center"><a href="https://cursos.alura.com.br/formacao-empreendedorismo-e-agilidade-turma6-one" target="_blank">link</a></td>
             <td align="center">6</td>
@@ -127,7 +127,7 @@
         </thead>
         <tbody>
           <tr>
-            <td><a href="https://github.com/Amanda-ribeiiro/ONE-T6/tree/main/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Mergulhe%20em%20programa%C3%A7%C3%A3o%20com%20JavaScript" target="_blank">Lógica de programação: mergulhe em programação com JavaScript</a></td>
+            <td><a href="https://github.com/Amanda-ribeiiro/ONE-T6/tree/main/Iniciante%20em%20Programa%C3%A7%C3%A3o%20T6%20-%20ONE/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Mergulhe%20em%20programa%C3%A7%C3%A3o%20com%20JavaScript" target="_blank">Lógica de programação: mergulhe em programação com JavaScript</a></td>
             <td align=center>25/01/24</td>
             <td align="center"><a href="https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript" target="_blank">link</a></td>
             <td align="center">5</td>
@@ -139,7 +139,7 @@
             </td>
           </tr>
           <tr>
-            <td><a href="https://github.com/Amanda-ribeiiro/ONE-T6/tree/main/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Explore%20fun%C3%A7%C3%B5es%20e%20listas" target="_blank">Lógica de programação: explore funções e listas</a></td>
+            <td><a href="https://github.com/Amanda-ribeiiro/ONE-T6/tree/main/Iniciante%20em%20Programa%C3%A7%C3%A3o%20T6%20-%20ONE/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Explore%20fun%C3%A7%C3%B5es%20e%20listas" target="_blank">Lógica de programação: explore funções e listas</a></td>
             <td align=center>-</td>
             <td align="center"><a href="https://cursos.alura.com.br/course/logica-programacao-funcoes-listas" target="_blank">link</a></td>
             <td align="center">5</td>
@@ -151,7 +151,7 @@
             </td>
           </tr>
           <tr>
-            <td><a href="https://github.com/Amanda-ribeiiro/ONE-T6/tree/main/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Praticando%20com%20desafios" target="_blank">Lógica de programação: praticando com desafios</a></td>
+            <td><a href="https://github.com/Amanda-ribeiiro/ONE-T6/tree/main/Iniciante%20em%20Programa%C3%A7%C3%A3o%20T6%20-%20ONE/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Praticando%20com%20desafios" target="_blank">Lógica de programação: praticando com desafios</a></td>
             <td align=center>-</td>
             <td align="center"><a href="https://cursos.alura.com.br/course/logica-programacao-praticando-desafios" target="_blank">link</a></td>
             <td align="center">5</td>
@@ -163,7 +163,7 @@
             </td>
           </tr>
           <tr>
-            <td><a href="https://github.com/Amanda-ribeiiro/ONE-T6/tree/main/JavaScript/Pratique%20l%C3%B3gica%20com%20desenhos%2C%20anima%C3%A7%C3%B5es%20e%20um%20jogo" target="_blank">JavaScript e HTML: pratique lógica com desenhos, animações e um jogo</a></td>
+            <td><a href="https://github.com/Amanda-ribeiiro/ONE-T6/tree/main/Iniciante%20em%20Programa%C3%A7%C3%A3o%20T6%20-%20ONE/JavaScript/Pratique%20l%C3%B3gica%20com%20desenhos%2C%20anima%C3%A7%C3%B5es%20e%20um%20jogo" target="_blank">JavaScript e HTML: pratique lógica com desenhos, animações e um jogo</a></td>
             <td align=center>-</td>
             <td align="center"><a href="https://cursos.alura.com.br/course/logica-programacao-pratica-com-desenho-animacoes-em-jogo" target="_blank">link</a></td>
             <td align="center">5</td>
@@ -187,7 +187,7 @@
             </td>
           </tr>
           <tr>
-            <td><a href="https://github.com/Amanda-ribeiiro/ONE-T6/tree/main/Git%20e%20GitHub/Compartilhando%20e%20colaborando%20em%20projetos" target="_blank">Git e GitHub: compartilhando e colaborando em projetos</a></td>
+            <td><a href="https://github.com/Amanda-ribeiiro/ONE-T6/tree/main/Iniciante%20em%20Programa%C3%A7%C3%A3o%20T6%20-%20ONE/Git%20e%20GitHub" target="_blank">Git e GitHub: compartilhando e colaborando em projetos</a></td>
             <td align=center>-</td>
             <td align="center"><a href="https://cursos.alura.com.br/course/git-github-compartilhando-colaborando-projetos" target="_blank">link</a></td>
             <td align="center">5</td>

@@ -30,6 +30,66 @@ Os parâmetros são os nomes que damos a valores que uma função pode receber e
 
 As funções anônimas são bem úteis quando queremos executar alguma coisa uma única vez ou em apenas um lugar.
 
+## Trabalhando com atributos
+
+**getAttribute:**
+O método `getAttribute` é usado para obter o valor de um atributo específico de um elemento HTML. Ele recebe um argumento, que é o nome do atributo que desejamos recuperar o valor.
+
+```js
+// HTML: <div id="meuElemento" data-info="Exemplo de atributo">
+
+const elemento = document.getElementById('meuElemento');
+const valorDoAtributo = elemento.getAttribute('data-info');
+console.log(valorDoAtributo); // Saída: "Exemplo de atributo"
+```
+> O método `getAttribute` foi usado para obter o valor do atributo data-info do elemento com o ID "meuElemento".
+
+**setAttribute:**
+O método `setAttribute` é usado para definir ou modificar o valor de um atributo em um elemento HTML. Ele aceita dois argumentos: o primeiro é o nome do atributo que queremos definir ou modificar, e o segundo é o valor que queremos atribuir a esse atributo. Se o atributo já existir, o método `setAttribute` irá sobrescrevê-lo; caso contrário, ele criará um novo atributo.
+
+```js
+// HTML: <p id="meuParagrafo">Texto inicial</p>
+
+const paragrafo = document.getElementById('meuParagrafo');
+paragrafo.setAttribute('id', 'paragrafoModificado');
+paragrafo.setAttribute('data-novo-atributo', 'Novo valor');
+```
+> Após a execução deste código, o parágrafo terá seu ID alterado para "paragrafoModificado" e será adicionado um novo atributo data-novo-atributo com o valor "Novo valor".
+
+**:**
+
+
+```js
+```
+>
+
+**hasAttribute:**
+O método `hasAttribute` é usado para verificar se um elemento possui um atributo específico. Ele recebe um argumento, que é o nome do atributo que queremos verificar. O método retornará true se o atributo existir e false se o atributo não estiver presente.
+
+```js
+// HTML: <a href="https://www.exemplo.com" id="meuLink">Link de exemplo</a>
+
+const link = document.getElementById('meuLink');
+const temHref = link.hasAttribute('href');
+console.log(temHref); // Saída: true
+const temTarget = link.hasAttribute('target');
+console.log(temTarget); // Saída: false
+```
+> O método `hasAttribute` foi usado para verificar se o elemento com o ID "meuLink" possui o atributo "href" (que é verdadeiro) e se possui o atributo "target" (que é falso).
+
+**removeAttribute:**
+O método `removeAttribute` é usado para remover um atributo específico de um elemento HTML. Ele recebe um argumento, que é o nome do atributo que desejamos remover. 
+
+```js
+// HTML: <img src="imagem.jpg" alt="Imagem de exemplo" id="minhaImagem">
+
+
+const imagem = document.getElementById('minhaImagem');
+imagem.removeAttribute('alt');
+```
+> Após a execução desse código, o atributo alt da imagem será removido, tornando-a menos acessível para pessoas com deficiência visual e fazendo com que o navegador não exiba um texto alternativo quando a imagem não puder ser carregada.
+
+
 ## Referências
 
 - [Artigo o que é o DOM](https://www.alura.com.br/artigos/o-que-e-o-dom?_gl=1*u9ib37*_ga*MjA2MTQxMDE1MS4xNjg1MDQyNjc1*_ga_1EPWSW3PCS*MTcxMjc4NzU2My44NC4xLjE3MTI3ODk3NjcuMC4wLjA.*_fplc*UUw2a0FjZEF0c0F0ciUyQmp4S2xGNlJDd04lMkJJSDJJYVolMkJaV044MG5kSkI1MmQ3OFd3T29waSUyRjZORGkzMGZ0aXN4Z293ZktnR0ZrVEZlbkw5R1pVVXMwOGJ2Rnd1RUFvdlRmd1p2WDI5andEc2I2V0o5UkFHS2Z5dmpHQ1F3MVElM0QlM0Q.#:~:text=A%2520tradu%25C3%25A7%25C3%25A3o%2520do%2520acr%25C3%25B4nimo%2520ingl%25C3%25AAs,modelagem%2520de%2520todo%2520o%2520HTML.s)

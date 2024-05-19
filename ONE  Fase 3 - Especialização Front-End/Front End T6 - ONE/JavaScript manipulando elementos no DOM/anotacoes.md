@@ -89,6 +89,209 @@ imagem.removeAttribute('alt');
 ```
 > Após a execução desse código, o atributo alt da imagem será removido, tornando-a menos acessível para pessoas com deficiência visual e fazendo com que o navegador não exiba um texto alternativo quando a imagem não puder ser carregada.
 
+## Manipulando classes com ClassList
+Uma das tarefas comuns na manipulação da interface do usuário é a alteração de classes CSS de elementos HTML. Anteriormente, a forma tradicional de fazer isso era manipular a propriedade className, que envolvia trabalhar com strings e pode ser propenso a erros.  No entanto, **com a introdução do método `classList`, a partir do ECMAScript 5, essa tarefa se tornou mais fácil e segura.**
+
+**Adicionando uma classe: `add()`**
+Para adicionar uma classe a um elemento HTML, podemos usar o método `add()` do `classList`. Este método aceita o nome da classe como argumento e adiciona a classe ao elemento, se ela ainda não estiver presente.
+
+```js
+const element = document.getElementById('meuElemento');
+element.classList.add('minhaClasse');
+```
+
+**Removendo uma classe: `remove()`**
+Para remover uma classe de um elemento HTML, podemos utilizar o método `remove()` do `classList`. Este método aceita o nome da classe como argumento e remove a classe do elemento, se ela estiver presente.
+
+```js
+const element = document.getElementById('meuElemento');
+element.classList.remove('minhaClasse');
+```
+
+**Alternando uma classe: `toggle()`**
+O método `toggle()` do classList permite alternar uma classe em um elemento. Se a classe já estiver presente no elemento, o método a `remove`; caso contrário, ele a `adiciona`, conforme exemplo a seguir:
+
+```js
+const element = document.getElementById('meuElemento');
+element.classList.toggle('minhaClasse');
+```
+
+**Verificando se uma classe está presente: `contains()`**
+Para verificar se uma classe específica está associada a um elemento, podemos usar o método `contains()` do `classList`.
+
+```js
+const element = document.getElementById('meuElemento');
+if (element.classList.contains('minhaClasse')) {
+  // A classe 'minhaClasse' está presente no elemento
+  // Faça algo aqui...
+}
+```
+
+**Substituindo classes:**
+Como feito em aula, podemos substituir uma classe por outra usando os métodos `add()` e `remove()` em sequência.
+
+```js
+const element = document.getElementById('meuElemento');
+element.classList.remove('classeAntiga');
+element.classList.add('classeNova');
+```
+
+**Manipulando várias classes simultaneamente:**
+É possível adicionar ou remover várias classes de uma vez usando o método `add()` ou `remove()` passando vários argumentos separados por vírgula.
+
+```js
+const element = document.getElementById('meuElemento');
+element.classList.add('classe1', 'classe2', 'classe3');
+element.classList.remove('classe2', 'classe3');
+```
+
+## Utilizando áudio em páginas da web
+
+**Controles básicos de áudio**
+- `play()`: inicia a reprodução do áudio;
+- `pause()`: pausa a reprodução do áudio;
+- `currentTime`: propriedade que retorna ou define a posição atual de reprodução do áudio, em segundos;
+- `volume`: propriedade que retorna ou define o nível de volume do áudio, variando de 0 a 1.
+
+```js
+const audioElement = new Audio('caminho/do/arquivo-de-audio.mp3');
+
+audioElement.play(); // Inicia a reprodução
+audioElement.pause(); // Pausa a reprodução
+audioElement.currentTime = 10; // Move para 10 segundos no áudio
+audioElement.volume = 0.5; // Define o volume para metade (50%)
+```
+
+## Acessando dados com propriedades no DOM
+
+**Propriedade [parentNode](https://developer.mozilla.org/pt-BR/docs/Web/API/Node/parentNode)**
+A propriedade `parentNode` é utilizada para acessar o nó pai de um elemento no DOM. Por meio dela, podemos navegar pela árvore do DOM em direção ao nó pai do elemento atual.
+
+```html
+<div id="container">
+  <p>Este é um parágrafo</p>
+</div>
+```
+
+podemos usar o ‘parentNode’ para acessar o elemento pai do parágrafo:
+
+```js
+const paragraph = document.querySelector('p');
+const parentElement = paragraph.parentNode;
+
+console.log(parentElement.id); // Saída: "container"
+```
+
+**Propriedade [childNodes](https://developer.mozilla.org/pt-BR/docs/Web/API/Node/childNodes)**
+A propriedade `childNodes` é utilizada para acessar todos os nós filhos de um elemento no DOM. Ela retorna uma lista de nós, incluindo nós de texto e elementos HTML.
+
+```html
+<div id="container">
+  <p>Este é um parágrafo</p>
+</div>
+```
+
+```js
+const container = document.getElementById('container');
+const childNodes = container.childNodes;
+
+console.log(childNodes.length); // Saída: 1 (o nó de texto "\n  " é considerado um nó filho)
+console.log(childNodes[0].nodeName); // Saída: "#text"
+console.log(childNodes[1].nodeName); // Saída: "P"
+
+```
+
+
+
+**Propriedade [nextElementSibling](https://developer.mozilla.org/en-US/docs/Web/API/Element/nextElementSibling)**
+
+A propriedade `nextElementSibling` permite acessar o próximo irmão (nó adjacente) de um elemento no DOM.
+
+```html
+<ul>
+  <li>Item 1</li>
+  <li>Item 2</li>
+  <li>Item 3</li>
+</ul>
+```
+Agora, podemos usar o `nextElementSibling` para acessar o próximo irmão de um elemento `<li>`:
+
+```js
+const item1 = document.querySelector('li:first-child');
+const item2 = item1.nextElementSibling;
+
+console.log(item2.textContent); // Saída: "Item 2"
+```
+
+
+
+**Propriedade [previousElementSibling](https://developer.mozilla.org/en-US/docs/Web/API/Element/previousElementSibling)**
+A propriedade `previousElementSibling` é semelhante ao `nextElementSibling`, mas permite acessar o irmão anterior (nó adjacente) de um elemento no DOM.
+
+```html
+<ul>
+  <li>Item 1</li>
+  <li>Item 2</li>
+  <li>Item 3</li>
+</ul>
+```
+vamos usar o `previousElementSibling` para acessar o irmão anterior do elemento `<li>` que selecionamos:
+
+```js
+const item3 = document.querySelector('li:last-child');
+const item2 = item3.previousElementSibling;
+
+console.log(item2.textContent); // Saída: "Item 2"
+```
+
+## Objeto Date
+Para criar uma instância do objeto ‘Date’, pode usar uma das várias formas de construção:
+
+**Construtor sem argumentos:**
+
+```js
+const dataAtual = new Date();
+```
+
+**Construtor com argumentos (ano, mês, dia, hora, minuto, segundo, milissegundo):**
+
+```js
+const dataEspecifica = new Date(2023, 7, 3, 12, 30, 0, 0);
+```
+
+**Construtor com uma string que representa a data (formato padrão é "yyyy-mm-dd"):**
+
+```js
+const dateString = "2023-08-03";
+const formatoDeData = new Date(dateString);
+```
+
+Uma vez criado um objeto Date, podemos acessar informações específicas da data e hora, como o ano, mês, dia, hora, minuto e segundo usando os métodos de acesso do objeto:
+
+```js
+const currentDate = new Date();
+
+const ano = currentDate.getFullYear();  // Acessa o ano
+const mês = currentDate.getMonth(); // Acessa o mês - Janeiro é 0, Fevereiro é 1, ..., Dezembro é 11
+const dia = currentDate.getDate(); // Acessa o dia
+const horas = currentDate.getHours(); // Acessa as horas 
+const minutos = currentDate.getMinutes(); // Acessa os minutos
+const segundos = currentDate.getSeconds(); // Acessa os segundos
+const milissegundos = currentDate.getMilliseconds();  // Acessa os milissegundos 
+```
+
+também pode modificar a data e hora usando os métodos de definição:
+
+```js
+const data = new Date();
+
+data.setFullYear(2024);  // Define o ano
+data.setMonth(10); // Define o mês
+data.setDate(25); // Define o dia
+data.setHours(10);  // Define as horas
+data.setMinutes(30); // Define os minutos
+data.setSeconds(0); // Define os segundos
+```
 
 ## Referências
 

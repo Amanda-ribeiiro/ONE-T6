@@ -94,7 +94,7 @@
     <br>
         <div align="center">
             <a href="https://cursos.alura.com.br/certificate/amanda-ribeiro98/javascript-manipulando-elementos-dom" target="_blank">
-                <img src="" width=700 height=500 alt="Certificado">
+                <img src="https://github.com/Amanda-ribeiiro/ONE-T6/assets/108890154/62c7d207-225c-4e71-a875-9833f3fc2357" width=700 height=500 alt="Certificado">
             </a>
         </div>
 </details>

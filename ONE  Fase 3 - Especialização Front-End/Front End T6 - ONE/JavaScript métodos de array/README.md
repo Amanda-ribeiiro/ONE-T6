@@ -21,7 +21,7 @@
 
 
 <div align="center">
-    <a href="https://cursos.alura.com.br/dashboard" target="_blank">
+    <a href="https://cursos.alura.com.br/course/javascript-metodos-array" target="_blank">
         <img src="https://img.shields.io/badge/▶-2a2a2a?style=for-the-badge&logo=movie&logoColor=2a2a2a" target="_blank" alt="logo movie" />
         <img src="https://img.shields.io/badge/Acessar%20o%20Curso%20na%20Plataforma-DE8B36?style=for-the-badge" target="_blank" alt="Link do Curso" />
     </a>
@@ -30,7 +30,7 @@
 <br>
 
 <div align="center">
-  <h1><a href="https://cursos.alura.com.br/course/css-flexbox-layouts-responsivos">Javascript Métodos com Array</a></h1>
+  <h1><a href="https://cursos.alura.com.br/course/javascript-metodos-array">Javascript Métodos com Array</a></h1>
       <table align="center">
         <thead>
           <tr>
@@ -43,30 +43,30 @@
         </thead>
         <tbody>
           <tr>
-            <td>Conhecendo o poder do Flexbox</td>
+            <td>ForEach: função para cada elemento</td>
             <td align=center>16/07/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/css-flexbox-layouts-responsivos/section/14435/tasks" target="_blank">acesso</a></td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/javascript-metodos-array/section/14143/tasks" target="_blank">acesso</a></td>
             <td align="center">9</td>
-            <td align="center">13min</td>
+            <td align="center">27min</td>
           </tr>
           <tr>
-            <td>Criando ícones clicáveis</td>
+            <td>Map: novo array modificado</td>
             <td align=center>16/07/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/html-css-cabecalho-footer-variaveis-css/section/15292/tasks" target="_blank">acesso</a></td>
-            <td align="center">11</td>
-            <td align="center">13min</td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/javascript-metodos-array/section/14144/tasks" target="_blank">acesso</a></td>
+            <td align="center">6</td>
+            <td align="center">10min</td>
           </tr>
           <tr>
-            <td>Rodapé responsivo</td>
+            <td>Filter: aplicando diferentes filtros</td>
             <td align=center>16/07/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/css-flexbox-layouts-responsivos/section/14436/tasks" target="_blank">acesso</a></td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/javascript-metodos-array/section/14145/tasks" target="_blank">acesso</a></td>
             <td align="center">8</td>
-            <td align="center">14min</td>
+            <td align="center">24min</td>
           </tr>
           <tr>
-            <td>Menu mobile-first</td>
+            <td>Sort: ordenando a lista</td>
             <td align=center>16/07/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/css-flexbox-layouts-responsivos/section/14437/tasks" target="_blank">acesso</a></td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/javascript-metodos-array/section/14146/tasks" target="_blank">acesso</a></td>
             <td align="center">10</td>
             <td align="center">15min</td>
           </tr>
@@ -75,14 +75,14 @@
             <td align=center>16/07/24</td>
             <td align="center"><a href="https://cursos.alura.com.br/course/css-flexbox-layouts-responsivos/section/14438/tasks" target="_blank">acesso</a></td>
             <td align="center">8</td>
-            <td align="center">13min</td>
+            <td align="center">23min</td>
           </tr>
           <tr>
-            <td>Vídeos flex-grow</td>
+            <td>Reduce: um único valor</td>
             <td align=center>16/07/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/css-flexbox-layouts-responsivos/section/14439/tasks" target="_blank">acesso</a></td>
-            <td align="center">11</td>
-            <td align="center">14min</td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/javascript-metodos-array/section/14147/tasks" target="_blank">acesso</a></td>
+            <td align="center">9</td>
+            <td align="center">17min</td>
           </tr>
         </tbody>
       </table>  
@@ -98,8 +98,8 @@
     </summary>
     <br>
         <div align="center">
-            <a href="https://cursos.alura.com.br/certificate/amanda-ribeiro98/css-flexbox-layouts-responsivos" target="_blank">
-                <img src="https://github.com/Amanda-ribeiiro/ONE-T6/assets/108890154/eeba1e2a-d0ed-4755-a179-217405d15ad0" width=700 height=500 alt="Certificado">
+            <a href="" target="_blank">
+                <img src="" width=700 height=500 alt="Certificado">
             </a>
         </div>
 </details>

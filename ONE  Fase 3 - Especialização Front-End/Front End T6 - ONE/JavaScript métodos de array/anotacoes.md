@@ -4,4 +4,8 @@
 
 > `map`
 
+
+### Reduce
+> `reduce`
+
 ## References

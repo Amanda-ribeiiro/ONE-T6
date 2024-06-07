@@ -32,7 +32,7 @@
 <br>
 
 <div align="center">
-  <h1><a href="https://cursos.alura.com.br/course/javascript-manipulando-elementos-dom">JavaScript: manipulando elementos no DOM</a></h1>
+  <h1><a href="https://cursos.alura.com.br/course/java-script-consumindo-tratando-dados-de-uma-api">JavaScript consumindo e tratando dados de uma API</a></h1>
       <table align="center">
         <thead>
           <tr>
@@ -45,39 +45,39 @@
         </thead>
         <tbody>
           <tr>
-            <td>Iniciando o projeto Fokus</td>
+            <td>Entendendo o Javascript</td>
             <td align=center>16/07/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/javascript-manipulando-elementos-dom/section/17193/tasks" target="_blank">acesso</a></td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/java-script-consumindo-tratando-dados-de-uma-api/section/18493/tasks" target="_blank">acesso</a></td>
             <td align="center">9</td>
-            <td align="center">21min</td>
+            <td align="center">19min</td>
           </tr>
           <tr>
-            <td>Manipulando elementos da página</td>
+            <td>Aplicando a assincronicidade</td>
             <td align=center>16/07/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/javascript-manipulando-elementos-dom/section/17194/tasks" target="_blank">acesso</a></td>
-            <td align="center">9</td>
-            <td align="center">17min</td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/java-script-consumindo-tratando-dados-de-uma-api/section/18494/tasks" target="_blank">acesso</a></td>
+            <td align="center">8</td>
+            <td align="center">12min</td>
           </tr>
           <tr>
-            <td>Aplicando áudio e estilos</td>
+            <td>Aprofundando em promises</td>
             <td align=center>16/07/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/javascript-manipulando-elementos-dom/section/17195/tasks" target="_blank">acesso</a></td>
-            <td align="center">9</td>
-            <td align="center">11min</td>
-          </tr>
-          <tr>
-            <td>Desenvolvendo o temporizador</td>
-            <td align=center>16/07/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/javascript-manipulando-elementos-dom/section/17196/tasks" target="_blank">acesso</a></td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/java-script-consumindo-tratando-dados-de-uma-api/section/18495/tasks" target="_blank">acesso</a></td>
             <td align="center">8</td>
             <td align="center">14min</td>
           </tr>
           <tr>
-            <td>Finalizando o projeto</td>
+            <td>Criando funções assíncronas</td>
             <td align=center>16/07/24</td>
-            <td align="center"><a href="https://cursos.alura.com.br/course/javascript-manipulando-elementos-dom/section/17197/tasks" target="_blank">acesso</a></td>
-            <td align="center">12</td>
-            <td align="center">20min</td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/java-script-consumindo-tratando-dados-de-uma-api/section/18496/tasks" target="_blank">acesso</a></td>
+            <td align="center">8</td>
+            <td align="center">15min</td>
+          </tr>
+          <tr>
+            <td>Manipulando formulários</td>
+            <td align=center>16/07/24</td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/java-script-consumindo-tratando-dados-de-uma-api/section/18497/tasks" target="_blank">acesso</a></td>
+            <td align="center">11</td>
+            <td align="center">16min</td>
           </tr>
         </tbody>
       </table>  
@@ -93,8 +93,8 @@
     </summary>
     <br>
         <div align="center">
-            <a href="https://cursos.alura.com.br/certificate/amanda-ribeiro98/javascript-manipulando-elementos-dom" target="_blank">
-                <img src="https://github.com/Amanda-ribeiiro/ONE-T6/assets/108890154/62c7d207-225c-4e71-a875-9833f3fc2357" width=700 height=500 alt="Certificado">
+            <a href="" target="_blank">
+                <img src="h" width=700 height=500 alt="Certificado">
             </a>
         </div>
 </details>

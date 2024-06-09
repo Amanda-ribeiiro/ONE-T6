@@ -81,3 +81,4 @@ buscarEndereco();
 - [HTTP Cats](https://http.cat/)
 - [Começando com fetch no Javascript](https://www.alura.com.br/artigos/comecando-com-fetch-no-javascript?_gl=1*r3gib4*_ga*MTg4Mzg1ODg3OS4xNzEzNDA2NTEy*_ga_1EPWSW3PCS*MTcxNzk1MTI5Mi4zNC4xLjE3MTc5NTY4NzYuMC4wLjA.)
 - [Hoisting no Javascript](https://www.alura.com.br/artigos/hoisting-no-javascript?_gl=1*kon7pl*_ga*MTg4Mzg1ODg3OS4xNzEzNDA2NTEy*_ga_1EPWSW3PCS*MTcxNzk1MTI5Mi4zNC4xLjE3MTc5NTM0MTMuMC4wLjA.)
+- [HTTP: GET e POST - Conheça as diferenças entre os métodos](https://www.alura.com.br/artigos/diferencas-entre-get-e-post)

@@ -71,4 +71,13 @@ async function buscarEndereco () {
 buscarEndereco();
 ```
 
-> O async/await apesar de ser uma opção mais "legível" ao .then() é importante frisar que não são logicamente equivalentes: o async/await faz o processamento de forma sequencial, Promises com .then() são processadas em paralelo, o que faz com que este método seja mais rápido. O async/await simplifica a escrita e a interpretação do código, mas não é tão flexível e só funciona com uma Promise por vez. [Async/await no JavaScript: o que é e quando usar a programação assíncrona?](https://www.alura.com.br/artigos/async-await-no-javascript-o-que-e-e-quando-usar?_gl=1*1a5vf33*_ga*MTg4Mzg1ODg3OS4xNzEzNDA2NTEy*_ga_1EPWSW3PCS*MTcxNzk1MTI5Mi4zNC4xLjE3MTc5NTc4OTEuMC4wLjA.)
+> O async/await apesar de ser uma opção mais "legível" ao .then() é importante frisar que não são logicamente equivalentes: o async/await faz o processamento de forma sequencial, Promises com .then() são processadas em paralelo, o que faz com que este método seja mais rápido. O async/await simplifica a escrita e a interpretação do código, mas não é tão flexível e só funciona com uma Promise por vez. 
+
+## Referências
+
+- [10 Heurísticas de Nielsen. Uma fórmula pra evitar erros básicos de usabilidade](https://www.alura.com.br/artigos/10-heuristicas-de-nielsen-uma-formula-pra-evitar-erros-basicos-de-usabilidade?_gl=1*fou6t8*_ga*MTg4Mzg1ODg3OS4xNzEzNDA2NTEy*_ga_1EPWSW3PCS*MTcxNzk2MDYyOS4zNS4xLjE3MTc5NjE2NTguMC4wLjA.)
+- [Async/await no JavaScript: o que é e quando usar a programação assíncrona?](https://www.alura.com.br/artigos/async-await-no-javascript-o-que-e-e-quando-usar?_gl=1*1a5vf33*_ga*MTg4Mzg1ODg3OS4xNzEzNDA2NTEy*_ga_1EPWSW3PCS*MTcxNzk1MTI5Mi4zNC4xLjE3MTc5NTc4OTEuMC4wLjA.)
+- [Arrow Function do JavaScript](https://www.youtube.com/watch?v=3EkS9-P3cIM)
+- [HTTP Cats](https://http.cat/)
+- [Começando com fetch no Javascript](https://www.alura.com.br/artigos/comecando-com-fetch-no-javascript?_gl=1*r3gib4*_ga*MTg4Mzg1ODg3OS4xNzEzNDA2NTEy*_ga_1EPWSW3PCS*MTcxNzk1MTI5Mi4zNC4xLjE3MTc5NTY4NzYuMC4wLjA.)
+- [Hoisting no Javascript](https://www.alura.com.br/artigos/hoisting-no-javascript?_gl=1*kon7pl*_ga*MTg4Mzg1ODg3OS4xNzEzNDA2NTEy*_ga_1EPWSW3PCS*MTcxNzk1MTI5Mi4zNC4xLjE3MTc5NTM0MTMuMC4wLjA.)

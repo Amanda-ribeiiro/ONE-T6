@@ -31,7 +31,7 @@
 <br>
 <br>
 
-<img src="">
+<img src="https://github.com/Amanda-ribeiiro/ONE-T6/blob/main/ONE%20%20Fase%203%20-%20Especializa%C3%A7%C3%A3o%20Front-End/Front%20End%20T6%20-%20ONE/JavaScript%20consumindo%20e%20tratando%20dados%20de%20uma%20API/js-consumindo-dados-api-main/books.gif">
 
 ## Funcionalidades
 

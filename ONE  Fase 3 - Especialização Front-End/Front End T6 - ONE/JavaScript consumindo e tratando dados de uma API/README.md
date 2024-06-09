@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=header"/>
 
 <div align=center>
-    <a href="https://github.com/Amanda-ribeiiro/ONE-T6/blob/main/ONE%20%20Fase%203%20-%20Especializa%C3%A7%C3%A3o%20Front-End/Front%20End%20T6%20-%20ONE/JavaScript%20manipulando%20elementos%20no%20DOM/README.md"><img src="https://img.shields.io/badge/Idioma-Portugu%C3%AAs-green"></a>
-    <a href="https://github.com/Amanda-ribeiiro/ONE-T6/blob/main/ONE%20%20Fase%203%20-%20Especializa%C3%A7%C3%A3o%20Front-End/Front%20End%20T6%20-%20ONE/JavaScript%20manipulando%20elementos%20no%20DOM/README.en.md"><img src="https://img.shields.io/badge/Language-English-blue"></a>
+    <a href="https://github.com/Amanda-ribeiiro/ONE-T6/blob/main/ONE%20%20Fase%203%20-%20Especializa%C3%A7%C3%A3o%20Front-End/Front%20End%20T6%20-%20ONE/JavaScript%20consumindo%20e%20tratando%20dados%20de%20uma%20API/README.md"><img src="https://img.shields.io/badge/Idioma-Portugu%C3%AAs-green"></a>
+    <a href="https://github.com/Amanda-ribeiiro/ONE-T6/blob/main/ONE%20%20Fase%203%20-%20Especializa%C3%A7%C3%A3o%20Front-End/Front%20End%20T6%20-%20ONE/JavaScript%20consumindo%20e%20tratando%20dados%20de%20uma%20API/README.en.md"><img src="https://img.shields.io/badge/Language-English-blue"></a>
 </div>
 
 <br>

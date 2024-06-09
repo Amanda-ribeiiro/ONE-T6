@@ -93,8 +93,8 @@
     </summary>
     <br>
         <div align="center">
-            <a href="" target="_blank">
-                <img src="h" width=700 height=500 alt="Certificado">
+            <a href="https://cursos.alura.com.br/certificate/amanda-ribeiro98/java-script-consumindo-tratando-dados-de-uma-api?lang=es" target="_blank">
+                <img src="https://github.com/Amanda-ribeiiro/ONE-T6/assets/108890154/b2773ac6-d437-4247-ba84-98927d3dc384" width=700 height=500 alt="Certificado">
             </a>
         </div>
 </details>

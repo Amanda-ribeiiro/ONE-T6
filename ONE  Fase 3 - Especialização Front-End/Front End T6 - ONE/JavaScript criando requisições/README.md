@@ -97,8 +97,8 @@
     </summary>
     <br>
         <div align="center">
-            <a href="" target="_blank">
-                <img src="" width=700 height=500 alt="Certificado">
+            <a href="https://cursos.alura.com.br/certificate/amanda-ribeiro98/javascript-criando-requisicoes" target="_blank">
+                <img src="image.png" width=700 height=500 alt="Certificado">
             </a>
         </div>
 </details>

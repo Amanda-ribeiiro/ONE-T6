@@ -91,8 +91,8 @@
     </summary>
     <br>
         <div align="center">
-            <a href="" target="_blank">
-                <img src="" width=700 height=500 alt="Certificado">
+            <a href="https://cursos.alura.com.br/user/amanda-ribeiro98/course/javascript-validando-formularios/certificate" target="_blank">
+                <img src="image.png" width=700 height=500 alt="Certificado">
             </a>
         </div>
 </details>

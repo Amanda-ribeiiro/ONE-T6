@@ -151,8 +151,8 @@
             <td align="center">3</td>
             <td align="center">10h</td>
             <td align="center">
-                <a href="" target="_blank">
-                    <img align="center" alt="Certificado: " src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=">
+                <a href="https://cursos.alura.com.br/user/amanda-ribeiro98/course/challenge-front-end-portfolio/certificate" target="_blank">
+                    <img align="center" alt="Certificado: " src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=https://cursos.alura.com.br/user/amanda-ribeiro98/course/challenge-front-end-portfolio/certificate">
                 </a>
             </td>
           </tr>
@@ -163,8 +163,8 @@
             <td align="center">5</td>
             <td align="center">6h</td>
             <td align="center">
-                <a href="" target="_blank">
-                    <img align="center" alt="Certificado: " src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=">
+                <a href="https://cursos.alura.com.br/user/amanda-ribeiro98/course/javascript-manipulando-elementos-dom/certificate" target="_blank">
+                    <img align="center" alt="Certificado: " src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=https://cursos.alura.com.br/user/amanda-ribeiro98/course/javascript-manipulando-elementos-dom/certificate">
                 </a>
             </td>
           </tr>
@@ -183,8 +183,8 @@
             <td align="center">5</td>
             <td align="center">8h</td>
             <td align="center">
-                <a href="" target="_blank">
-                    <img align="center" alt="Certificado: " src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=">
+                <a href="https://cursos.alura.com.br/user/amanda-ribeiro98/course/javascript-metodos-array/certificate" target="_blank">
+                    <img align="center" alt="Certificado: " src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=https://cursos.alura.com.br/user/amanda-ribeiro98/course/javascript-metodos-array/certificate">
                 </a>
             </td>
           </tr>
@@ -195,8 +195,8 @@
             <td align="center">5</td>
             <td align="center">6h</td>
             <td align="center">
-                <a href="" target="_blank">
-                    <img align="center" alt="Certificado: " src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=">
+                <a href="https://cursos.alura.com.br/user/amanda-ribeiro98/course/javascript-metodos-array/certificate" target="_blank">
+                    <img align="center" alt="Certificado: " src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=https://cursos.alura.com.br/user/amanda-ribeiro98/course/javascript-metodos-array/certificate">
                 </a>
             </td>
           </tr>
@@ -215,8 +215,8 @@
             <td align="center">5</td>
             <td align="center">8h</td>
             <td align="center">
-                <a href="" target="_blank">
-                    <img align="center" alt="Certificado: " src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=">
+                <a href="https://cursos.alura.com.br/user/amanda-ribeiro98/course/javascript-criando-requisicoes/certificate" target="_blank">
+                    <img align="center" alt="Certificado: " src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=https://cursos.alura.com.br/user/amanda-ribeiro98/course/javascript-criando-requisicoes/certificate">
                 </a>
             </td>
           </tr>
@@ -235,8 +235,8 @@
             <td align="center">5</td>
             <td align="center">8h</td>
             <td align="center">
-                <a href="" target="_blank">
-                    <img align="center" alt="Certificado: " src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=">
+                <a href="https://cursos.alura.com.br/user/amanda-ribeiro98/course/javascript-validando-formularios/certificate" target="_blank">
+                    <img align="center" alt="Certificado: " src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=https://cursos.alura.com.br/user/amanda-ribeiro98/course/javascript-validando-formularios/certificate">
                 </a>
             </td>
           </tr>
@@ -247,8 +247,8 @@
             <td align="center">3</td>
             <td align="center">15h</td>
             <td align="center">
-                <a href="" target="_blank">
-                    <img align="center" alt="Certificado: " src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=">
+                <a href="https://cursos.alura.com.br/user/amanda-ribeiro98/course/praticando-front-end-challenge-alurageek/certificate" target="_blank">
+                    <img align="center" alt="Certificado: " src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=["](https://cursos.alura.com.br/user/amanda-ribeiro98/course/praticando-front-end-challenge-alurageek/certificate)>
                 </a>
             </td>
           </tr>

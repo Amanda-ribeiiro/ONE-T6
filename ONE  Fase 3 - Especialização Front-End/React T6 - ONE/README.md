@@ -29,7 +29,7 @@
 
 <br>
 
-<div align=center>
+<div align="center">
   <h1><a href="https://cursos.alura.com.br/formacao-react-turma6-one">React T6 - ONE</a></h1>
       <table align="center">
         <thead>
@@ -90,8 +90,8 @@
             <td align="center">5</td>
             <td align="center">14h</td>
             <td align="center">
-                <a href="">
-                    <img align="center" alt="Certificado" src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=">
+                <a href="" target="_blank">
+                    <img align="center" alt="Certificado: " src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=">
                 </a>
             </td>
           </tr>
@@ -102,8 +102,8 @@
             <td align="center">6</td>
             <td align="center">8h</td>
             <td align="center">
-                <a href="">
-                    <img align="center" alt="Certificado" src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=">
+                <a href="" target="_blank">
+                    <img align="center" alt="Certificado: " src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=">
                 </a>
             </td>
           </tr>
@@ -146,8 +146,8 @@
             <td align="center">5</td>
             <td align="center">8h</td>
             <td align="center">
-                <a href="">
-                    <img align="center" alt="Certificado" src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=">
+                <a href="" target="_blank">
+                    <img align="center" alt="Certificado: " src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=">
                 </a>
             </td>
           </tr>
@@ -158,8 +158,8 @@
             <td align="center">5</td>
             <td align="center">10h</td>
             <td align="center">
-                <a href="">
-                    <img align="center" alt="Certificado" src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=">
+                <a href="" target="_blank">
+                    <img align="center" alt="Certificado: " src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=">
                 </a>
             </td>
           </tr>
@@ -194,8 +194,32 @@
             <td align="center">5</td>
             <td align="center">8h</td>
             <td align="center">
-                <a href="">
-                    <img align="center" alt="Certificado" src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=">
+                <a href="" target="_blank">
+                    <img align="center" alt="Certificado: " src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=">
+                </a>
+            </td>
+          </tr>
+          <tr>
+            <td>React: praticando React com Js</td>
+            <td align=center>16/07/2024</td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/react-praticando-react-js" target="_blank">acesso</a></td>
+            <td align="center">5</td>
+            <td align="center">8h</td>
+            <td align="center">
+                <a href="" target="_blank">
+                    <img align="center" alt="Certificado: " src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=">
+                </a>
+            </td>
+          </tr>
+          <tr>
+            <td>Praticando React: Challenge AluraFlix</td>
+            <td align=center>16/07/2024</td>
+            <td align="center"><a href="https://cursos.alura.com.br/course/praticando-react-challenge-aluraflix" target="_blank">acesso</a></td>
+            <td align="center">3</td>
+            <td align="center">20h</td>
+            <td align="center">
+                <a href="" target="_blank">
+                    <img align="center" alt="Certificado: " src="https://img.shields.io/badge/Certificado-A435F0?style=for-the-badge&link=">
                 </a>
             </td>
           </tr>

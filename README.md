@@ -270,7 +270,7 @@
         </thead>
         <tbody>
           <tr>
-            <td><a href="https://github.com/Amanda-ribeiiro/ONE-T6/tree/main/ONE%20%20Fase%203%20-%20Especializa%C3%A7%C3%A3o%20Front-End" target="_blank">React T6 - ONE</a></td>
+            <td><a href="https://github.com/Amanda-ribeiiro/ONE-T6/tree/main/ONE%20%20Fase%203%20-%20Especializa%C3%A7%C3%A3o%20Front-End/React%20T6%20-%20ONE" target="_blank">React T6 - ONE</a></td>
             <td align=center>16/07/2024</td>
             <td align="center"><a href="https://cursos.alura.com.br/formacao-react-turma6-one" target="_blank">link</a></td>
             <td align="center">7</td>

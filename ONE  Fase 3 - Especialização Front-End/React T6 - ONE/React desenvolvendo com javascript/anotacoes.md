@@ -147,12 +147,12 @@ Essa é uma prática tão comum que existe um jeito mais simples de usá-lo. Em 
 
 ## Referências
 
-[Designer](https://www.figma.com/design/T6BLI1HfB81eYOiVgpqQz7/Projeto-Intro-ao-React?node-id=134-128&t=VrhN3ohahfTBU92b-0)
-[Quando (e por que) usar as arrow functions da ES6 — e quando não as usar](https://www.freecodecamp.org/portuguese/news/quando-e-por-que-usar-as-arrow-functions-da-es6-e-quando-nao-as-usar/)
-[Classes do ES6](https://cursos.alura.com.br/course/javascript-orientacao-a-objetos)
-[documentação componentes baseado em classes](https://pt-br.react.dev/reference/react/Component#defining-a-class-component)
-[Para saber mais: Node.JS](https://www.hipsters.tech/o-que-e-node-js/)
-[JavaScript: Quando devo usar forEach e map](https://www.alura.com.br/artigos/javascript-quando-devo-usar-foreach-e-map)
-[Prop Drilling: o que é?](https://www.alura.com.br/artigos/prop-drilling-no-react-js)
-[mui react](https://mui.com/)
-[ant react](https://ant.design/docs/react/introduce)
+- [Designer](https://www.figma.com/design/T6BLI1HfB81eYOiVgpqQz7/Projeto-Intro-ao-React?node-id=134-128&t=VrhN3ohahfTBU92b-0)
+- [Quando (e por que) usar as arrow functions da ES6 — e quando não as usar](https://www.freecodecamp.org/portuguese/news/quando-e-por-que-usar-as-arrow-functions-da-es6-e-quando-nao-as-usar/)
+- [Classes do ES6](https://cursos.alura.com.br/course/javascript-orientacao-a-objetos)
+- [documentação componentes baseado em classes](https://pt-br.react.dev/reference/react/Component#defining-a-class-component)
+- [Para saber mais: Node.JS](https://www.hipsters.tech/o-que-e-node-js/)
+- [JavaScript: Quando devo usar forEach e map](https://www.alura.com.br/artigos/javascript-quando-devo-usar-foreach-e-map)
+- [Prop Drilling: o que é?](https://www.alura.com.br/artigos/prop-drilling-no-react-js)
+- [mui react](https://mui.com/)
+- [ant react](https://ant.design/docs/react/introduce)
